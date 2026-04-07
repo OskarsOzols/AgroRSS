@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.linasagro.lv)",
+      "WebFetch(domain:zemniekusaeima.lv)",
+      "WebFetch(domain:mbasic.facebook.com)",
+      "WebFetch(domain:www.lad.gov.lv)",
+      "WebFetch(domain:www.zm.gov.lv)",
+      "WebFetch(domain:www.saimnieks.lv)",
+      "WebFetch(domain:www.vaad.gov.lv)",
+      "WebFetch(domain:llkc.lv)",
+      "WebFetch(domain:www.lbla.lv)",
+      "WebFetch(domain:www.arei.lv)",
+      "WebFetch(domain:www.vaks.lv)",
+      "WebFetch(domain:www.scandagra.lv)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 scraper.py)"
+    ]
+  }
+}
