@@ -863,7 +863,7 @@ def main():
     # Pielāgojiet šo URL jūsu GitHub Pages URL
     feed_url = os.environ.get(
         "FEED_URL",
-        "https://example.github.io/rss-reader/feed.xml",
+        "https://oskarsozols.github.io/AgroRSS/feed.xml",
     )
     xml_content = build_feed(all_articles, feed_url)
 
