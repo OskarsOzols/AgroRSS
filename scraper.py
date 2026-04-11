@@ -596,43 +596,27 @@ def fetch_scrape_source(source: dict) -> List[Dict]:
 
 
 # ---------------------------------------------------------------------------
-# Facebook Graph API
+# Facebook — Apify Facebook Posts Scraper
 # ---------------------------------------------------------------------------
 # Lai izmantotu, nepieciešams:
-#   1) Izveidot Facebook App: https://developers.facebook.com/apps/
-#   2) Iegūt Access Token (User Token vai Page Token)
-#   3) Iestatīt kā vides mainīgo FACEBOOK_ACCESS_TOKEN
-#      (GitHub Actions: Settings → Secrets → FACEBOOK_ACCESS_TOKEN)
+#   1) Izveidot Apify kontu: https://apify.com/
+#   2) Iegūt API tokenu: https://console.apify.com/account/integrations
+#   3) Iestatīt kā vides mainīgo APIFY_API_TOKEN
+#      (GitHub Actions: Settings → Secrets → APIFY_API_TOKEN)
 #
-# Token veidi:
-#   - Short-lived User Token: derīgs ~1-2h (testēšanai)
-#   - Long-lived User Token: derīgs ~60 dienas
-#   - Page Token no long-lived User Token: BEZTERMIŅA (ieteicams!)
-#
-# Kā iegūt beztermiņa Page Token:
-#   1) Graph API Explorer: iegūstiet User Token ar pages_show_list,
-#      pages_read_engagement atļaujām
-#   2) Apmainiet pret long-lived:
-#      GET /oauth/access_token?grant_type=fb_exchange_token
-#        &client_id={APP_ID}&client_secret={APP_SECRET}
-#        &fb_exchange_token={SHORT_TOKEN}
-#   3) Iegūstiet Page Token:
-#      GET /me/accounts?access_token={LONG_LIVED_USER_TOKEN}
-#      (Page Token, kas iegūts no long-lived User Token, ir beztermiņa)
-#
-# Ja nav admin piekļuve lapai, var izmantot App Access Token
-# (APP_ID|APP_SECRET), bet tas dod piekļuvi tikai publiskajiem datiem
-# un Facebook to ierobežo — ne vienmēr atgriež ierakstus.
+# Izmanto Apify aktoru "apify/facebook-posts-scraper", kas scrapē
+# publiskās Facebook lapas bez nepieciešamības pēc Facebook API tokena.
 # ---------------------------------------------------------------------------
 
-GRAPH_API_VERSION = "v21.0"
-GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
+APIFY_ACTOR_ID = "apify/facebook-posts-scraper"
+APIFY_API_BASE = "https://api.apify.com/v2"
+APIFY_RUN_TIMEOUT = 120  # sekundes — max laiks Apify aktora izpildei
 FB_POSTS_LIMIT = 10  # Cik ierakstus ielādēt no katras lapas
 
 
-def get_facebook_token() -> Optional[str]:
-    """Atgriež Facebook Access Token no vides mainīgā."""
-    token = os.environ.get("FACEBOOK_ACCESS_TOKEN", "").strip()
+def get_apify_token() -> Optional[str]:
+    """Atgriež Apify API tokenu no vides mainīgā."""
+    token = os.environ.get("APIFY_API_TOKEN", "").strip()
     if not token:
         return None
     return token
@@ -640,15 +624,15 @@ def get_facebook_token() -> Optional[str]:
 
 def fetch_facebook_source(source: dict) -> List[Dict]:
     """
-    Ielādē ierakstus no Facebook lapas, izmantojot Graph API.
+    Ielādē ierakstus no Facebook lapas, izmantojot Apify Facebook Posts Scraper.
 
-    Nepieciešams FACEBOOK_ACCESS_TOKEN vides mainīgais.
+    Nepieciešams APIFY_API_TOKEN vides mainīgais.
     Ja token nav iestatīts, avots tiek izlaists ar brīdinājumu.
     """
-    token = get_facebook_token()
+    token = get_apify_token()
     if not token:
         log.warning(
-            "  Facebook avots '%s' izlaists — nav iestatīts FACEBOOK_ACCESS_TOKEN. "
+            "  Facebook avots '%s' izlaists — nav iestatīts APIFY_API_TOKEN. "
             "Skatīt komentārus kodā par token iegūšanu.",
             source["label"],
         )
@@ -659,82 +643,92 @@ def fetch_facebook_source(source: dict) -> List[Dict]:
         log.error("  Nav norādīts fb_page_id avotam: %s", source["id"])
         return []
 
-    # Pieprasām ierakstus no Graph API
-    url = (
-        f"{GRAPH_API_BASE}/{page_id}/posts"
-        f"?fields=message,created_time,permalink_url,story"
-        f"&limit={FB_POSTS_LIMIT}"
-        f"&access_token={token}"
+    fb_url = source.get("url", f"https://www.facebook.com/{page_id}/")
+
+    # Apify aktora ievaddati
+    run_input = {
+        "startUrls": [{"url": fb_url}],
+        "resultsLimit": FB_POSTS_LIMIT,
+    }
+
+    # Palaižam aktoru sinhroni un saņemam rezultātus
+    api_url = (
+        f"{APIFY_API_BASE}/acts/{APIFY_ACTOR_ID}"
+        f"/run-sync-get-dataset-items?token={token}"
     )
 
-    log.info("  Facebook Graph API: %s", page_id)
+    log.info("  Apify Facebook scraper: %s", page_id)
     try:
-        resp = requests.get(url, timeout=REQUEST_TIMEOUT)
-        data = resp.json()
+        resp = requests.post(
+            api_url,
+            json=run_input,
+            timeout=APIFY_RUN_TIMEOUT,
+        )
 
-        # Pārbaudām vai nav kļūda
-        if "error" in data:
-            err = data["error"]
+        if resp.status_code == 402:
+            log.error("  Apify konta limits sasniegts vai nav pietiekami kredīti.")
+            return []
+
+        if resp.status_code != 200:
             log.error(
-                "  Facebook API kļūda [%s] %s: %s",
-                err.get("code", "?"),
-                err.get("type", "?"),
-                err.get("message", "?"),
+                "  Apify API kļūda (HTTP %d): %s",
+                resp.status_code,
+                resp.text[:300],
             )
-            # Ja token ir beidzies, brīdinām
-            if err.get("code") in (190, 102):
-                log.error(
-                    "  ⚠ Access Token ir beidzies vai nav derīgs! "
-                    "Lūdzu, atjauniniet FACEBOOK_ACCESS_TOKEN."
-                )
             return []
 
-        posts = data.get("data", [])
+        posts = resp.json()
+        if not isinstance(posts, list):
+            log.error("  Negaidīts Apify atbildes formāts: %s", type(posts))
+            return []
+
         if not posts:
-            log.info("  → 0 ieraksti no %s (iespējams, lapa ir tukša vai nav piekļuves)", source["label"])
+            log.info("  → 0 ieraksti no %s", source["label"])
             return []
 
+    except requests.exceptions.Timeout:
+        log.error("  Apify pieprasījums pārsniedza laika limitu (%ds): %s",
+                   APIFY_RUN_TIMEOUT, page_id)
+        return []
     except Exception as e:
-        log.error("  Neizdevās pieprasīt Facebook API %s: %s", page_id, e)
+        log.error("  Neizdevās pieprasīt Apify API %s: %s", page_id, e)
         return []
 
-    # Pārveidojam ierakstus par rakstu objektiem
+    # Pārveidojam Apify rezultātus par rakstu objektiem
     articles = []
     for post in posts:
-        # Teksts — message vai story
-        message = post.get("message", "").strip()
-        story = post.get("story", "").strip()
-        if not message and not story:
-            continue  # Izlaižam tukšus ierakstus (piem., tikai foto bez teksta)
+        # Teksts
+        message = (post.get("text") or post.get("message") or "").strip()
+        if not message:
+            continue
 
         # Virsraksts — pirmais teikums vai pirmās 120 rakstzīmes
-        text = message or story
-        title = _extract_fb_title(text)
+        title = _extract_fb_title(message)
 
         # Saite
-        link = post.get("permalink_url", "")
+        link = post.get("url") or post.get("postUrl") or ""
         if not link:
-            post_id = post.get("id", "")
+            post_id = post.get("postId") or post.get("id") or ""
             if post_id:
-                link = f"https://www.facebook.com/{post_id.replace('_', '/posts/')}"
+                link = f"https://www.facebook.com/{page_id}/posts/{post_id}"
+        if not link:
+            link = fb_url
 
-        # Datums — ISO 8601 formāts: 2026-04-06T12:00:00+0000
+        # Datums
         pub_date = None
-        created = post.get("created_time", "")
-        if created:
+        time_str = post.get("time") or post.get("timestamp") or ""
+        if time_str:
             try:
-                # Facebook atgriež: 2026-04-06T12:00:00+0000
-                pub_date = datetime.strptime(
-                    created, "%Y-%m-%dT%H:%M:%S%z"
-                ).astimezone(timezone.utc)
-            except ValueError:
-                try:
-                    pub_date = datetime.fromisoformat(created.replace("+0000", "+00:00"))
-                except ValueError:
-                    pass
+                pub_date = datetime.fromisoformat(
+                    str(time_str).replace("Z", "+00:00").replace("+0000", "+00:00")
+                )
+                if pub_date.tzinfo is None:
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
+            except (ValueError, TypeError):
+                pass
 
-        # Apraksts — pilnais teksts (līdz 500 rakstzīmēm)
-        desc = message[:500] if message else story[:500]
+        # Apraksts
+        desc = message[:500]
 
         if title and link:
             articles.append(make_article(
@@ -841,10 +835,10 @@ def main():
             errors.append(source_id)
 
     log.info("-" * 60)
-    fb_token = get_facebook_token()
+    apify_token = get_apify_token()
     active_sources = len([
         s for s in SOURCES
-        if s["type"] != "facebook" or fb_token
+        if s["type"] != "facebook" or apify_token
     ])
     log.info("Kopā: %d raksti no %d avotiem (%d kļūdas)",
              len(all_articles), active_sources, len(errors))
