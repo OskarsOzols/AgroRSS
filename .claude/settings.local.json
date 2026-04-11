@@ -15,7 +15,10 @@
       "WebFetch(domain:www.scandagra.lv)",
       "Bash(pip install:*)",
       "Bash(pip3 install:*)",
-      "Bash(python3 scraper.py)"
+      "Bash(python3 scraper.py)",
+      "WebSearch",
+      "WebFetch(domain:apify.com)",
+      "WebFetch(domain:docs.apify.com)"
     ]
   }
 }

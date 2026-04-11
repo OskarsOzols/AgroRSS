@@ -608,7 +608,7 @@ def fetch_scrape_source(source: dict) -> List[Dict]:
 # publiskās Facebook lapas bez nepieciešamības pēc Facebook API tokena.
 # ---------------------------------------------------------------------------
 
-APIFY_ACTOR_ID = "apify/facebook-posts-scraper"
+APIFY_ACTOR_ID = "apify~facebook-posts-scraper"
 APIFY_API_BASE = "https://api.apify.com/v2"
 APIFY_RUN_TIMEOUT = 120  # sekundes — max laiks Apify aktora izpildei
 FB_POSTS_LIMIT = 10  # Cik ierakstus ielādēt no katras lapas
