@@ -6,11 +6,12 @@ Apvieno ziņas no vairākiem Latvijas lauksaimniecības avotiem vienā RSS feed�
 Ģenerē docs/feed.xml, ko GitHub Pages publicē un Feedly var lasīt.
 """
 
+import json
 import os
 import re
 import logging
 import traceback
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional
 from urllib.parse import urljoin
@@ -612,6 +613,8 @@ APIFY_ACTOR_ID = "apify~facebook-posts-scraper"
 APIFY_API_BASE = "https://api.apify.com/v2"
 APIFY_RUN_TIMEOUT = 120  # sekundes — max laiks Apify aktora izpildei
 FB_POSTS_LIMIT = 10  # Cik ierakstus ielādēt no katras lapas
+FB_SCRAPE_INTERVAL_DAYS = 3  # Cik bieži scrapēt Facebook lapas
+FB_STATE_FILE = Path(__file__).parent / "docs" / "fb_state.json"
 
 
 def get_apify_token() -> Optional[str]:
@@ -620,6 +623,83 @@ def get_apify_token() -> Optional[str]:
     if not token:
         return None
     return token
+
+
+def _load_fb_state() -> dict:
+    """Ielādē Facebook stāvokli (pēdējā scrapēšanas laiks + kešotie raksti)."""
+    if FB_STATE_FILE.exists():
+        try:
+            return json.loads(FB_STATE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError) as e:
+            log.warning("Neizdevās nolasīt fb_state.json: %s", e)
+    return {}
+
+
+def _save_fb_state(state: dict) -> None:
+    """Saglabā Facebook stāvokli."""
+    FB_STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    FB_STATE_FILE.write_text(
+        json.dumps(state, ensure_ascii=False, indent=2, default=str),
+        encoding="utf-8",
+    )
+
+
+def is_facebook_scrape_due() -> bool:
+    """Pārbauda, vai ir pienācis laiks scrapēt Facebook lapas."""
+    state = _load_fb_state()
+    last_run = state.get("last_scrape")
+    if not last_run:
+        return True
+    try:
+        last_dt = datetime.fromisoformat(last_run)
+        if last_dt.tzinfo is None:
+            last_dt = last_dt.replace(tzinfo=timezone.utc)
+        return datetime.now(timezone.utc) - last_dt >= timedelta(days=FB_SCRAPE_INTERVAL_DAYS)
+    except (ValueError, TypeError):
+        return True
+
+
+def get_cached_fb_articles() -> List[Dict]:
+    """Atgriež kešotos Facebook rakstus no iepriekšējās scrapēšanas."""
+    state = _load_fb_state()
+    articles = []
+    for art in state.get("articles", []):
+        # Atjaunojam datetime objektu no ISO string
+        pub_date = None
+        if art.get("pub_date"):
+            try:
+                pub_date = datetime.fromisoformat(art["pub_date"])
+                if pub_date.tzinfo is None:
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
+            except (ValueError, TypeError):
+                pass
+        articles.append({
+            "title": art.get("title", ""),
+            "link": art.get("link", ""),
+            "pub_date": pub_date or datetime.now(timezone.utc),
+            "description": art.get("description", ""),
+            "source_page_url": art.get("source_page_url", ""),
+        })
+    return articles
+
+
+def save_fb_articles_to_cache(articles: List[Dict]) -> None:
+    """Saglabā Facebook rakstus kešā un atjaunina laika zīmogu."""
+    state = {
+        "last_scrape": datetime.now(timezone.utc).isoformat(),
+        "articles": [
+            {
+                "title": a["title"],
+                "link": a["link"],
+                "pub_date": a["pub_date"].isoformat() if a.get("pub_date") else None,
+                "description": a.get("description", ""),
+                "source_page_url": a.get("source_page_url", ""),
+            }
+            for a in articles
+        ],
+    }
+    _save_fb_state(state)
+    log.info("Facebook kešs atjaunināts: %d raksti", len(articles))
 
 
 def fetch_facebook_source(source: dict) -> List[Dict]:
@@ -811,20 +891,35 @@ def main():
     log.info("=" * 60)
 
     all_articles = []
+    fb_articles = []
     errors = []
+
+    # Pārbaudām vai jāscrapē Facebook (ik pa 3 dienām)
+    fb_due = is_facebook_scrape_due()
+    if not fb_due:
+        log.info("Facebook scrapēšana nav nepieciešama (intervāls: %d dienas). "
+                 "Izmantojam kešu.", FB_SCRAPE_INTERVAL_DAYS)
+        cached = get_cached_fb_articles()
+        log.info("  → %d kešoti Facebook raksti", len(cached))
+        all_articles.extend(cached)
 
     # Apstrādājam katru avotu
     for source in SOURCES:
         source_type = source["type"]
         source_id = source["id"]
         try:
-            log.info("Apstrādājam: [%s] %s", source["label"], source_type)
-            if source_type == "rss":
+            if source_type == "facebook":
+                if not fb_due:
+                    continue  # Izmantojam kešu, izlaižam scrapēšanu
+                log.info("Apstrādājam: [%s] %s (Apify)", source["label"], source_type)
+                articles = fetch_facebook_source(source)
+                fb_articles.extend(articles)
+            elif source_type == "rss":
+                log.info("Apstrādājam: [%s] %s", source["label"], source_type)
                 articles = fetch_rss_source(source)
             elif source_type == "scrape":
+                log.info("Apstrādājam: [%s] %s", source["label"], source_type)
                 articles = fetch_scrape_source(source)
-            elif source_type == "facebook":
-                articles = fetch_facebook_source(source)
             else:
                 log.warning("  Nezināms avota tips: %s", source_type)
                 articles = []
@@ -833,6 +928,10 @@ def main():
             log.error("KĻŪDA apstrādājot %s: %s\n%s", source_id, e,
                       traceback.format_exc())
             errors.append(source_id)
+
+    # Saglabājam Facebook rezultātus kešā
+    if fb_due and fb_articles:
+        save_fb_articles_to_cache(fb_articles)
 
     log.info("-" * 60)
     apify_token = get_apify_token()
