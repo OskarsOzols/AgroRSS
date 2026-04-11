@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 07 Apr 2026 19:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:56:57 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Ziemas rapša sējas termiņi</title>
       <link>https://www.scandagra.lv/aktualitātes/ziemas-rapsa-sejas-termini/</link>
@@ -48,22 +48,6 @@
       <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/scandagra-eksperti-bridina-nepardomata-rudens-meslojuma-strategija-var-butiski-ietekmet-nakama-gada-razas-potencialu/</guid>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
-    </item>
-    <item>
-      <title>[Linas Agro] Viedokļa raksts: Ražas apjoms un graudu gala cena šobrīd ir lielais nezināmais</title>
-      <link>https://www.linasagro.lv/agro-zinas/viedokla-raksts-razas-apjoms-un-graudu-gala-cena-sobrid-ir-lielais-nezinamais</link>
-      <description>Aptuveni trešdaļa ražas vēl ir uz lauka, jo laikapstākļi neļauj to novākt, turklāt, liela daļa no nokultajiem graudiem ir lopbarības kvalitātē, tāpēc jautājums par kopējo ražas apjomu un gala cenām vēl ir lielais nezināmais. Arī sējas darbi kavējas – apsēti ir aptuveni 60% no plānotā rapša. Šobrīd ir skaidrs, ka daudzas saimniecības saskarsies ar izaicinājumu, kā samazināt ražošanas pašizmaksu, jo graudu cena biržā ir zema.</description>
-      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/viedokla-raksts-razas-apjoms-un-graudu-gala-cena-sobrid-ir-lielais-nezinamais</guid>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
-    </item>
-    <item>
-      <title>[Linas Agro] Linas Agro kukurūzas izmēģinājumi MPS “Vecauce”</title>
-      <link>https://www.linasagro.lv/agro-zinas/linas-agro-kukuruzas-izmeginajumi-mps-vecauce</link>
-      <description>Šajā sezonā MPS “Vecauce” esam ierīkojuši kukurūzas izmēģinājumus 12 LA portfelī esošajām vai potenciālajām šķirnēm no tādiem selekcionāriem kā, piemēram,Lidea, Saatbau, Mais seeds, Smolice, kā arī šajos izmēģinājumos tiek pārbaudītas 3 Syngenta šķirnes, kas jau ir iekļautas mūsu kukurūzu sēklu piedāvājumā.</description>
-      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/linas-agro-kukuruzas-izmeginajumi-mps-vecauce</guid>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[Linas Agro] Ziemas kviešu izmēģinājumi: slimību izplatība, raža un kvalitāte 2025. gada sezonā</title>
@@ -232,14 +216,6 @@
       <source url="https://www.lbla.lv/">LBLA</source>
     </item>
     <item>
-      <title>[AREI] Svinīgi atklāts kalendārs un ceļojošā izstāde "Zinātne Latvijai 2026"</title>
-      <link>https://www.arei.lv/lv/raksts/2026-01-08/zinatne-latvijai-2026-kalendara-atklasana</link>
-      <description>Svinīgi atklāts kalendārs un ceļojošā izstāde "Zinātne Latvijai 2026" solvitasur Ce, 01/08/2026 - 12:40</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-01-08/zinatne-latvijai-2026-kalendara-atklasana</guid>
-      <pubDate>Thu, 08 Jan 2026 10:40:49 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
       <title>[AREI] Pēcdoktorantūras pētījums prebiotiku iegūšanai no lauksaimniecības produktiem.</title>
       <link>https://www.arei.lv/lv/raksts/2026-01-08/pecdoktoranturas-petijums-prebiotiku-iegusanai-no-lauksaimniecibas-produktiem</link>
       <description>Pēcdoktorantūras pētījums prebiotiku iegūšanai no lauksaimniecības produktiem. solvitasur Ce, 01/08/2026 - 17:53</description>
@@ -295,13 +271,6 @@
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
     </item>
     <item>
-      <title>[Zemnieku Saeima] 24.februārī – aicinām uz semināru “Notekūdeņu dūņu apsaimniekošana un izmantošana Lielupes upes baseinā”</title>
-      <link>https://zemniekusaeima.lv/aktualitate/24-februari-aicinam-uz-seminaru-notekudenu-dunu-apsaimniekosana-un-izmantosana-lielupes-upes-baseina/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/24-februari-aicinam-uz-seminaru-notekudenu-dunu-apsaimniekosana-un-izmantosana-lielupes-upes-baseina/</guid>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
       <title>[LBLA] LBLA aicina uz semināru Kuldīgā “Aktualitātes bioloģiskajā lauksaimniecībā: no atbalsta līdz praksei” (pieteikšanās noslēgusies)</title>
       <link>https://www.lbla.lv/lbla-aicina-uz-seminaru-kuldiga-aktualitates-biologiskaja-lauksaimnieciba-no-atbalsta-lidz-praksei</link>
       <description>Biedrība “Latvijas Bioloģiskās lauksaimniecības asociācija”, turpinot 2026. gada sākuma reģionālo semināru ciklu bioloģiskajiem lauksaimniekiem, aicina uz semināru “Aktualitātes bioloģiskajā lauksaimniecībā: no atbalsta līdz praksei”. Kurzemniekus pulcēsim Kurzemes sirdī Kuldīgā. Norises vieta: Mārtiņzāle, Pilsētas laukums 4, KuldīgaSemināra norises laiks: 2026. gada 25. februāris pulksten … ⇒</description>
@@ -334,35 +303,12 @@
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
-      <title>[Zemnieku Saeima] Jēkabpilī, Rēzeknē un Valmierā notika ZSA semināri</title>
-      <link>https://zemniekusaeima.lv/aktualitate/jekabpili-rezekne-un-valmiera-notika-zsa-seminari/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/jekabpili-rezekne-un-valmiera-notika-zsa-seminari/</guid>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
       <title>[Linas Agro] Vai ziemāji zem biezās sniega segas ir drošībā?</title>
       <link>https://www.linasagro.lv/agro-zinas/vai-ziemaji-zem-biezas-sniega-segas-ir-drosiba</link>
       <description>Latvijā šobrīd viens pēc otra krīt zemākās temperatūras rekordi un daudzviet valstī gaiss atdziest līdz pat -25 un -29 grādiem. Prognozes liecina, ka šāda temperatūra saglabāsies arī daļu februāra. Papildus tam daudzviet zemi klāj arī bieza sniega kārta, radot labvēlīgu vidi grauzējiem. Kā šādi laikapstākļi, kas ir raksturīgi ziemai, bet vienlaikus teju piemirsti Latvijā, ietekmēs ziemājus un vai tie nesagādās lauksaimniekiem nepatīkamus pārsteigumus? Šis jautājums šobrīd ir īpaši aktuāls, jo zi</description>
       <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/vai-ziemaji-zem-biezas-sniega-segas-ir-drosiba</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
-    </item>
-    <item>
-      <title>[LAD] Atbalsts vietējiem zvejniekiem piekrastes zvejas attīstībai. Noskaties video!</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/atbalsts-vietejiem-zvejniekiem-piekrastes-zvejas-attistibai-noskaties-video</link>
-      <description>No 10. marta līdz 15. maijam Lauku atbalsta dienests aicina pieteikties atbalstam pasākumā "Atbalsts zvejniekiem piekrastes zvejā”, kura mērķis ir saglabāt piekrastes zveju Latvijā, atbalstīt…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/atbalsts-vietejiem-zvejniekiem-piekrastes-zvejas-attistibai-noskaties-video</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
-    </item>
-    <item>
-      <title>[LAD] Ja projektā tiks veikti būvniecības darbi, jāņem vērā izmaiņas būvniecības regulējumā 2026. gadā</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/ja-projekta-tiks-veikti-buvniecibas-darbi-janem-vera-izmainas-buvniecibas-regulejuma-2026-gada</link>
-      <description>Piesakoties dažādiem atbalsta pasākumiem (intervencēm), gadījumos, ja projektā tiks veikti būvniecības darbi, jāievēro prasības būvniecības regulējumā. 2026. gadā ir vairākas būtiskas izmaiņas, kas…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/ja-projekta-tiks-veikti-buvniecibas-darbi-janem-vera-izmainas-buvniecibas-regulejuma-2026-gada</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
     </item>
     <item>
       <title>[Scandagra] Minerālmēslu tirgus apskats un lauku monitorings</title>
@@ -381,49 +327,12 @@
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
-      <title>[VAAD] Notikusi ikgadējā VAAD un zemkopības nozares NVO tikšanās</title>
-      <link>https://www.vaad.gov.lv/lv/jaunums/notikusi-ikgadeja-vaad-un-zemkopibas-nozares-nvo-tiksanas-2</link>
-      <description>2026. gada 10. februārī notika Valsts augu aizsardzības dienesta (VAAD) ikgadējā tikšanās ar zemkopības nozares nevalstisko organizāciju pārstāvjiem. Pārrunāti 2025. gada darbības rezultāti un 2026…</description>
-      <guid isPermaLink="true">https://www.vaad.gov.lv/lv/jaunums/notikusi-ikgadeja-vaad-un-zemkopibas-nozares-nvo-tiksanas-2</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.vaad.gov.lv/lv/jaunumi">VAAD</source>
-    </item>
-    <item>
-      <title>[LAD] Pārtikas ražotājiem pieejams atbalsts pārtikas kvalitātes shēmās</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/partikas-razotajiem-pieejams-atbalsts-partikas-kvalitates-shemas</link>
-      <description>Lauku atbalsta dienests no 9. marta līdz 9. aprīlim aicina pieteikties atbalsta pasākumā “Atbalsts dalībai pārtikas kvalitātes shēmās”. Atbalsta mērķis ir palīdzēt lauksaimniekiem un pārtikas…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/partikas-razotajiem-pieejams-atbalsts-partikas-kvalitates-shemas</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
-    </item>
-    <item>
-      <title>[Zemnieku Saeima] 25.februārī – seminārs “Digitālie instrumenti – palīgs produktu realizēšanā”</title>
-      <link>https://zemniekusaeima.lv/aktualitate/25-februari-seminars-digitalie-instrumenti-paligs-produktu-realizesana/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/25-februari-seminars-digitalie-instrumenti-paligs-produktu-realizesana/</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[Zemnieku Saeima] Tērvetē, Saldū un Talsos notika ZSA semināri</title>
-      <link>https://zemniekusaeima.lv/aktualitate/tervete-saldu-un-talsos-notika-zsa-seminari/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/tervete-saldu-un-talsos-notika-zsa-seminari/</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
       <title>[VAAD] Pareiza augsnes kaļķošana</title>
       <link>https://www.vaad.gov.lv/lv/jaunums/pareiza-augsnes-kalkosana</link>
       <description>Latvijā 42% no augsnēm ir skābas un tām nepieciešama kaļķošana. Kaļķojot augsni, ir vairāki svarīgi faktori, kas jāņem vērā: augsnes analīzes; kaļķošanas materiāla izvēle; kaļķošanas materiāla normu…</description>
       <guid isPermaLink="true">https://www.vaad.gov.lv/lv/jaunums/pareiza-augsnes-kalkosana</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <source url="https://www.vaad.gov.lv/lv/jaunumi">VAAD</source>
-    </item>
-    <item>
-      <title>[Zemnieku Saeima] Projekts Ilgtspējīga skābbarība  (Sustainable Silage) noslēdzies ar gandarījumu par paveikto</title>
-      <link>https://zemniekusaeima.lv/aktualitate/projekts-ilgtspejiga-skabbariba-sustainable-silage-nosledzies-ar-gandarijumu-par-paveikto/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/projekts-ilgtspejiga-skabbariba-sustainable-silage-nosledzies-ar-gandarijumu-par-paveikto/</guid>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
       <title>[AREI] AREI zinātnieki ikgadējā konferencē "Līdzsvarota lauksaimniecība"</title>
@@ -456,13 +365,6 @@
       <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-02-25/pirmais-latvijas-seklu-kongress</guid>
       <pubDate>Wed, 25 Feb 2026 15:13:24 +0000</pubDate>
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
-      <title>[Zemnieku Saeima] 6.martā, 13.martā un 10.aprīlī aicinām uz ZSA semināru un praktisko apmācību kursu “Ganāmpulka veselība”</title>
-      <link>https://zemniekusaeima.lv/aktualitate/6-marta-13-marta-un-10-aprili-aicinam-uz-zsa-seminaru-un-praktisko-apmacibu-kursu-ganampulka-veseliba/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/6-marta-13-marta-un-10-aprili-aicinam-uz-zsa-seminaru-un-praktisko-apmacibu-kursu-ganampulka-veseliba/</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
       <title>[Zemnieku Saeima] Saldū notika projekta CODECS seminārs par digitālajiem instrumentiem</title>
@@ -526,22 +428,6 @@
       <source url="https://www.vaad.gov.lv/lv/jaunumi">VAAD</source>
     </item>
     <item>
-      <title>[LAD] Atbalsts vietējiem ražotājiem pārtikas piegādes ķēžu stiprināšanai un produktu virzībai tirgū</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/atbalsts-vietejiem-razotajiem-partikas-piegades-kezu-stiprinasanai-un-produktu-virzibai-tirgu</link>
-      <description>No 2026.gada 11. maija līdz 11. jūnijam Lauku atbalsta dienests (LAD) izsludina projektu iesniegumu pieņemšanu atbalsta pasākuma “Sadarbība pārtikas īso piegāžu ķēžu darbības veicināšanai un…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/atbalsts-vietejiem-razotajiem-partikas-piegades-kezu-stiprinasanai-un-produktu-virzibai-tirgu</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
-    </item>
-    <item>
-      <title>[LAD] Sākas pieteikšanās valsts atbalstam Latvijas vietējām šķirnēm</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/sakas-pieteiksanas-valsts-atbalstam-latvijas-vietejam-skirnem</link>
-      <description>No 9. marta līdz 15. aprīlim iespējams pieteikties valsts atbalstam “Atbalsts lauksaimniecības dzīvnieku ģenētisko resursu saglabāšanai (LDGRS)”, lai veicinātu nozīmīgāko vietējās cilmes sugu…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/sakas-pieteiksanas-valsts-atbalstam-latvijas-vietejam-skirnem</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
-    </item>
-    <item>
       <title>[VAAD] Mēslošanas līdzekļu lietošanas prasības</title>
       <link>https://www.vaad.gov.lv/lv/jaunums/meslosanas-lidzeklu-lietosanas-prasibas</link>
       <description>Valsts augu aizsardzības dienests atgādina par prasībām, kas jāievēro, lietojot mēslošanas līdzekļus:</description>
@@ -555,22 +441,6 @@
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/lauksaimniek-aicinam-tevi-piedalities-regenerativas-lauksaimniecibas-projekta/</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[LLKC] Jauni noteikumi pret negodīgu tirdzniecības praksi</title>
-      <link>https://llkc.lv/aktualitates/jauni-noteikumi-pret-negodigu-tirdzniecibas-praksi/</link>
-      <description>Februāra vidū Eiropas Parlaments apstiprināja jaunus pasākumus, lai aizsargātu Eiropas lauksaimniekus no lauksaimniecības produktu pircēju negodīgas t...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/jauni-noteikumi-pret-negodigu-tirdzniecibas-praksi/</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Stingrāk uzraudzīs tirdzniecību ar MERCOSUR</title>
-      <link>https://llkc.lv/aktualitates/stingrak-uzraudzis-tirdzniecibu-ar-mercosur/</link>
-      <description>Eiropas Parlamenta deputāti februārī atbalstīja papildu drošības pasākumus, lai novērstu kaitējumu Eiropas lauksaimniecības nozarei pēc tirdzniecības ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/stingrak-uzraudzis-tirdzniecibu-ar-mercosur/</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[LBLA] Latvijas Bioloģiskās lauksaimniecības asociācija rīko biedru kopsapulci un konferenci par bioloģiskās pārtikas pievienoto vērtību</title>
@@ -724,12 +594,39 @@
       <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
     </item>
     <item>
-      <title>[ZM] 2. aprīlī Saulainē notiks reģionālā konference par Latvijas lauksaimniecības nākotni un ilgtspēju</title>
-      <link>https://www.zm.gov.lv/lv/jaunums/2-aprili-saulaine-notiks-regionala-konference-par-latvijas-lauksaimniecibas-nakotni-un-ilgtspeju</link>
-      <description>Zemkopības ministrija un Latvijas Lauku konsultāciju un izglītības centrs (LLKC) ceturtdien, 2. aprīlī rīko reģionālo konferenci “Ceļā uz veselu laukSaimniecību”, lai runātu par Latvijas…</description>
-      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/2-aprili-saulaine-notiks-regionala-konference-par-latvijas-lauksaimniecibas-nakotni-un-ilgtspeju</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+      <title>[Zemnieku Saeima] Zemnieku saeimas kongresā apmeklētājus iepazīstinājām ar projektu AGRIbioCircular HUB</title>
+      <link>https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-apmekletajus-iepazistinajam-ar-projektu-agribiocircular-hub/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-apmekletajus-iepazistinajam-ar-projektu-agribiocircular-hub/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Zemnieku saeimas kongresā stāstījām par projekta NENUPHAR aktualitātēm</title>
+      <link>https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-stastijam-par-projekta-nenuphar-aktualitatem/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-stastijam-par-projekta-nenuphar-aktualitatem/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Zemnieku saeimas kongresā stāstījām par starptautiskā projekta LIVET aktivitātēm</title>
+      <link>https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-stastijam-par-starptautiska-projekta-livet-aktivitatem/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-stastijam-par-starptautiska-projekta-livet-aktivitatem/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Zemnieku saeimas kongresā varēja uzzināt vairāk par projektu AgriDataValue</title>
+      <link>https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-vareja-uzzinat-vairak-par-projektu-agridatavalue/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-vareja-uzzinat-vairak-par-projektu-agridatavalue/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Zemnieku saeimas kongresā dalībnieki tika iepazīstināti ar projektu GYPREG</title>
+      <link>https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-dalibnieki-tika-iepazistinati-ar-projektu-gypreg/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/zemnieku-saeimas-kongresa-dalibnieki-tika-iepazistinati-ar-projektu-gypreg/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
       <title>[LAD] Saīsināts pieteikšanās termiņš atbalstam preventīvajiem ieguldījumiem</title>
@@ -745,30 +642,6 @@
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/lauksaimniecibas-biznesa-izstades-pavasaris-2026-ietvaros-9-aprili-notiks-zemnieku-saeimas-diskusija-par-musdienigu-melioraciju/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[ZM] Zemkopības ministrs Armands Krauze: pieaugošās izmaksas prasa ātrus un praktiskus risinājumus ES līmenī</title>
-      <link>https://www.zm.gov.lv/lv/jaunums/zemkopibas-ministrs-armands-krauze-pieaugosas-izmaksas-prasa-atrus-un-praktiskus-risinajumus-es-limeni</link>
-      <description>Pirmdien, 30. martā, zemkopības ministrs Armands Krauze Briselē notikušajā ES Lauksaimniecības un zivsaimniecības ministru padomē uzsvēra, ka straujais ražošanas izmaksu pieaugums būtiski ietekmē…</description>
-      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/zemkopibas-ministrs-armands-krauze-pieaugosas-izmaksas-prasa-atrus-un-praktiskus-risinajumus-es-limeni</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
-    </item>
-    <item>
-      <title>[ZM] Aktualizēts Pārtikas un veterinārā dienesta cenrādis</title>
-      <link>https://www.zm.gov.lv/lv/jaunums/aktualizets-partikas-un-veterinara-dienesta-cenradis</link>
-      <description>Ministru kabinets otrdien, 31. martā, apstiprināja grozījumus Pārtikas un veterinārā dienesta (PVD) valsts uzraudzības un kontroles darbību un maksas pakalpojumu cenrādī. Grozījumus cenrādī…</description>
-      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/aktualizets-partikas-un-veterinara-dienesta-cenradis</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
-    </item>
-    <item>
-      <title>[ZM] Vienkāršotas ciltsgrāmatu kārtošanas prasības biedrībām</title>
-      <link>https://www.zm.gov.lv/lv/jaunums/vienkarsotas-ciltsgramatu-kartosanas-prasibas-biedribam</link>
-      <description>Ministru kabinets otrdien, 31. martā, apstiprināja Zemkopības ministrijas izstrādātos grozījumus liellopu, cūku, aitu, kazu un zirgu šķirņu ciltsgrāmatas un krustojuma cūku ciltsreģistra noteikumos,…</description>
-      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/vienkarsotas-ciltsgramatu-kartosanas-prasibas-biedribam</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
     </item>
     <item>
       <title>[ZM] Armands Krauze: Ilgtspējīga mežsaimniecība balstās datos un elastīgā saimniekošanā</title>
@@ -867,11 +740,250 @@
       <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
     </item>
     <item>
+      <title>[ZM] ZM, LZA un LLMZA stiprina sadarbību nozares konkurētspējas celšanai</title>
+      <link>https://www.zm.gov.lv/lv/jaunums/zm-lza-un-llmza-stiprina-sadarbibu-nozares-konkuretspejas-celsanai</link>
+      <description>Trešdien, 8. aprīlī, zemkopības ministrs Armands Krauze, Latvijas Zinātņu akadēmijas (LZA) prezidents Ivars Kalviņš un Latvijas Lauksaimniecības un meža zinātņu akadēmijas (LLMZA) prezidente Baiba…</description>
+      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/zm-lza-un-llmza-stiprina-sadarbibu-nozares-konkuretspejas-celsanai</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+    </item>
+    <item>
+      <title>[ZM] ZM dienesta pārbaudē secināts: koksnes cenu stabilizēšana 2023. gadā atbilstoši tirgus situācijai palīdzēja Latvijas uzņēmumiem saglabāt konkurētspēju</title>
+      <link>https://www.zm.gov.lv/lv/jaunums/zm-dienesta-parbaude-secinats-koksnes-cenu-stabilizesana-2023-gada-atbilstosi-tirgus-situacijai-palidzeja-latvijas-uznemumiem-saglabat-konkuretspeju</link>
+      <description>Trešdien, 8. aprīlī, Zemkopības ministrija (ZM) preses konferencē informēja par ZM veiktās dienesta pārbaudes rezultātiem saistībā ar Ministru kabineta (MK) izveidotās Dienesta pārbaudes komisijas…</description>
+      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/zm-dienesta-parbaude-secinats-koksnes-cenu-stabilizesana-2023-gada-atbilstosi-tirgus-situacijai-palidzeja-latvijas-uznemumiem-saglabat-konkuretspeju</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+    </item>
+    <item>
+      <title>[LAD] Lauksaimnieki var avansā saņemt marķēto dīzeļdegvielu</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</link>
+      <description>No 2026. gada 8.aprīļa līdz 1.jūnijam lauksaimniekiem ir iespēja pieteikties marķētās dīzeļdegvielas ar samazināto akcīzes nodokli avansam par 2026./2027. saimniecisko gadu 50% apmērā no iepriekšējā…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[LAD] Ja atbalstam pieteiktas zaļās joslas, tās jāveido un jāapsaimnieko pareizi</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</link>
+      <description>Ja ir uzņemtas Agrovides atbalsta pasākuma “Zaļās joslas” saistības, lauksaimniekiem zaļās joslas ir jāveido un jāapsaimnieko atbilstoši, lai par tām varētu saņemt maksājumu. Zaļās joslas var būt 8…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Tikai piektdaļa Latvijas lauksaimnieku šogad prognozē labāku ražu – lietuvieši un igauņi daudz optimistiskāki</title>
+      <link>https://www.linasagro.lv/agro-zinas/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</link>
+      <description>Aptuveni piektā daļa (18%) Latvijas lauksaimnieku norāda, ka šogad prognozē labāku ražu, puse (50%) sagaida līdzīgu ražu, kā iepriekš, bet 9% - sliktāku. Kaimiņvalstīs lauksaimnieki ir optimistiskāki - Lietuvā 48% lauksaimnieku sagaida līdzīgu ražu kā pērn, savukārt vairāk nekā ceturtā daļa (26%) prognozē labākus rezultātus. Igaunijā 66% lauksaimnieku sagaida labāku ražu nekā iepriekšējā gadā, savukārt 25% prognozē līdzīgu rezultātu, liecina “Linas Agro” un pētījumu centra “Norstat” veiktā aptau</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Situācija uz lauka - agronoma redzējums. 14.nedēļa</title>
+      <link>https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-14-nedela</link>
+      <description>Sējumi pēc ziemas izskatās labi, bet atsevišķās vietās vērojami sala bojājumi, kā arī lokāli ir novērojami nepārziemojuši sējumi. Aizvadītā gada rudens bija izaicinošs laiks, jo pārlieku lielais mitrums būtiski kavēja sējas darbus, taču arī vēlu sētie ziemāji ir pārziemojuši, tiesa gan, ne tik labi sacerojuši graudaugu gadījumā un ar ne tik spēcīgu sakni rapša gadījumā, bet, ņemot vērā, kādos apstākļos tie sēti, rezultāts vērtējams pozitīvi. Šādos sējumos aicinām vērst uzmanību uz papildus slāpe</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-14-nedela</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[LLKC] Dabas aizsardzības plāni ir ceļa karte dabas vērtību saglabāšanai un zemes īpašnieku iespēja ideju īstenošanai</title>
+      <link>https://llkc.lv/aktualitates/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai/</link>
+      <description>Dižvietas jeb īpaši aizsargājamās dabas teritorijas (ĪADT) ir Latvijas dabas aizsardzības pamatvērtība, kas sargā retus biotopus, aizsargājamas sugas ...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[AREI] Pētnieces no AREI veic pētnieku pieredzes apmaiņas braucienu Kauņā SENS4CORN projekta ietvaros</title>
+      <link>https://www.arei.lv/lv/raksts/2026-04-08/petnieces-no-arei-veic-petnieku-pieredzes-apmainas-braucienu-kauna-sens4corn</link>
+      <description>Pētnieces no AREI veic pētnieku pieredzes apmaiņas braucienu Kauņā SENS4CORN projekta ietvaros solvitasur Tr, 04/08/2026 - 13:17</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-04-08/petnieces-no-arei-veic-petnieku-pieredzes-apmainas-braucienu-kauna-sens4corn</guid>
+      <pubDate>Wed, 08 Apr 2026 10:17:47 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
+      <title>[ZM] Iestādīji koku? Reģistrē to un pievienojies koku stādītājiem visā Eiropas Savienībā!</title>
+      <link>https://www.zm.gov.lv/lv/jaunums/iestadiji-koku-registre-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</link>
+      <description>Latvija ir iesaistījusies Eiropas Savienības (ES) iniciatīvā “Par 3 miljardiem koku vairāk līdz 2030. gadam”, tādējādi saglabājot bioloģisko daudzveidību, atjaunojot ekosistēmas un mazinot klimata…</description>
+      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/iestadiji-koku-registre-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+    </item>
+    <item>
+      <title>[LAD] Atbalsts lauksaimniekiem: daļēja apdrošināšanas prēmiju segšana</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/atbalsts-lauksaimniekiem-daleja-apdrosinasanas-premiju-segsana</link>
+      <description>No šī gada 13. aprīļa līdz 1. jūlijam iespējams iesniegt projektu pieteikumus atbalsta pasākumā “Ražas, dzīvnieku, sējumu un stādījumu apdrošināšanas prēmija”. Atbalsta mērķis ir, daļēji sedzot…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/atbalsts-lauksaimniekiem-daleja-apdrosinasanas-premiju-segsana</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[VAAD] Augu aizsardzības līdzekļu lietošanas iekārtas sagatavošana sezonai</title>
+      <link>https://www.vaad.gov.lv/lv/jaunums/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</link>
+      <description>Iekārtas sagatavošanas sezonai jeb kalibrēšanas galvenais mērķis ir nodrošināt precīzu augu aizsardzības līdzekļa (AAL) izkliedi un optimālu virsmas noklāšanu AAL lietošanas laikā, tādējādi samazinot…</description>
+      <guid isPermaLink="true">https://www.vaad.gov.lv/lv/jaunums/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.vaad.gov.lv/lv/jaunumi">VAAD</source>
+    </item>
+    <item>
+      <title>[ZM] No tradīcijām līdz inovācijām: 25. aprīlī Bulduru tehnikums aicina uz Pavasara dārza un stādu svētkiem un Atvērto durvju dienu</title>
+      <link>https://www.zm.gov.lv/lv/jaunums/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</link>
+      <description>Svinot dabas atmodu un profesionālās izglītības dinamisko attīstību, 2026. gada 25. aprīlī Bulduru tehnikums ielūdz uz ikgadējiem “Pavasara dārza un stādu svētkiem” un “Atvērto durvju dienu”…</description>
+      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+    </item>
+    <item>
+      <title>[LAD] Zvejnieki var pieteikties kompensācijām par roņu radītajiem zaudējumiem</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/zvejnieki-var-pieteikties-kompensacijam-par-ronu-raditajiem-zaudejumiem</link>
+      <description>Lauku atbalsta dienests no 11. maija līdz 9. jūnijam aicina iesniegt projektu pieteikumus atbalsta pasākumā “Aizsargājamo jūras zīdītāju radīto zaudējumu segšana”. Atbalsta mērķis ir sniegt…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/zvejnieki-var-pieteikties-kompensacijam-par-ronu-raditajiem-zaudejumiem</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[LAD] Turpmāk informācija dzīvnieku reģistrā jāiesniedz elektroniski</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/turpmak-informacija-dzivnieku-registra-jaiesniedz-elektroniski</link>
+      <description>Lai nodrošinātu ātrāku informācijas apriti un lauksaimnieki varētu ātrāk iesniegt informāciju par dzīvniekiem, apzīmēt dzīvniekus un veikt citas darbības, ir mainīti noteikumi, precizējot…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/turpmak-informacija-dzivnieku-registra-jaiesniedz-elektroniski</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Rāmavas lauksaimniecības biznesa izstādē notika ZSA diskusija par mūsdienīgu meliorāciju</title>
+      <link>https://zemniekusaeima.lv/aktualitate/ramavas-lauksaimniecibas-biznesa-izstade-notika-zsa-diskusija-par-musdienigu-melioraciju/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/ramavas-lauksaimniecibas-biznesa-izstade-notika-zsa-diskusija-par-musdienigu-melioraciju/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[LLKC] Iznācis “Lauku Lapas” aprīļa numurs</title>
+      <link>https://llkc.lv/aktualitates/iznacis-lauku-lapas-aprila-numurs/</link>
+      <description>Izdevuma “Lauku Lapa” aprīļa numurā atgādinām par jauno daudzgadu konsultāciju programmu lauksaimniekiem un lauku uzņēmējiem, kā arī atbalsta pasākumu...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/iznacis-lauku-lapas-aprila-numurs/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Augu aizsardzības līdzekļu lietošanas iekārtas sagatavošana sezonai</title>
+      <link>https://www.saimnieks.lv/raksts/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</link>
+      <description>Iekārtas sagatavošanas sezonai jeb kalibrēšanas galvenais mērķis ir nodroši...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] No tradīcijām līdz inovācijām: 25. aprīlī Bulduru tehnikums aicina uz Pavasara dārza un stādu svētkiem un Atvērto durvju dienu</title>
+      <link>https://www.saimnieks.lv/raksts/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</link>
+      <description>Svinot dabas atmodu un profesionālās izglītības dinamisko attīstību, 2026. ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Ja atbalstam pieteiktas zaļās joslas, tās jāveido un jāapsaimnieko pareizi</title>
+      <link>https://www.saimnieks.lv/raksts/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</link>
+      <description>Ja ir uzņemtas Agrovides atbalsta pasākuma “Zaļās joslas” saistības, lauksa...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Lauksaimnieki var avansā saņemt marķēto dīzeļdegvielu</title>
+      <link>https://www.saimnieks.lv/raksts/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</link>
+      <description>No 2026. gada 8.aprīļa līdz 1.jūnijam lauksaimniekiem ir iespēja pieteiktie...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Dabas aizsardzības plāni ir ceļa karte dabas vērtību saglabāšanai un zemes īpašnieku iespēja ideju īstenošanai</title>
+      <link>https://www.saimnieks.lv/raksts/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai</link>
+      <description>Dižvietas jeb īpaši aizsargājamās dabas teritorijas (ĪADT) ir Latvijas daba...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Iestādīji koku? Reģistrē to un pievienojies koku stādītājiem visā Eiropas Savienībā!</title>
+      <link>https://www.saimnieks.lv/raksts/iestadiji-koku-registre-to-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</link>
+      <description>Latvija ir iesaistījusies Eiropas Savienības (ES) iniciatīvā “Par 3 miljard...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/iestadiji-koku-registre-to-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Aminoskābes slaucamo govju barības devā</title>
+      <link>https://www.saimnieks.lv/raksts/aminoskabes-slaucamo-govju-baribas-deva</link>
+      <description>Slaucamo govju produktivitāti un veselību nosaka ne tikai kopproteīna daudz...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aminoskabes-slaucamo-govju-baribas-deva</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] No bērnības sapņa līdz veterinārijai</title>
+      <link>https://www.saimnieks.lv/raksts/no-bernibas-sapna-lidz-veterinarijai</link>
+      <description>Aiga Martinova ir jauna veterinārārste, kura no bērnības sapņa par zirgiem ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-bernibas-sapna-lidz-veterinarijai</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] No Rīgas dunas līdz liellopiem un putniem ZS "Kalvāni"</title>
+      <link>https://www.saimnieks.lv/raksts/no-rigas-dunas-lidz-liellopiem-un-putniem-zs-kalvani</link>
+      <description>Tīra zeme, veselīga pārtika – tā ir Taurupes pagasta zemnieku saimniecības ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-rigas-dunas-lidz-liellopiem-un-putniem-zs-kalvani</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Aicinām apgūt saimniecību pārvaldības sistēmas “Mans Lauks” lietošanu!</title>
+      <link>https://www.saimnieks.lv/raksts/aicinam-apgut-saimniecibu-parvaldibas-sistemas-mans-lauks-lietosanu</link>
+      <description>Lauksaimnieki visā Latvijā aicināti piedalīties klātienes praktiskajās apmā...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-apgut-saimniecibu-parvaldibas-sistemas-mans-lauks-lietosanu</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Pārtikas ražotājiem pieejams atbalsts pārtikas kvalitātes shēmās</title>
+      <link>https://www.saimnieks.lv/raksts/partikas-razotajiem-pieejams-atbalsts-partikas-kvalitates-shemas</link>
+      <description>Lauku atbalsta dienests no 9. marta līdz 9. aprīlim aicina pieteikties atba...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/partikas-razotajiem-pieejams-atbalsts-partikas-kvalitates-shemas</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Tikai piektdaļa Latvijas lauksaimnieku šogad prognozē labāku ražu – lietuvieši un igauņi daudz optimistiskāki</title>
+      <link>https://www.saimnieks.lv/raksts/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</link>
+      <description>Aptuveni piektā daļa (18%) Latvijas lauksaimnieku norāda, ka šogad prognozē...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Vienkāršota dzīvnieku reģistrēšanas kārtība un samazināts administratīvais slogs lauksaimniecības dzīvnieku turētājiem</title>
+      <link>https://www.saimnieks.lv/raksts/vienkarsota-dzivnieku-registresanas-kartiba-un-samazinats-administrativais-slogs-lauksaimniecibas-dzivnieku-turetajiem</link>
+      <description>Ministru kabinets, 7. aprīlī, apstiprināja Zemkopības ministrijas izstrādāt...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vienkarsota-dzivnieku-registresanas-kartiba-un-samazinats-administrativais-slogs-lauksaimniecibas-dzivnieku-turetajiem</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Kultūraugu slimību un kaitēkļu prognoze aprīlim 2026</title>
+      <link>https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-aprilim-2026</link>
+      <description>Ziema šogad līdz pat decembra beigām bija salīdzinoši silta, bez ievērojama...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-aprilim-2026</guid>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] No degradētiem karjeriem līdz veselīgām mežaudzēm: InBestSoil pieredzes stāsti Latvijā</title>
       <link>https://www.saimnieks.lv/raksts/no-degradetiem-karjeriem-lidz-veseligam-mezaudzem-inbestsoil-pieredzes-stasti-latvija</link>
       <description>Veselīgas meža augsnes ir nemanāms, bet nozīmīgs Eiropas klimata un bioekon...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-degradetiem-karjeriem-lidz-veseligam-mezaudzem-inbestsoil-pieredzes-stasti-latvija</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -879,119 +991,7 @@
       <link>https://www.saimnieks.lv/raksts/labakais-lauksaimniecibas-drons-2026-gada-dji-t100-vai-dji-t70p</link>
       <description>2026. gadā Eiropas parādīsies divi jauni agrodronu modeļi – DJI Agras T100 ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/labakais-lauksaimniecibas-drons-2026-gada-dji-t100-vai-dji-t70p</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Labākais laiks robotizēties ir tagad</title>
-      <link>https://www.saimnieks.lv/raksts/labakais-laiks-robotizeties-ir-tagad</link>
-      <description>Mūsu dārzs un zāliens, visu ziemu laimīgi nogulējis zem biezas sniega segas...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/labakais-laiks-robotizeties-ir-tagad</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Jauns piedāvājums graudu kaltēšanā – Latvijas tirgū ienāk zīmols Strahl</title>
-      <link>https://www.saimnieks.lv/raksts/jauns-piedavajums-graudu-kaltesana-latvijas-tirgu-ienak-zimols-strahl</link>
-      <description>Lauksaimniecības tehnoloģiju vide Latvijā turpina attīstīties, piedāvājot a...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-piedavajums-graudu-kaltesana-latvijas-tirgu-ienak-zimols-strahl</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Kärcher Puzzi: profesionālā tekstila tīrīšanas māksla</title>
-      <link>https://www.saimnieks.lv/raksts/karcher-puzzi-profesionala-tekstila-tirisanas-maksla</link>
-      <description>Mūsdienu interjera dizainā tekstilizstrādājumi – paklāji, mīkstās mēbeles u...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/karcher-puzzi-profesionala-tekstila-tirisanas-maksla</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Pašgājējsmidzinātājs: AMAZONE Pantera 7004</title>
-      <link>https://www.saimnieks.lv/raksts/pasgajejsmidzinatajs-amazone-pantera-7004</link>
-      <description>AMAZONE Pantera 7004 ir lielā māsa tirgū labi zināmajai Pantera 4504. Pieau...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pasgajejsmidzinatajs-amazone-pantera-7004</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Laiks, kas veltīts darbam: 30 gadi, būvējot SIA SilJa</title>
-      <link>https://www.saimnieks.lv/raksts/laiks-kas-veltits-darbam-30-gadi-buvejot-sia-silja</link>
-      <description>Laiks uzņēmējdarbībā nav tikai gadi – tas ir uzkrāts darbs, pieņemtie lēmum...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/laiks-kas-veltits-darbam-30-gadi-buvejot-sia-silja</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Kā Latvijā noturēt augstu ražas potenciālu graudkopībā</title>
-      <link>https://www.saimnieks.lv/raksts/ka-latvija-noturet-augstu-razas-potencialu-graudkopiba</link>
-      <description>Latvijas graudkopība pēdējos gados ir sasniegusi augstu ražas potenciālu. N...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-latvija-noturet-augstu-razas-potencialu-graudkopiba</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Graudi ar pievienoto vērtību</title>
-      <link>https://www.saimnieks.lv/raksts/graudi-ar-pievienoto-vertibu</link>
-      <description>AS Dobeles dzirnavnieks, lielākais pārtikas ražotājs Latvijā un viens no li...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/graudi-ar-pievienoto-vertibu</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Slāpekļa mēslošana praksē: Scandagra Latvia izmēģinājumu rezultāti, raža un ekonomika</title>
-      <link>https://www.saimnieks.lv/raksts/slapekla-meslosana-prakse-scandagra-latvia-izmeginajumu-rezultati-raza-un-ekonomika</link>
-      <description>Kā minerālmēslu ekspertam un produktu grupas vadītājam man bieži vien ir nā...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/slapekla-meslosana-prakse-scandagra-latvia-izmeginajumu-rezultati-raza-un-ekonomika</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Skāba augsne maksā dārgi: kāpēc augsnes kaļķošana ir izdevīgs ieguldījums saimniecībā</title>
-      <link>https://www.saimnieks.lv/raksts/skaba-augsne-maksa-dargi-kapec-augsnes-kalkosana-ir-izdevigs-ieguldijums-saimnieciba</link>
-      <description>Par augsnes kaļķošanu bieži domā kā par kārtējo izmaksu pozīciju. Vēl viens...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/skaba-augsne-maksa-dargi-kapec-augsnes-kalkosana-ir-izdevigs-ieguldijums-saimnieciba</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Šķirnē ir spēks</title>
-      <link>https://www.saimnieks.lv/raksts/skirne-ir-speks</link>
-      <description>Šā gada februāra izskaņā Kultūras centrā Ulbrokas pērle norisinājās nozīmīg...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/skirne-ir-speks</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Kultūraugu slimību un kaitēkļu prognoze aprīlim.</title>
-      <link>https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-aprilim</link>
-      <description>Ziema šogad līdz pat decembra beigām bija salīdzinoši silta, bez ievērojama...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-aprilim</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Lauksaimniecībā vairs nepietiek tikai ar standarta risinājumiem</title>
-      <link>https://www.saimnieks.lv/raksts/lauksaimnieciba-vairs-nepietiek-tikai-ar-standarta-risinajumiem</link>
-      <description>Lauksaimniecība nav iedomājama bez precizitātes, zinātnē balstītiem risināj...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieciba-vairs-nepietiek-tikai-ar-standarta-risinajumiem</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Baltā puve ziemas rapšos: kā izprast slimības risku, izplatību un to pārvaldīt</title>
-      <link>https://www.saimnieks.lv/raksts/balta-puve-ziemas-rapsos-ka-izprast-slimibas-risku-izplatibu-un-to-parvaldit</link>
-      <description>Rapša baltā puve (Sclerotinia sclerotiorum), ko ikdienā bieži sauc par skle...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/balta-puve-ziemas-rapsos-ka-izprast-slimibas-risku-izplatibu-un-to-parvaldit</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Latvijas apstākļos ir iespējama ekonomiski konkurētspējīga zirņu audzēšana</title>
-      <link>https://www.saimnieks.lv/raksts/latvijas-apstaklos-ir-iespejama-ekonomiski-konkuretspejiga-zirnu-audzesana</link>
-      <description>2025. gada sezonā paralēli izmēģinājumiem LATRAPS bija ierīkojis zirņu šķir...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-apstaklos-ir-iespejama-ekonomiski-konkuretspejiga-zirnu-audzesana</guid>
-      <pubDate>Tue, 07 Apr 2026 19:19:10 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 06:56:56 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
