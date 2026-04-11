@@ -645,11 +645,26 @@ def _save_fb_state(state: dict) -> None:
 
 
 def is_facebook_scrape_due() -> bool:
-    """Pārbauda, vai ir pienācis laiks scrapēt Facebook lapas."""
+    """Pārbauda, vai ir pienācis laiks scrapēt Facebook lapas.
+
+    Atgriež True, ja:
+      - nav iepriekšējā scrapēšanas laika
+      - pagājušas >= FB_SCRAPE_INTERVAL_DAYS dienas
+      - pievienoti jauni Facebook avoti, kas nav kešā
+    """
     state = _load_fb_state()
     last_run = state.get("last_scrape")
     if not last_run:
         return True
+
+    # Pārbaudām, vai ir jauni FB avoti, kas nav kešā
+    cached_pages = set(state.get("scraped_page_ids", []))
+    current_pages = {s["fb_page_id"] for s in SOURCES if s["type"] == "facebook"}
+    new_pages = current_pages - cached_pages
+    if new_pages:
+        log.info("Atrasti jauni Facebook avoti, kas nav kešā: %s", ", ".join(new_pages))
+        return True
+
     try:
         last_dt = datetime.fromisoformat(last_run)
         if last_dt.tzinfo is None:
@@ -685,8 +700,10 @@ def get_cached_fb_articles() -> List[Dict]:
 
 def save_fb_articles_to_cache(articles: List[Dict]) -> None:
     """Saglabā Facebook rakstus kešā un atjaunina laika zīmogu."""
+    scraped_page_ids = [s["fb_page_id"] for s in SOURCES if s["type"] == "facebook"]
     state = {
         "last_scrape": datetime.now(timezone.utc).isoformat(),
+        "scraped_page_ids": scraped_page_ids,
         "articles": [
             {
                 "title": a["title"],
@@ -749,7 +766,7 @@ def fetch_facebook_source(source: dict) -> List[Dict]:
             log.error("  Apify konta limits sasniegts vai nav pietiekami kredīti.")
             return []
 
-        if resp.status_code != 200:
+        if resp.status_code not in (200, 201):
             log.error(
                 "  Apify API kļūda (HTTP %d): %s",
                 resp.status_code,
