@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:59:55 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Vai sertificētas sēklas ir zemnieku drošības spilvens mainīgā klimatā?</title>
       <link>https://www.linasagro.lv/agro-zinas/vai-sertificetas-seklas-ir-zemnieku-drosibas-spilvens-mainiga-klimata</link>
@@ -678,14 +678,6 @@ Vēlies uzzināt…</title>
       <source url="https://www.facebook.com/AgTechLV/">AgTech LV</source>
     </item>
     <item>
-      <title>[LAD] Līdz 14. aprīlim nevar iesniegt lauku bloku precizēšanas pieprasījumus un provizoriskos iesniegumus</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/lidz-14-aprilim-nevar-iesniegt-lauku-bloku-precizesanas-pieprasijumus-un-provizoriskos-iesniegumus</link>
-      <description>No 2.aprīļa līdz 13. aprīlim vairs nevar iesniegt lauku bloku precizēšanas pieprasījumus un gatavot provizoriskos platību maksājumu iesniegumus. Elektroniskajā pieteikšanās sistēmā tiek veikti darbi,…</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/lidz-14-aprilim-nevar-iesniegt-lauku-bloku-precizesanas-pieprasijumus-un-provizoriskos-iesniegumus</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
-    </item>
-    <item>
       <title>[Linas Agro] Pavasaris ir sācies – daba ir pamodusies: kad ir vērts modināt zālienu?</title>
       <link>https://www.linasagro.lv/agro-zinas/pavasaris-ir-sacies-daba-ir-pamodusies-kad-ir-verts-modinat-zalienu</link>
       <description>Vēl pavisam nesen lauki un pagalmi bija sniegoti, bet drīz acis priecēs zaļa zāle. Pārmaiņas dabā nozīmē vienu: ir pienācis laiks sākt gatavot zālienu. Tomēr dārza kopšanas eksperti iesaka nesteigties. Šogad spēcīgais sniegs prasīja savu – sen nav bijis tik daudz sniega, un salnas turējās ilgi. Tāpēc nav pārāk pārsteidzoši, ka pēc šādas ziemas zāliens izskatās novājināts, tā saknes ir jutīgas, bet pati zāle ir retināta un sniega pelējuma bojāta, pat novītusi. Redzot šādu situāciju, iespējams, vē</description>
@@ -780,14 +772,6 @@ Vēlies uzzināt…</title>
       <guid isPermaLink="true">https://www.facebook.com/reel/1624278142141827/</guid>
       <pubDate>Wed, 01 Apr 2026 18:11:36 +0000</pubDate>
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
-    </item>
-    <item>
-      <title>[LAD] Priecīgas Lieldienas! (Darba laiks svētkos)</title>
-      <link>https://www.lad.gov.lv/lv/jaunums/priecigas-lieldienas-darba-laiks-svetkos-0</link>
-      <description>Darba laiks svētkos 2.aprīlis - 8.30-16.00 3.aprīlis - brīvdiena 6.aprīlis - brīvdiena</description>
-      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/priecigas-lieldienas-darba-laiks-svetkos-0</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
     </item>
     <item>
       <title>[LAD] LAD piedalās izstādē “Pavasaris 2026” Rāmavā</title>
@@ -964,14 +948,6 @@ Vēlies uzzināt…</title>
       <guid isPermaLink="true">https://www.facebook.com/reel/1682154222786027/</guid>
       <pubDate>Mon, 06 Apr 2026 06:00:08 +0000</pubDate>
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
-    </item>
-    <item>
-      <title>[ZM] Gudri lēmumi, stipri lauki: ZM kopstends Rāmavas izstādē</title>
-      <link>https://www.zm.gov.lv/lv/jaunums/gudri-lemumi-stipri-lauki-zm-kopstends-ramavas-izstade</link>
-      <description>Jau ceturto gadu Biznesa centrā “RĀMAVA” izstādē “PAVASARIS 2026” (9.-11. aprīlī) lauksaimnieki un ikviens interesents Zemkopības ministrijas (ZM) iestāžu vienotajā kopstendā varēs satikt nozaru…</description>
-      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/gudri-lemumi-stipri-lauki-zm-kopstends-ramavas-izstade</guid>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
     </item>
     <item>
       <title>[ZM] Preses konferencē informēs par Zemkopības ministrijas dienesta pārbaudes rezultātiem saistībā ar rīcību koksnes tirgus stabilizēšanai 2023. gadā</title>
@@ -1421,10 +1397,34 @@ Vēlies uzzināt…</title>
       <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
     </item>
     <item>
+      <title>[ZM] Zemkopības ministrs Armands Krauze: azerbaidžāņus interesē gan Latvijas lauksaimnieciskās izglītības sistēma, gan Latvijā ražotā pārtika, meža stādi un kokrūpniecības produkti</title>
+      <link>https://www.zm.gov.lv/lv/jaunums/zemkopibas-ministrs-armands-krauze-azerbaidzanus-interese-gan-latvijas-lauksaimnieciskas-izglitibas-sistema-gan-latvija-razota-partika-meza-stadi-un-kokrupniecibas-produkti</link>
+      <description>Otrdien, 14. aprīlī, zemkopības ministrs Armands Krauze Baku tikās ar Azerbaidžānas lauksaimniecības ministru Majnunu Mamadovu un ekonomikas ministru Mikajilu Džabbarovu, lai pārrunātu abu valstu…</description>
+      <guid isPermaLink="true">https://www.zm.gov.lv/lv/jaunums/zemkopibas-ministrs-armands-krauze-azerbaidzanus-interese-gan-latvijas-lauksaimnieciskas-izglitibas-sistema-gan-latvija-razota-partika-meza-stadi-un-kokrupniecibas-produkti</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.zm.gov.lv/lv/jaunumi">ZM</source>
+    </item>
+    <item>
       <title>[LAD] Precizēti aitu un kazu apzīmēšanas termiņi</title>
       <link>https://www.lad.gov.lv/lv/jaunums/precizeti-aitu-un-kazu-apzimesanas-termini</link>
       <description>Lauku atbalsta dienests aicina aitkopjus un kazkopjus ņemt vērā, ka ir izmaiņas aitu un kazu apzīmēšanas termiņos. Turpmāk aitu un kazu apzīmēšanai noteikti šādi termiņi: ganāmpulkos, kuros notiek…</description>
       <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/precizeti-aitu-un-kazu-apzimesanas-termini</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[LAD] Lauksaimnieki var  skatīt precizētas video pamācības par dzīvnieku reģistrēšanu un citiem jautājumiem</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/lauksaimnieki-var-skatit-precizetas-video-pamacibas-par-dzivnieku-registresanu-un-citiem-jautajumiem</link>
+      <description>Lauku atbalsta dienests, lai sniegtu atbalstu klientiem, sagatavo daudzveidīgus izglītojušus un informatīvus materiālus par atbalsta saņemšanas nosacījumiem un citiem jautājumiem. Dienests ir…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/lauksaimnieki-var-skatit-precizetas-video-pamacibas-par-dzivnieku-registresanu-un-citiem-jautajumiem</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
+    </item>
+    <item>
+      <title>[LAD] LAD izmaksā atbalstu ciltsdarbam – šogad kopā 21,6 miljonus eiro</title>
+      <link>https://www.lad.gov.lv/lv/jaunums/lad-izmaksa-atbalstu-ciltsdarbam-sogad-kopa-216-miljonus-eiro</link>
+      <description>Lauku atbalsta dienests ir uzsācis izmaksāt valsts atbalsta maksājumus ciltsdarbam 2026. gadā. Dienests pakāpeniski izmaksā finansējumu dažādām lopkopības nozarēm, kopā tiks izmaksāti 21,6 miljoni…</description>
+      <guid isPermaLink="true">https://www.lad.gov.lv/lv/jaunums/lad-izmaksa-atbalstu-ciltsdarbam-sogad-kopa-216-miljonus-eiro</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <source url="https://www.lad.gov.lv/lv/jaunumi">LAD</source>
     </item>
@@ -1473,7 +1473,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/globala-ekonomika-bremzejas-pieprasijums-turas-bet-izmaksas-un-inflacija-kapj</link>
       <description>Martā pasaules lielākajos reģionos pasliktinājies pakalpojumu sektora noska...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/globala-ekonomika-bremzejas-pieprasijums-turas-bet-izmaksas-un-inflacija-kapj</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1481,7 +1481,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/atsacies-vaad-kaitigo-organismu-izplatibas-monitorings-2026-gada-sezona</link>
       <description>Klāt aktīvā pavasara sezona, un Valsts augu aizsardzības dienesta (VAAD) pr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/atsacies-vaad-kaitigo-organismu-izplatibas-monitorings-2026-gada-sezona</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1489,7 +1489,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/ka-pasargat-eglu-mezu-no-mizgrauza</link>
       <description>2026.gada 22. aprīlī plkst. 15.00 Launkalnes tautas namā (Ezera iela 2A, La...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-pasargat-eglu-mezu-no-mizgrauza</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1497,7 +1497,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/attista-berza-stadu-audzesanu-meristemu-laboratorija-kalsnava</link>
       <description>AS “Latvijas valsts meži” (LVM) sadarbībā ar Latvijas Valsts mežzinātnes in...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/attista-berza-stadu-audzesanu-meristemu-laboratorija-kalsnava</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1505,7 +1505,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/neatbilstosi-meslosanas-lidzekli-un-substrati</link>
       <description>Veicot mēslošanas līdzekļu tirgus uzraudzību, ņemot un testējot mēslošanas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/neatbilstosi-meslosanas-lidzekli-un-substrati</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1513,7 +1513,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/mitruma-trukums-un-sala-ietekme-situacija-auglu-darzos-un-pirmie-pavasara-darbi</link>
       <description>Šī gada pavasaris dārzkopjiem atsevišķās vietās atnācis ar mitruma trūkumu ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mitruma-trukums-un-sala-ietekme-situacija-auglu-darzos-un-pirmie-pavasara-darbi</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1521,7 +1521,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/turpmak-informacija-dzivnieku-registra-jaiesniedz-elektroniski</link>
       <description>Lai nodrošinātu ātrāku informācijas apriti un lauksaimnieki varētu ātrāk ie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpmak-informacija-dzivnieku-registra-jaiesniedz-elektroniski</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1529,7 +1529,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/izbraukuma-konsultacijas-geotelpiska-iesnieguma-aizpildisanai</link>
       <description>LAD no 2026.gada 14.aprīļa lauksaimniekiem sniedz konsultācijas un palīdz a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izbraukuma-konsultacijas-geotelpiska-iesnieguma-aizpildisanai</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1537,7 +1537,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/aptauja-18-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu</link>
       <description>Aptuveni piektdaļa jeb 18% Latvijas lauksaimnieku norāda, ka šogad prognozē...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aptauja-18-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1545,7 +1545,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</link>
       <description>Iekārtas sagatavošanas sezonai jeb kalibrēšanas galvenais mērķis ir nodroši...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augu-aizsardzibas-lidzeklu-lietosanas-iekartas-sagatavosana-sezonai</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1553,7 +1553,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</link>
       <description>Svinot dabas atmodu un profesionālās izglītības dinamisko attīstību, 2026. ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-tradicijam-lidz-inovacijam-25-aprili-bulduru-tehnikums-aicina-uz-pavasara-darza-un-stadu-svetkiem-un-atverto-durvju-dienu</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1561,7 +1561,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</link>
       <description>Ja ir uzņemtas Agrovides atbalsta pasākuma “Zaļās joslas” saistības, lauksa...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ja-atbalstam-pieteiktas-zalas-joslas-tas-javeido-un-jaapsaimnieko-pareizi</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1569,7 +1569,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</link>
       <description>No 2026. gada 8.aprīļa līdz 1.jūnijam lauksaimniekiem ir iespēja pieteiktie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-var-avansa-sanemt-marketo-dizeldegvielu</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1577,7 +1577,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai</link>
       <description>Dižvietas jeb īpaši aizsargājamās dabas teritorijas (ĪADT) ir Latvijas daba...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dabas-aizsardzibas-plani-ir-cela-karte-dabas-vertibu-saglabasanai-un-zemes-ipasnieku-iespeja-ideju-istenosanai</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1585,7 +1585,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/iestadiji-koku-registre-to-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</link>
       <description>Latvija ir iesaistījusies Eiropas Savienības (ES) iniciatīvā “Par 3 miljard...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/iestadiji-koku-registre-to-un-pievienojies-koku-staditajiem-visa-eiropas-savieniba</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1593,7 +1593,7 @@ Vēlies uzzināt…</title>
       <link>https://www.saimnieks.lv/raksts/aminoskabes-slaucamo-govju-baribas-deva</link>
       <description>Slaucamo govju produktivitāti un veselību nosaka ne tikai kopproteīna daudz...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aminoskabes-slaucamo-govju-baribas-deva</guid>
-      <pubDate>Tue, 14 Apr 2026 10:47:27 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 11:59:55 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
