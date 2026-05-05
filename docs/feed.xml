@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 05 May 2026 22:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 23:53:22 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Lauku diena Viļānos – paldies, ka bijāt kopā ar mums!</title>
       <link>https://www.scandagra.lv/aktualitātes/lauku-diena-vilanos-paldies-ka-bijat-kopa-ar-mums/</link>
@@ -421,36 +421,12 @@
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
-      <title>[LLKC] Pasaules Bankas pētījums un ieteikumi lauksaimniecības risku pārvaldībai</title>
-      <link>https://llkc.lv/aktualitates/pasaules-bankas-petijums-un-ieteikumi-lauksaimniecibas-risku-parvaldibai/</link>
-      <description>Marta vidū Pasaules Banka publicēja pētījumu par lauksaimniecības risku pārvaldību, novērtējot riska pārvaldības rīku (RMT) izmantošanu, efektivitāti ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/pasaules-bankas-petijums-un-ieteikumi-lauksaimniecibas-risku-parvaldibai/</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Lopkopības prognozes ar mīnusa zīmi</title>
-      <link>https://llkc.lv/aktualitates/lopkopibas-prognozes-ar-minusa-zimi/</link>
-      <description>Eiropas Komisijas martā publicētās lopkopības attīstības prognozes 2026. gadam rāda, ka šogad dzīvnieku audzēšana ES turpinās samazināties. ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/lopkopibas-prognozes-ar-minusa-zimi/</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LBLA] Ievēlēts jauns LBLA valdes priekšsēdētājs – bioloģiskais lauksaimnieks Mārtiņš Gaiķēns</title>
       <link>https://www.lbla.lv/ievelets-jauns-lbla-valdes-priekssedetajs-biologiskais-lauksaimnieks-martins-gaikens</link>
       <description>16. aprīlī Latvijas Bioloģiskās lauksaimniecības asociācijas (LBLA) biedru kopsapulcē par organizācijas valdes priekšsēdētāju ievēlēts Mārtiņš Gaiķēns. Jaunā LBLA priekšsēdētāja ievēlēšana notiek laikā, kad bioloģiskās lauksaimniecības nozare Latvijā turpina attīstīties un vienlaikus saskaras ar būtiskiem izaicinājumiem – tirgus attīstību, patēriņa veicināšanu … ⇒</description>
       <guid isPermaLink="true">https://www.lbla.lv/ievelets-jauns-lbla-valdes-priekssedetajs-biologiskais-lauksaimnieks-martins-gaikens</guid>
       <pubDate>Thu, 16 Apr 2026 10:28:49 +0000</pubDate>
       <source url="https://www.lbla.lv/">LBLA</source>
-    </item>
-    <item>
-      <title>[LLKC] Lauksaimniecības nozares pedagogi papildina zināšanas Višķos</title>
-      <link>https://llkc.lv/aktualitates/lauksaimniecibas-nozares-pedagogi-papildina-zinasanas-viskos/</link>
-      <description>Kā katru pavasari, arī šogad lauksaimniecības nozares pedagogi tikās profesionālās kompetences pilnveides seminārā, kuru šoreiz Latvijas Lauku konsult...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/lauksaimniecibas-nozares-pedagogi-papildina-zinasanas-viskos/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Zemnieku Saeima] AS “Pampāļi” norisinājās projekta LIVET praktiskais apmācību kurss</title>
@@ -476,28 +452,12 @@
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
-      <title>[LLKC] Mežsaimniecības konsultanta loma šodien</title>
-      <link>https://llkc.lv/aktualitates/mezsaimniecibas-konsultanta-loma-sodien/</link>
-      <description>Kas īsti ir mežsaimniecības konsultants un kāpēc viņa loma kļūst arvien svarīgāka? Meža īpašniekiem jāpieņem daudz lēmumu, un profesionāls padoms biež...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/mezsaimniecibas-konsultanta-loma-sodien/</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LBLA] Bioloģiskā saimniecība “Upmaļi” aicina uz lauka dienu par Zeltsaknes pielietošanu, audzēšanu, pārstrādi un realizācijas iespējām</title>
       <link>https://www.lbla.lv/biologiska-saimnieciba-upmali-aicina-uz-lauka-dienu-par-zeltsaknes-pielietosanu-audzesanu-parstradi-un-realizacijas-iespejam</link>
       <description>Ja apsver jaunas biznesa iespējas vai vēlies uzlabot savu veselību, aicinām piedalīties praktiskā seminārā par vienu no pieprasītākajiem ārstniecības augiem – zeltsakni (Rhodiola Rosea). Datums: 8. maijsVieta: ZS “Upmaļi”, Rendas pagasts, Kuldīgas novads Programma 10.30–11.00 – Ierašanās, reģistrācija11.00–12.00 – Zeltsakne … ⇒</description>
       <guid isPermaLink="true">https://www.lbla.lv/biologiska-saimnieciba-upmali-aicina-uz-lauka-dienu-par-zeltsaknes-pielietosanu-audzesanu-parstradi-un-realizacijas-iespejam</guid>
       <pubDate>Tue, 21 Apr 2026 10:33:29 +0000</pubDate>
       <source url="https://www.lbla.lv/">LBLA</source>
-    </item>
-    <item>
-      <title>[LLKC] LLKC atgādina reņģu makšķerniekiem par prasību reģistrēt lomus</title>
-      <link>https://llkc.lv/aktualitates/llkc-atgadina-rengu-makskerniekiem-par-prasibu-registret-lomus/</link>
-      <description>Sākoties intensīvajai reņģu makšķerēšanas sezonai uz Latvijas moliem, Latvijas Lauku konsultāciju un izglītības centrs (LLKC) un Makšķerēšanas kartes ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/llkc-atgadina-rengu-makskerniekiem-par-prasibu-registret-lomus/</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[AREI] Aktuālais projektā AGRI-BIOCIRCULAR-HUB</title>
@@ -508,36 +468,12 @@
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
-      <title>[LLKC] Pieejams konferences “Ceļā uz veselu laukSaimniecību” videoieraksts un prezentācijas</title>
-      <link>https://llkc.lv/aktualitates/pieejams-konferences-cela-uz-veselu-lauksaimniecibu-videoieraksts-un-prezentacijas/</link>
-      <description>Lauksaimniekiem tagad pieejams vērtīgs resurss – konferences “Ceļā uz veselu laukSaimniecību” videoieraksts un lektoru prezentācijas, kas palīdz labāk...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/pieejams-konferences-cela-uz-veselu-lauksaimniecibu-videoieraksts-un-prezentacijas/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Izsludināts Zemkopības ministrijas konkurss lauksaimniekiem un pārtikas ražotājiem “Sējējs 2026”</title>
-      <link>https://llkc.lv/aktualitates/izsludinats-zemkopibas-ministrijas-konkurss-lauksaimniekiem-un-partikas-razotajiem-sejejs-2026/</link>
-      <description>Zemkopības ministrija (ZM) aicina pieteikt lauku saimniekus un uzņēmējus, jaunos zemniekus, pārtikas ražotājus un tirgotājus kā arī ģimenes laukos kon...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/izsludinats-zemkopibas-ministrijas-konkurss-lauksaimniekiem-un-partikas-razotajiem-sejejs-2026/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[AREI] Projekta FARM Biodiversity partneri tiekas Setomaa, Igaunijā</title>
       <link>https://www.arei.lv/lv/raksts/2026-04-27/projekta-farm-biodiversity-partneri-tiekas-setomaa-igaunija</link>
       <description>Projekta FARM Biodiversity partneri tiekas Setomaa, Igaunijā solvitasur Ce, 04/23/2026 - 09:53</description>
       <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-04-27/projekta-farm-biodiversity-partneri-tiekas-setomaa-igaunija</guid>
       <pubDate>Thu, 23 Apr 2026 06:53:57 +0000</pubDate>
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
-      <title>[LLKC] Robotizēto slaukšanas sistēmu darbība Latvijā</title>
-      <link>https://llkc.lv/aktualitates/robotizeto-slauksanas-sistemu-darbiba-latvija/</link>
-      <description>Dažādu apsvērumu – kvalitatīva darba spēka trūkuma, piena kvalitātes uzlabošanas, saimniecību ražošanas efektivitātes palielināšanas – un citu iemeslu...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/robotizeto-slauksanas-sistemu-darbiba-latvija/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[LBLA] Pieejami konferences “Bioloģiskās pārtikas pievienotā vērtība: cilvēkiem, dabai un ekonomikai” VIDEO</title>
@@ -572,28 +508,12 @@
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
-      <title>[LLKC] Žurnāla “Latvijas Lopkopis” aprīļa numurā</title>
-      <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-aprila-numura-2/</link>
-      <description>Žurnāla aprīļa izdevumā lasiet interviju ar Zemkopības ministrijas valsts sekretāra vietnieku Juri Zīvartu, kurš zemkopības sektorā sācis strādāt tika...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-aprila-numura-2/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LBLA] “Zaļais barometrs” pirms Saeimas vēlēšanām aicina skaidri iestāties par dabu, klimatu un sabiedrības veselību</title>
       <link>https://www.lbla.lv/zalais-barometrs-pirms-saeimas-velesanam-aicina-skaidri-iestaties-par-dabu-klimatu-un-sabiedribas-veselibu</link>
       <description>Latvijas vides organizāciju iniciatīva “Zaļais barometrs” aicina politiskās partijas, to apvienības savās programmās un veidotajās politikās konsekventi ievērot Latvijā, Eiropas Savienībā (ES) un starptautiski noteiktos mērķus un saistītās politikas dabas aizsardzības, klimata, enerģētikas, aprites ekonomikas, piesārņojuma un dabas resursu jomās. … ⇒</description>
       <guid isPermaLink="true">https://www.lbla.lv/zalais-barometrs-pirms-saeimas-velesanam-aicina-skaidri-iestaties-par-dabu-klimatu-un-sabiedribas-veselibu</guid>
       <pubDate>Wed, 29 Apr 2026 14:25:56 +0000</pubDate>
       <source url="https://www.lbla.lv/">LBLA</source>
-    </item>
-    <item>
-      <title>[LLKC] Trīs grūti gadi liek atbalstīt lauksaimniekus gan saimnieciski, gan psiholoģiski</title>
-      <link>https://llkc.lv/aktualitates/tris-gruti-gadi-liek-atbalstit-lauksaimniekus-gan-saimnieciski-gan-psihologiski/</link>
-      <description>Labāk bankrots, nekā atņemt sev dzīvību, «Bauskas Dzīvei» pārliecināti saka iecavniece Agita Hauka, taujāta par lauksaimnieku grūtībām pēc trim lietav...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/tris-gruti-gadi-liek-atbalstit-lauksaimniekus-gan-saimnieciski-gan-psihologiski/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[VAKS] Traktordiena 2026</title>
@@ -611,27 +531,11 @@
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
-      <title>[LLKC] Sezonas laukstrādnieku nodoklis</title>
-      <link>https://llkc.lv/aktualitates/sezonas-laukstradnieku-nodoklis-2/</link>
-      <description>No 1. aprīļa lauksaimniekiem atkal ir iespējams nodarbināt strādniekus, izmantojot sezonas laukstrādnieku nodokļa (SLN) režīmu. SLN režīmā ir ļoti vie...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/sezonas-laukstradnieku-nodoklis-2/</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Pētīt zinātniskas lietas praktiskā izpildījumā</title>
-      <link>https://llkc.lv/aktualitates/petit-zinatniskas-lietas-praktiska-izpildijuma/</link>
-      <description>Viens no svarīgiem un darbietilpīgiem LLKC darbības virzieniem ir demonstrējumu ierīkošana augkopībā un lopkopībā. Sākusies jauna sezona, un šogad lop...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/petit-zinatniskas-lietas-praktiska-izpildijuma/</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[Saimnieks.lv] Viedie pašapkalpošanās ledusskapji: jauna saimniecību stratēģija tiešajā tirdzniecībā</title>
       <link>https://www.saimnieks.lv/raksts/viedie-pasapkalposanas-ledusskapji-jauna-saimniecibu-strategija-tiesaja-tirdznieciba</link>
       <description>Lauksaimniecībā ražošanas efektivitāte vairs nav vienīgais panākumu stūrakm...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/viedie-pasapkalposanas-ledusskapji-jauna-saimniecibu-strategija-tiesaja-tirdznieciba</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -639,7 +543,7 @@
       <link>https://www.saimnieks.lv/raksts/augsnes-minerala-slapekla-monitoringa-rezultati-2026-gada-pavasari</link>
       <description>Valsts augu aizsardzības dienests (VAAD) no 17. marta līdz 24. martam veica...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augsnes-minerala-slapekla-monitoringa-rezultati-2026-gada-pavasari</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -647,7 +551,7 @@
       <link>https://www.saimnieks.lv/raksts/zemnieka-gens-un-ekonomista-aprekins-ka-izveidot-daudzfunkcionalu-mikro-saimniecibu-zemgale</link>
       <description>Arvien biežāk dzirdam diskusijas par mazo saimniecību dzīvotspēju un to vie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zemnieka-gens-un-ekonomista-aprekins-ka-izveidot-daudzfunkcionalu-mikro-saimniecibu-zemgale</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -655,7 +559,7 @@
       <link>https://www.saimnieks.lv/raksts/kad-graudaugu-raza-ir-janosarga</link>
       <description>Kad tiek veikti ieguldījumi kultūraugu audzēšanas tehnoloģijās, sagaidām, k...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kad-graudaugu-raza-ir-janosarga</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -663,7 +567,7 @@
       <link>https://www.saimnieks.lv/raksts/kartupelis-partikas-drosibas-balsts</link>
       <description>99 % Latvijas iedzīvotāju uzturā lieto kartupeļus, 31 % iegūst pārtiku bez ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kartupelis-partikas-drosibas-balsts</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -671,7 +575,7 @@
       <link>https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-maijam-2026</link>
       <description>Maijs ir tas laiks, kad visapkārt plaukst un zied. Tieši tāpēc jāspēj pabei...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-maijam-2026</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -679,7 +583,7 @@
       <link>https://www.saimnieks.lv/raksts/izturigas-skirnes-un-efektiva-aizsardziba-bayer-formula-augstam-razas-potencialam</link>
       <description>Maijā, kad pavasara veģetācija uzņem apgriezienus, lauksaimniekiem ir kriti...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izturigas-skirnes-un-efektiva-aizsardziba-bayer-formula-augstam-razas-potencialam</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -687,7 +591,7 @@
       <link>https://www.saimnieks.lv/raksts/digitalizacija-lauksaimnieciba-uzlabo-efektivitati-bet-izskirosa-ir-cilveka-kompetence</link>
       <description>Digitālās tehnoloģijas lauksaimniecībā būtiski uzlabo ražošanas efektivitāt...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/digitalizacija-lauksaimnieciba-uzlabo-efektivitati-bet-izskirosa-ir-cilveka-kompetence</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -695,7 +599,7 @@
       <link>https://www.saimnieks.lv/raksts/eagronom-pirmo-reizi-latvijas-lauksaimniekiem-izmaksa-ienakumus-no-oglekla-kreditu-pardosanas</link>
       <description>Pēc vairākiem iepriekš saņemtiem avansa maksājumiem pirmie Latvijas lauksai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/eagronom-pirmo-reizi-latvijas-lauksaimniekiem-izmaksa-ienakumus-no-oglekla-kreditu-pardosanas</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -703,7 +607,7 @@
       <link>https://www.saimnieks.lv/raksts/darba-ligums-ar-sezonas-darbinieku</link>
       <description>Darba likumā ir noteikti gadījumi, kad darba līgumu var slēgt uz noteiktu l...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/darba-ligums-ar-sezonas-darbinieku</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -711,7 +615,7 @@
       <link>https://www.saimnieks.lv/raksts/no-intuicijas-uz-precizu-matematiku-ka-lauksaimniekiem-pardzivot-dabas-un-ekonomikas-kaprizes</link>
       <description>Saimniekošana Latvijā pēdējos gados ir kļuvusi par sarežģītu līdzsvarošanas...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-intuicijas-uz-precizu-matematiku-ka-lauksaimniekiem-pardzivot-dabas-un-ekonomikas-kaprizes</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -719,7 +623,7 @@
       <link>https://www.saimnieks.lv/raksts/tehnologiju-jauda-un-precizitate-zs-rubuli</link>
       <description>Šodien zemnieku saimniecība Rubuļi ir vieta, kur līdztekus tradicionālajai ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/tehnologiju-jauda-un-precizitate-zs-rubuli</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -727,7 +631,7 @@
       <link>https://www.saimnieks.lv/raksts/energijas-cenu-ietekme-uz-inflaciju-kad-latvija-gaidit-partikas-un-citu-precu-cenu-pieaugumu</link>
       <description>Lai gan Latvijas iedzīvotāji jau konflikta pirmajās dienās izjuta Tuvo Aust...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/energijas-cenu-ietekme-uz-inflaciju-kad-latvija-gaidit-partikas-un-citu-precu-cenu-pieaugumu</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -735,7 +639,7 @@
       <link>https://www.saimnieks.lv/raksts/kukainu-dzivotnes-zalaji-un-saules-energija-austrijas-pieredze-biodiverse-projekta</link>
       <description>Aprīlī BiodIvErSe projekta partneri tikās Sanktpeltenē, Austrijā, lai klāti...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kukainu-dzivotnes-zalaji-un-saules-energija-austrijas-pieredze-biodiverse-projekta</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -743,7 +647,7 @@
       <link>https://www.saimnieks.lv/raksts/vdi-pern-konstatejusi-divreiz-vairak-neregistreti-nodarbinatu-arvalstnieku-neka-gadu-ieprieks</link>
       <description>Valsts darba inspekcija (VDI) pērn pārbaudēs saistībā ar nereģistrēto nodar...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vdi-pern-konstatejusi-divreiz-vairak-neregistreti-nodarbinatu-arvalstnieku-neka-gadu-ieprieks</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -751,7 +655,7 @@
       <link>https://www.saimnieks.lv/raksts/tris-gruti-gadi-liek-atbalstit-lauksaimniekus-gan-saimnieciski-gan-psihologiski</link>
       <description>Labāk bankrots, nekā atņemt sev dzīvību, «Bauskas Dzīvei» pārliecināti saka...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/tris-gruti-gadi-liek-atbalstit-lauksaimniekus-gan-saimnieciski-gan-psihologiski</guid>
-      <pubDate>Tue, 05 May 2026 22:31:29 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 23:53:20 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
