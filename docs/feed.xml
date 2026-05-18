@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Mon, 18 May 2026 20:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:47:24 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Jaunums: Automatizēts zvans piegādes kvalitātes kontrolei</title>
       <link>https://www.scandagra.lv/aktualitātes/jaunums-automatizets-zvans-piegades-kvalitates-kontrolei/</link>
@@ -854,14 +854,6 @@ Mierpilnus un gaišus…</title>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
-      <title>[LLKC] Sezonas laukstrādnieku nodoklis</title>
-      <link>https://llkc.lv/aktualitates/sezonas-laukstradnieku-nodoklis-2/</link>
-      <description>No 1. aprīļa lauksaimniekiem atkal ir iespējams nodarbināt strādniekus, izmantojot sezonas laukstrādnieku nodokļa (SLN) režīmu. SLN režīmā ir ļoti vie...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/sezonas-laukstradnieku-nodoklis-2/</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LLKC] Pētīt zinātniskas lietas praktiskā izpildījumā</title>
       <link>https://llkc.lv/aktualitates/petit-zinatniskas-lietas-praktiska-izpildijuma/</link>
       <description>Viens no svarīgiem un darbietilpīgiem LLKC darbības virzieniem ir demonstrējumu ierīkošana augkopībā un lopkopībā. Sākusies jauna sezona, un šogad lop...</description>
@@ -1373,11 +1365,19 @@ Mierpilnus un gaišus…</title>
       <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
+      <title>[LLKC] Dārzkopības saimniecības aicina piedalīties starptautiskā attīstības projektā</title>
+      <link>https://llkc.lv/aktualitates/darzkopibas-saimniecibas-aicina-piedalities-starptautiska-attistibas-projekta/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) aicina jaunos dārzkopības produkcijas ražotājus, kuri vēlas attīstīt savu uzņēmumu, piedalītie...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/darzkopibas-saimniecibas-aicina-piedalities-starptautiska-attistibas-projekta/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] VAAD izsniedz pirmo elektronisko fitosanitāro sertifikātu - ePhyto</title>
       <link>https://www.saimnieks.lv/raksts/vaad-izsniedz-pirmo-elektronisko-fitosanitaro-sertifikatu-ephyto</link>
       <description>Latvijā uzsākta elektronisko fitosanitāro sertifikātu (ePhyto) izsniegšana,...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-izsniedz-pirmo-elektronisko-fitosanitaro-sertifikatu-ephyto</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1385,7 +1385,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/mobilajai-lietotnei-uzlabota-kartes-funkcionalitate</link>
       <description>Šonedēļ publicēta jaunākā Lauku atbalsta dienesta (LAD) mobilās lietotnes v...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mobilajai-lietotnei-uzlabota-kartes-funkcionalitate</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1393,7 +1393,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/kina-pasaules-milzis-ari-mezsaimnieciba</link>
       <description>Mežsaimniecība Ķīnā ir piedzīvojusi krasas pārmaiņas, transformējoties no i...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kina-pasaules-milzis-ari-mezsaimnieciba</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1401,7 +1401,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/marcis-pelcis-krapnieki-izmanto-speles-un-laimes-ratus-merkis-uznemumi-un-to-darbinieki</link>
       <description>Krāpnieki Latvijā arvien aktīvāk vēršas gan pret privātpersonām, gan pret u...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/marcis-pelcis-krapnieki-izmanto-speles-un-laimes-ratus-merkis-uznemumi-un-to-darbinieki</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1409,7 +1409,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/mazzalve-notiks-vaislas-jaunbullu-izstade-un-izsole</link>
       <description>Aizkraukles novada Mazzalves pagastā piektdien, 15. maijā, notiks vaislas j...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mazzalve-notiks-vaislas-jaunbullu-izstade-un-izsole</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1417,7 +1417,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/turpinas-meza-dzivnieku-vakcinacija-izmantojot-mazas-aviacijas-lidmasinas</link>
       <description>Pārtikas un veterinārais dienests informē, ka no rītdienas, 11. maija austr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpinas-meza-dzivnieku-vakcinacija-izmantojot-mazas-aviacijas-lidmasinas</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1425,7 +1425,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/migrejoso-putnu-nodaritie-postijumi-un-risinajumi</link>
       <description>LLKC Pierīgas birojs ar Dabas aizsardzības pārvaldes atbalstu aicināja inte...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/migrejoso-putnu-nodaritie-postijumi-un-risinajumi</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1433,7 +1433,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/gadatirgu-un-izstazu-sezona-ko-vertigi-atcereties-pircejiem-un-pardevejiem</link>
       <description>Līdz ar aktīvās gadatirgu un izstāžu sezonas sākumu pieaug gan pircēju inte...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/gadatirgu-un-izstazu-sezona-ko-vertigi-atcereties-pircejiem-un-pardevejiem</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1441,7 +1441,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/parmainas-liellopu-razosanas-struktura</link>
       <description>Latvijas liellopu gaļas ražošanas nozarē vērojama dinamiska izaugsme: divas...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/parmainas-liellopu-razosanas-struktura</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1449,7 +1449,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/ko-genetika-pasaka-agrak-neka-mes-pasi-pamanam</link>
       <description>Kamēr piena lopkopībā genoma testi ir ikdiena, gaļas liellopu audzētāji šo ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ko-genetika-pasaka-agrak-neka-mes-pasi-pamanam</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1457,7 +1457,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/zs-kalna-rubeni-izaugsmes-stasts</link>
       <description>Madonas novada Praulienas pagastā, ainaviskā vietā atrodas zemnieku saimnie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zs-kalna-rubeni-izaugsmes-stasts</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1465,7 +1465,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/nepietiekami-termiski-apstradatas-pupinas-esosie-lektini-rada-risku-veselibai</link>
       <description>Lektīni ir dabiski sastopamas olbaltumvielas daudzos augos – pākšaugos (pie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/nepietiekami-termiski-apstradatas-pupinas-esosie-lektini-rada-risku-veselibai</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1473,7 +1473,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/varbut-sogad-vel-neiet-pie-zobarsta</link>
       <description>Itin bieži darbs un rūpes par saimniecību un ģimeni tiek noteiktas par prio...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/varbut-sogad-vel-neiet-pie-zobarsta</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1481,7 +1481,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/efektiva-pilsetvides-parvaldiba-karcher-komunalas-tehnikas-pasaule</link>
       <description>Iedomājieties iekārtu, kas pavasarī precīzi iztīra katru ietves malu un kak...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/efektiva-pilsetvides-parvaldiba-karcher-komunalas-tehnikas-pasaule</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1489,7 +1489,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/individualo-lauksaimniecibas-un-mezsaimniecibas-transportlidzeklu-apstiprinasana-latvija</link>
       <description>Ikdienā tautsaimniecības nozarēs bieži sastopami transportlīdzekļi, kas nea...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/individualo-lauksaimniecibas-un-mezsaimniecibas-transportlidzeklu-apstiprinasana-latvija</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1497,7 +1497,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/lopbaribas-kvalitates-standarts-latvijas-laukos-krone-rullu-preses</link>
       <description>Sezonu no sezonas nemainīgi KRONE mērķis ir nodrošināt lauksaimniekiem uzti...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lopbaribas-kvalitates-standarts-latvijas-laukos-krone-rullu-preses</guid>
-      <pubDate>Mon, 18 May 2026 20:14:44 +0000</pubDate>
+      <pubDate>Mon, 18 May 2026 21:47:24 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
