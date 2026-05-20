@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Wed, 20 May 2026 08:32:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:30:46 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Jaunums: Automatizēts zvans piegādes kvalitātes kontrolei</title>
       <link>https://www.scandagra.lv/aktualitātes/jaunums-automatizets-zvans-piegades-kvalitates-kontrolei/</link>
@@ -181,14 +181,6 @@
       <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/mineralmeslu-tirgus-apskats-un-lauku-monitorings/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
-    </item>
-    <item>
-      <title>[AREI] Lielākie graudaugu sēklu lauki Latvijā - ziemas kviešu šķirnei 'BRIGENS'</title>
-      <link>https://www.arei.lv/lv/raksts/2026-02-13/lielakie-graudaugu-seklu-lauki-latvija-ziemas-kviesu-skirnei-brigens</link>
-      <description>Lielākie graudaugu sēklu lauki Latvijā - ziemas kviešu šķirnei 'BRIGENS' solvitasur Pk, 02/13/2026 - 12:02</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-02-13/lielakie-graudaugu-seklu-lauki-latvija-ziemas-kviesu-skirnei-brigens</guid>
-      <pubDate>Fri, 13 Feb 2026 10:02:11 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
       <title>[AREI] AREI zinātnieki ikgadējā konferencē "Līdzsvarota lauksaimniecība"</title>
@@ -822,14 +814,6 @@ Mierpilnus un gaišus…</title>
       <source url="https://www.facebook.com/agrochema.lv/">Agrochema</source>
     </item>
     <item>
-      <title>[LLKC] Iznācis “Lauku Lapas” maija numurs</title>
-      <link>https://llkc.lv/aktualitates/iznacis-lauku-lapas-maija-numurs/</link>
-      <description>Izdevuma “Lauku Lapa” maija numurā atgādinām par platību maksājumu pieteikumu iesniegšanas termiņu un individuālo konsultāciju programmu lauksaimniek...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/iznacis-lauku-lapas-maija-numurs/</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LLKC] Piesakies interešu grupām par ES atbalstu mežsaimniecībā!</title>
       <link>https://llkc.lv/aktualitates/piesakies-interesu-grupam-par-es-atbalstu-mezsaimnieciba/</link>
       <description>Ja vēlies, lai mežs ir produktīvāks un pelna vairāk, šī ir iespēja, ko nevajadzētu palaist garām! Aicinām pieteikties interešu grupām par ES atbalstu ...</description>
@@ -1357,6 +1341,14 @@ Mierpilnus un gaišus…</title>
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
     </item>
     <item>
+      <title>[LLKC] Žurnāla “Latvijas Lopkopis” maija numurā</title>
+      <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-maija-numura/</link>
+      <description>Latvijai kā piena eksportētājvalstij ir svarīgi nodrošināt savu konkurētspēju starptautiskā līmenī. Žurnāla maija izdevumā ekonomists Raivis Andersons...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-maija-numura/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Linas Agro (FB)] Fungicīds VERBEN (Corteva Agriscience)</title>
       <link>https://www.facebook.com/linasagro.lv/posts/pfbid0WKxFzqh6rmQrBmx4K4eXfMFMBhjYPtkHddBzxyBpbiTjkveuPiwpN3JtzoR9xCV1l</link>
       <description>Fungicīds VERBEN (Corteva Agriscience) 🌦️ Šobrīd ir ideāli apstākļi graudzāļu miltrasas un kviešu lapu pelēkplankumainības attīstībai, tāpēc ir svarīgi izvēlēties pašu efektīvāko aizsardzību! 🏆 Verben – viens no spēcīgākajiem un efektīvākajiem fungicīdu risinājumiem Latvijas tirgū uz graudzaļu miltrasas ierobežošanu! ✅ Efektīvi ierobežo: * graudzāļu miltrasu * dzeltenplankumainību * kviešu lapu pelēkplankumainību 💪 Verben nodrošina ilgstošu aizsardzību, palīdz saglabāt veselīgu sējumu un maksim</description>
@@ -1373,11 +1365,27 @@ Mierpilnus un gaišus…</title>
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
     </item>
     <item>
+      <title>[AREI] Aktuālais projektā par tehnoloģijas izstrādi militāro operāciju piesārņoto augšņu fitoremediācijai</title>
+      <link>https://www.arei.lv/lv/raksts/2026-05-20/aktualais-projekta-par-tehnologijas-izstradi-militaro-operaciju-piesarnoto-augsnu</link>
+      <description>Aktuālais projektā par tehnoloģijas izstrādi militāro operāciju piesārņoto augšņu fitoremediācijai solvitasur Tr, 05/20/2026 - 13:43</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-05-20/aktualais-projekta-par-tehnologijas-izstradi-militaro-operaciju-piesarnoto-augsnu</guid>
+      <pubDate>Wed, 20 May 2026 10:43:50 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] “#LaukiZied” atgriežas sesto gadu ar līdz šim lielāko fotostendu skaitu Latvijā.</title>
+      <link>https://www.saimnieks.lv/raksts/laukizied-atgriezas-sesto-gadu-ar-lidz-sim-lielako-fotostendu-skaitu-latvija</link>
+      <description>Jau sesto gadu pēc kārtas biedrība “Apvienība par ilgtspējīgu lauksaimniecī...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/laukizied-atgriezas-sesto-gadu-ar-lidz-sim-lielako-fotostendu-skaitu-latvija</guid>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Latvijas eksperti iepazīstina Uzbekistānas lauksaimniekus ar kooperācijas priekšrocībām</title>
       <link>https://www.saimnieks.lv/raksts/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam</link>
       <description>Vizīte Uzbekistānā notika 12.–15. maijā projekta “Strengthening the economi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1385,7 +1393,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/life-vertibas-radisana-no-siera-blakusproduktiem</link>
       <description>Eiropas patērētāji gadā apēd gandrīz 10 miljonus tonnu siera – vidēji aptuv...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/life-vertibas-radisana-no-siera-blakusproduktiem</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1393,7 +1401,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/lad-aicina-savlaicigi-iesniegt-platibu-maksajumu-pieteikumus</link>
       <description>Lauku atbalsta dienests (LAD) aicina lauksaimniekus iesniegt platību maksāj...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-aicina-savlaicigi-iesniegt-platibu-maksajumu-pieteikumus</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1401,7 +1409,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/augu-veselibas-kampanas-planthealth4life-nosledzosais-gads</link>
       <description>“PlantHealth4Life” palīdz apzināties, kāda rīcība ikdienā var pasargāt augu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augu-veselibas-kampanas-planthealth4life-nosledzosais-gads</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1409,7 +1417,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/aicinam-pieteikt-pretendentus-gada-balvai-zivsaimnieciba-lielais-loms-2026</link>
       <description>Zemkopības ministrija aicina pieteikt zivsaimniecības nozares uzņēmumus un ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-pieteikt-pretendentus-gada-balvai-zivsaimnieciba-lielais-loms-2026</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1417,7 +1425,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/asv-inflacijas-spiediens-pieaug-eirozona-stagnacijas-pazimes</link>
       <description>Aprīlī ASV gada inflācija turpināja paātrināties līdz 3,8 %, salīdzinājumā ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/asv-inflacijas-spiediens-pieaug-eirozona-stagnacijas-pazimes</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1425,7 +1433,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/mezu-nozime-klimata-regulesana-kailcirtes-un-nekailcirtes</link>
       <description>Diskusija par mežu nozīmi klimata regulēšanā, CO₂ piesaisti un mežizstrādi ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mezu-nozime-klimata-regulesana-kailcirtes-un-nekailcirtes</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1433,7 +1441,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/vaad-izsniedz-pirmo-elektronisko-fitosanitaro-sertifikatu-ephyto</link>
       <description>Latvijā uzsākta elektronisko fitosanitāro sertifikātu (ePhyto) izsniegšana,...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-izsniedz-pirmo-elektronisko-fitosanitaro-sertifikatu-ephyto</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1441,7 +1449,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/mobilajai-lietotnei-uzlabota-kartes-funkcionalitate</link>
       <description>Šonedēļ publicēta jaunākā Lauku atbalsta dienesta (LAD) mobilās lietotnes v...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mobilajai-lietotnei-uzlabota-kartes-funkcionalitate</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1449,7 +1457,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/kina-pasaules-milzis-ari-mezsaimnieciba</link>
       <description>Mežsaimniecība Ķīnā ir piedzīvojusi krasas pārmaiņas, transformējoties no i...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kina-pasaules-milzis-ari-mezsaimnieciba</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1457,7 +1465,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/marcis-pelcis-krapnieki-izmanto-speles-un-laimes-ratus-merkis-uznemumi-un-to-darbinieki</link>
       <description>Krāpnieki Latvijā arvien aktīvāk vēršas gan pret privātpersonām, gan pret u...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/marcis-pelcis-krapnieki-izmanto-speles-un-laimes-ratus-merkis-uznemumi-un-to-darbinieki</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1465,7 +1473,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/mazzalve-notiks-vaislas-jaunbullu-izstade-un-izsole</link>
       <description>Aizkraukles novada Mazzalves pagastā piektdien, 15. maijā, notiks vaislas j...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mazzalve-notiks-vaislas-jaunbullu-izstade-un-izsole</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1473,7 +1481,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/turpinas-meza-dzivnieku-vakcinacija-izmantojot-mazas-aviacijas-lidmasinas</link>
       <description>Pārtikas un veterinārais dienests informē, ka no rītdienas, 11. maija austr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpinas-meza-dzivnieku-vakcinacija-izmantojot-mazas-aviacijas-lidmasinas</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1481,7 +1489,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/migrejoso-putnu-nodaritie-postijumi-un-risinajumi</link>
       <description>LLKC Pierīgas birojs ar Dabas aizsardzības pārvaldes atbalstu aicināja inte...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/migrejoso-putnu-nodaritie-postijumi-un-risinajumi</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1489,15 +1497,7 @@ Mierpilnus un gaišus…</title>
       <link>https://www.saimnieks.lv/raksts/gadatirgu-un-izstazu-sezona-ko-vertigi-atcereties-pircejiem-un-pardevejiem</link>
       <description>Līdz ar aktīvās gadatirgu un izstāžu sezonas sākumu pieaug gan pircēju inte...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/gadatirgu-un-izstazu-sezona-ko-vertigi-atcereties-pircejiem-un-pardevejiem</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Pārmaiņas liellopu ražošanas struktūrā</title>
-      <link>https://www.saimnieks.lv/raksts/parmainas-liellopu-razosanas-struktura</link>
-      <description>Latvijas liellopu gaļas ražošanas nozarē vērojama dinamiska izaugsme: divas...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/parmainas-liellopu-razosanas-struktura</guid>
-      <pubDate>Wed, 20 May 2026 08:28:05 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 11:30:46 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
