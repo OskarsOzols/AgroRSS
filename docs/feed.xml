@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Sat, 30 May 2026 19:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 21:03:59 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Jaunums: Automatizēts zvans piegādes kvalitātes kontrolei</title>
       <link>https://www.scandagra.lv/aktualitātes/jaunums-automatizets-zvans-piegades-kvalitates-kontrolei/</link>
@@ -832,22 +832,6 @@ Mierpilnus un gaišus…</title>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
-      <title>[LLKC] Aicinām uz lauka dienu piena lopkopības saimniecībā</title>
-      <link>https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-piena-lopkopibas-saimnieciba/</link>
-      <description>LLKC sadarbībā ar piena lopkopības saimniecību SIA “Ogres piens”, Zemnieku saeimu un LBTU aicina apmeklēt demonstrējuma lauka dienu piensaimniecībā pa...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-piena-lopkopibas-saimnieciba/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Dārzkopības saimniecības aicina piedalīties starptautiskā attīstības projektā</title>
-      <link>https://llkc.lv/aktualitates/darzkopibas-saimniecibas-aicina-piedalities-starptautiska-attistibas-projekta/</link>
-      <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) aicina jaunos dārzkopības produkcijas ražotājus, kuri vēlas attīstīt savu uzņēmumu, piedalītie...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/darzkopibas-saimniecibas-aicina-piedalities-starptautiska-attistibas-projekta/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[Agrochema] Pareizs mēslojums = saldākas ogas</title>
       <link>https://www.facebook.com/reel/1320215980229241/</link>
       <description>Pareizs mēslojums = saldākas ogas? 🍓 Šis mēslojums veicina lielākas ogas un augstāku cukura līmeni. 💡 Bagātīga un garšīga raža. Lieto to regulāri – un redzēsi atšķirību! #darzaguru #pavasaris #agrochema #darzadarbi</description>
@@ -862,22 +846,6 @@ Mierpilnus un gaišus…</title>
       <guid isPermaLink="true">https://www.facebook.com/agerona.latvija/posts/pfbid036FpDwYgFdZqwbYTFYcDqXxrmGJzZ7em8DSccuwaqDbZm1PQSgpgK3rcHJsJbhUspl</guid>
       <pubDate>Mon, 18 May 2026 13:08:43 +0000</pubDate>
       <source url="https://www.facebook.com/agerona.latvija/">Agerona Latvija</source>
-    </item>
-    <item>
-      <title>[LLKC] Lauksaimnieku un meža īpašnieku aptauja par Latvijas upju baseinu apsaimniekošanas plānu ieviešanu</title>
-      <link>https://llkc.lv/aktualitates/lauksaimnieku-un-meza-ipasnieku-aptauja-par-latvijas-upju-baseinu-apsaimniekosanas-planu-ieviesanu/</link>
-      <description>Zemkopības ministrija ir Eiropas Savienības LIFE programmas integrētā projekta "Latvijas upju baseinu apsaimniekošanas plānu ieviešana laba virszemes ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/lauksaimnieku-un-meza-ipasnieku-aptauja-par-latvijas-upju-baseinu-apsaimniekosanas-planu-ieviesanu/</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Latvijas eksperti iepazīstina Uzbekistānas lauksaimniekus ar kooperācijas priekšrocībām</title>
-      <link>https://llkc.lv/aktualitates/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam/</link>
-      <description>Vizīte Uzbekistānā notika 12.–15. maijā projekta “Strengthening the economic capacity and efficiency of small and medium-sized farmers in Uzbekistan” ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam/</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agerona Latvija] Agerona paplašina komandu 🌾</title>
@@ -909,14 +877,6 @@ Mierpilnus un gaišus…</title>
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/12-junija-projekta-livet-nosleguma-pasakums/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[LLKC] Žurnāla “Latvijas Lopkopis” maija numurā</title>
-      <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-maija-numura/</link>
-      <description>Latvijai kā piena eksportētājvalstij ir svarīgi nodrošināt savu konkurētspēju starptautiskā līmenī. Žurnāla maija izdevumā ekonomists Raivis Andersons...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-maija-numura/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Bayer CropScience Latvija] #AgronomsPlāno</title>
@@ -957,14 +917,6 @@ Mierpilnus un gaišus…</title>
       <guid isPermaLink="true">https://www.facebook.com/reel/1728148278552629/</guid>
       <pubDate>Wed, 20 May 2026 16:07:40 +0000</pubDate>
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
-    </item>
-    <item>
-      <title>[LLKC] Sarunas par mantojumu un kopējo labumu – ceļā uz lauksaimnieku saietu “3 ZĪLES”</title>
-      <link>https://llkc.lv/aktualitates/sarunas-par-mantojumu-un-kopejo-labumu-cela-uz-lauksaimnieku-saietu-3-ziles/</link>
-      <description>Gatavojoties lauksaimnieku saietam “3 ZĪLES”, kas norisināsies 8. jūlijā, šī gada pavasarī aizvadīti divi dialoga apļi LLKC Mācību un demonstrējumu ce...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/sarunas-par-mantojumu-un-kopejo-labumu-cela-uz-lauksaimnieku-saietu-3-ziles/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[LATRAPS] Aiz cenas slēpjas vairāk – uzticamība, atbalsts un reāls segums</title>
@@ -1043,14 +995,6 @@ Mierpilnus un gaišus…</title>
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/aicinam-uz-lauka-dienu-piena-lopkopibas-saimnieciba-2/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[LLKC] Zālāju monitorings “Pļaušanas serviss”: stiebrzāles un lucerna strauji tuvojas pļaujai</title>
-      <link>https://llkc.lv/aktualitates/zalaju-monitorings-plausanas-serviss-stiebrzales-un-lucerna-strauji-tuvojas-plaujai/</link>
-      <description>Maija otrajā nedēļā Latvijā laikapstākļi bija mainīgi – vēsāks periods mainījās ar siltākām un saulainākām dienām. Nakts gaisa temperatūra lielākoties...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/zalaju-monitorings-plausanas-serviss-stiebrzales-un-lucerna-strauji-tuvojas-plaujai/</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[AREI] EUBCE 2026 konferencē Nīderlandē</title>
@@ -1167,14 +1111,6 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
     </item>
     <item>
-      <title>[LLKC] No bagātīgas ziedēšanas līdz pilnīgai nosalšanai – augļkopja vērtējums pēc bargās ziemas</title>
-      <link>https://llkc.lv/aktualitates/no-bagatigas-ziedesanas-lidz-pilnigai-nosalsanai-auglkopja-vertejums-pec-bargas-ziemas/</link>
-      <description>Maija otrā puse ir laiks, kad vislabāk iespējams izvērtēt, kā aizvadītā ziema ietekmējusi augļu kokus Latvijas dārzos. Šogad situācija daudzviet Latvi...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/no-bagatigas-ziedesanas-lidz-pilnigai-nosalsanai-auglkopja-vertejums-pec-bargas-ziemas/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[AgTech LV] 🚨 IZPĀRDOŠANA — XAG P100 PRO DEMO 2025</title>
       <link>https://www.facebook.com/reel/1001563065812774/</link>
       <description>🚨 IZPĀRDOŠANA — XAG P100 PRO DEMO 2025 Profesionāls lauksaimniecības drons pieejams uzreiz. Komplektācijā: ✔ 50L šķidruma tvertne ✔ 80L kaisīšanas sistēma ✔ ARC 3 PRO vadības pults ar RTK ✔ 6 akumulatori ✔ Ģeneratori ✔ Dzesēšanas tvertne 💥 DEMO tehnika labā stāvoklī 📍 Pieejams AGTECH 📩 Sazinies ar AGTECH konsultantiem. https://www.agtech.lv/veikals/Agrodrons-XAG-P100-PRO-DEMO-2025-p787415119 #AGTECH #XAG #P100PRO #Izpārdošana #Agrodroni #PrecīzāLauksaimniecība #Lauksaimniecība</description>
@@ -1205,22 +1141,6 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <guid isPermaLink="true">https://www.facebook.com/reel/2092297708390956/</guid>
       <pubDate>Tue, 26 May 2026 18:00:29 +0000</pubDate>
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
-    </item>
-    <item>
-      <title>[LLKC] LLKC: Resursu pieejamība un laikapstākļi ietekmē ziemāju ražas līmeni</title>
-      <link>https://llkc.lv/aktualitates/llkc-resursu-pieejamiba-un-laikapstakli-ietekme-ziemaju-razas-limeni/</link>
-      <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) augkopības ekspertu veiktās ziemāju labību un ziemas rapša apsekošanas rezultāti liecina, ka 2...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/llkc-resursu-pieejamiba-un-laikapstakli-ietekme-ziemaju-razas-limeni/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Zālāju monitorings “Pļaušanas serviss”: steidzami jāpļauj un jākopj nopļautās platības</title>
-      <link>https://llkc.lv/aktualitates/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana/</link>
-      <description>Tā kā daudzas saimniecības jau uzsākušas zāles skābbarības vākšanu vai pat tuvojas pirmā pļāvuma beigām, svarīgi saprast nākamos soļus. Zālājam pēc pļ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agerona Latvija] 🌾 Lauksaimniecībā riski ir daļa no ikdienas, un katram ir sava pieeja, kā tos sadalīt un pieņemt lēmumus</title>
@@ -1327,22 +1247,6 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <source url="https://www.facebook.com/AgTechLV/">AgTech LV</source>
     </item>
     <item>
-      <title>[LLKC] Latvijas Bankas vadlīnijas par dabas daudzveidībai labvēlīgo darbību noteikšanu ietver arī nozīmīgas prasības mežsaimniecībā</title>
-      <link>https://llkc.lv/aktualitates/latvijas-bankas-vadlinijas-par-dabas-daudzveidibai-labveligo-darbibu-noteiksanu-ietver-ari-nozimigas-prasibas-mezsaimnieciba/</link>
-      <description>Latvijā izstrādātas jaunas vadlīnijas dabas daudzveidībai labvēlīgas un nelabvēlīgas saimnieciskās darbības izvērtēšanai. Tās tapušas "Latvijas Banka"...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/latvijas-bankas-vadlinijas-par-dabas-daudzveidibai-labveligo-darbibu-noteiksanu-ietver-ari-nozimigas-prasibas-mezsaimnieciba/</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Soli tuvāk klimatviedai lauksaimniecībai</title>
-      <link>https://llkc.lv/aktualitates/soli-tuvak-klimatviedai-lauksaimniecibai/</link>
-      <description>28. maijā Latvijas Lauku konsultāciju un izglītības centrā (LLKC) Ozolniekos norisinājās pirmā tikšanās projekta ClimateSmartAdvisors 2. konsultantu ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/soli-tuvak-klimatviedai-lauksaimniecibai/</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[BASF Agricultural Solutions] 🚜Ziņas no lauka</title>
       <link>https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0io9ZaxrzS9FWZyMEgae9BeQSnjmZUb5tDDscoFdhJxh3NoLwXUrhqkcKY5mco6ZJl</link>
       <description>🚜Ziņas no lauka ❗️❗️Kas ir riska zona ziemas miežu ražai - un ko darīt, ja pirmās slimību pazīmes jau redzamas? Apsekojot ziemas miežu sējumus, redzam, ka augi sasnieguši AS39 attīstības stadiju. 🔍 Uz miežu lapām var novērot šķirnes rezistences izpausmi pret patogēnu - miltrasas ierosinātāju - tumši, izplūduši plankumi. Tas ir skaidrs signāls: patogēni ir aktīvi, un bez savlaicīgas rīcības var ietekmēt ražu. 🆘Svarīgi: otrā lapa veido līdz pat 40% no ražas potenciāla, tāpēc tās aizsardzībai ir</description>
@@ -1395,7 +1299,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/visa-latvijas-teritorija-atsakusas-ikgadejas-meza-apsekojumu-parbaudes</link>
       <description>No 15. maija Valsts augu aizsardzības dienesta (VAAD) augu karantīnas inspe...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/visa-latvijas-teritorija-atsakusas-ikgadejas-meza-apsekojumu-parbaudes</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1403,7 +1307,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana</link>
       <description>Tā kā daudzas saimniecības jau uzsākušas zāles skābbarības vākšanu vai pat ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1411,7 +1315,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/vienkarsota-meslosanas-lidzeklu-registracija-un-paatrinats-produktu-nonaksanas-tirgu-process</link>
       <description>12. maijā Ministru kabinets atbalstījis Zemkopības ministrijas izstrādātos ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vienkarsota-meslosanas-lidzeklu-registracija-un-paatrinats-produktu-nonaksanas-tirgu-process</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1419,7 +1323,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/lad-turpina-lauksaimniecibas-zemju-monitoringu-un-apsekosanu-ar-droniem</link>
       <description>Lauku atbalsta dienests informē, ka arī 2026. gadā lauksaimniecības zemju a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-turpina-lauksaimniecibas-zemju-monitoringu-un-apsekosanu-ar-droniem</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1427,7 +1331,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/krapnieki-spele-uz-varonu-instinktiem-tris-scenariji-kuros-cilveki-zaude-naudu-majokli-un-uzticibu</link>
       <description>Krāpnieki kļūst arvien radošāki – viņu scenāriji kļūst sarežģītāki, pārliec...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/krapnieki-spele-uz-varonu-instinktiem-tris-scenariji-kuros-cilveki-zaude-naudu-majokli-un-uzticibu</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1435,7 +1339,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/lauksaimnieki-vares-atrak-pieteikties-atbalstam-vienkarsota-zinosana-par-laikapstaklu-negativo-ietekmi</link>
       <description>26. maijā, valdība atbalstīja Zemkopības ministrijas izstrādātos grozījumus...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-vares-atrak-pieteikties-atbalstam-vienkarsota-zinosana-par-laikapstaklu-negativo-ietekmi</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1443,7 +1347,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/llkc-resursu-pieejamiba-un-laikapstakli-ietekme-ziemaju-razas-limeni</link>
       <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) augkopības ekspertu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/llkc-resursu-pieejamiba-un-laikapstakli-ietekme-ziemaju-razas-limeni</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1451,7 +1355,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/geopolitiska-spriedze-butiski-maina-situaciju-graudu-un-rapsa-tirgu</link>
       <description>ASV Lauksaimniecības departamenta (USDA) maija prognozes iezīmē saspringtāk...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/geopolitiska-spriedze-butiski-maina-situaciju-graudu-un-rapsa-tirgu</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1459,7 +1363,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/lauksaimniecibas-masintraktoriem-bus-vienota-registracijas-un-kontroles-kartiba</link>
       <description>19. maijā, Ministru kabinets atbalstīja Zemkopības ministrijas izstrādātos ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimniecibas-masintraktoriem-bus-vienota-registracijas-un-kontroles-kartiba</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1467,7 +1371,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/laukizied-atgriezas-sesto-gadu-ar-lidz-sim-lielako-fotostendu-skaitu-latvija</link>
       <description>Jau sesto gadu pēc kārtas biedrība “Apvienība par ilgtspējīgu lauksaimniecī...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/laukizied-atgriezas-sesto-gadu-ar-lidz-sim-lielako-fotostendu-skaitu-latvija</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1475,7 +1379,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam</link>
       <description>Vizīte Uzbekistānā notika 12.–15. maijā projekta “Strengthening the economi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-eksperti-iepazistina-uzbekistanas-lauksaimniekus-ar-kooperacijas-prieksrocibam</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1483,7 +1387,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/life-vertibas-radisana-no-siera-blakusproduktiem</link>
       <description>Eiropas patērētāji gadā apēd gandrīz 10 miljonus tonnu siera – vidēji aptuv...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/life-vertibas-radisana-no-siera-blakusproduktiem</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1491,7 +1395,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/lad-aicina-savlaicigi-iesniegt-platibu-maksajumu-pieteikumus</link>
       <description>Lauku atbalsta dienests (LAD) aicina lauksaimniekus iesniegt platību maksāj...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-aicina-savlaicigi-iesniegt-platibu-maksajumu-pieteikumus</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1499,7 +1403,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/augu-veselibas-kampanas-planthealth4life-nosledzosais-gads</link>
       <description>“PlantHealth4Life” palīdz apzināties, kāda rīcība ikdienā var pasargāt augu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augu-veselibas-kampanas-planthealth4life-nosledzosais-gads</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1507,7 +1411,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/aicinam-pieteikt-pretendentus-gada-balvai-zivsaimnieciba-lielais-loms-2026</link>
       <description>Zemkopības ministrija aicina pieteikt zivsaimniecības nozares uzņēmumus un ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-pieteikt-pretendentus-gada-balvai-zivsaimnieciba-lielais-loms-2026</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1515,7 +1419,7 @@ Vai pamanīji, cik dažādi zied rapšu lauki?😉
       <link>https://www.saimnieks.lv/raksts/asv-inflacijas-spiediens-pieaug-eirozona-stagnacijas-pazimes</link>
       <description>Aprīlī ASV gada inflācija turpināja paātrināties līdz 3,8 %, salīdzinājumā ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/asv-inflacijas-spiediens-pieaug-eirozona-stagnacijas-pazimes</guid>
-      <pubDate>Sat, 30 May 2026 19:49:31 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 21:03:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
