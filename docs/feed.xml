@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 05:14:34 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Spēcīgas saknes, bagātīga raža – spēks Ino Wheat sastāvā</title>
       <link>https://www.scandagra.lv/aktualitātes/specigas-saknes-bagatiga-raza-speks-ino-wheat-sastava/</link>
@@ -483,6 +483,14 @@
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
+      <title>[LLKC] Soli tuvāk klimatviedai lauksaimniecībai</title>
+      <link>https://llkc.lv/aktualitates/soli-tuvak-klimatviedai-lauksaimniecibai/</link>
+      <description>28. maijā Latvijas Lauku konsultāciju un izglītības centrā (LLKC) Ozolniekos norisinājās pirmā tikšanās projekta ClimateSmartAdvisors 2. konsultantu ...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/soli-tuvak-klimatviedai-lauksaimniecibai/</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[AREI] AREI agrīnās karjeras pētnieki stiprina sadarbību un dalās starptautiskajā pieredzē projekta SENS4CORN ietvaros</title>
       <link>https://www.arei.lv/lv/raksts/2026-05-29/arei-agrinas-karjeras-petnieki-stiprina-sadarbibu-un-dalas-starptautiskaja</link>
       <description>AREI agrīnās karjeras pētnieki stiprina sadarbību un dalās starptautiskajā pieredzē projekta SENS4CORN ietvaros solvitasur Pk, 05/29/2026 - 14:12</description>
@@ -505,6 +513,94 @@
       <guid isPermaLink="true">https://www.vaks.lv/vaks-lauku-diena-atasiene-2026/</guid>
       <pubDate>Wed, 03 Jun 2026 13:18:58 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
+    </item>
+    <item>
+      <title>[LLKC] Iznācis “Lauku Lapas” jūnija numurs</title>
+      <link>https://llkc.lv/aktualitates/iznacis-lauku-lapas-junija-numurs-2/</link>
+      <description>Izdevuma “Lauku Lapa” jūnija numurā atgādinām, ka līdz 26. jūnijam var pieteikt pretendentus konkursiem ”Sējējs” un ”Lielais loms”....</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/iznacis-lauku-lapas-junija-numurs-2/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Aptur muitas tarifus mēslošanas līdzekļiem</title>
+      <link>https://llkc.lv/aktualitates/aptur-muitas-tarifus-meslosanas-lidzekliem/</link>
+      <description>Eiropas Padome 22. maijā nolēma uz vienu gadu apturēt muitas tarifus galvenajiem slāpekļa mēslošanas līdzekļiem, ko izmanto lauksaimnieciskajā ražošan...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/aptur-muitas-tarifus-meslosanas-lidzekliem/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Pieaug ĀCM uzliesmojumu skaits</title>
+      <link>https://llkc.lv/aktualitates/pieaug-acm-uzliesmojumu-skaits/</link>
+      <description>Saskaņā ar Eiropas Pārtikas nekaitīguma iestādes (EFSA) jaunāko ikgadējo epidemioloģisko ziņojumu 2025. gadā Āfrikas cūku mēra (ĀCM) uzliesmojumu skai...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/pieaug-acm-uzliesmojumu-skaits/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Vienots ES tirgus mežsaimniecībā</title>
+      <link>https://llkc.lv/aktualitates/vienots-es-tirgus-mezsaimnieciba/</link>
+      <description>Eiropas Parlaments 19. maijā pieņēma vienošanos par jauniem noteikumiem, lai nodrošinātu augstas kvalitātes meža reproduktīvā materiāla piegādi....</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/vienots-es-tirgus-mezsaimnieciba/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Demonstrējumi orientēti uz zemnieku interesēm</title>
+      <link>https://llkc.lv/aktualitates/demonstrejumi-orienteti-uz-zemnieku-interesem/</link>
+      <description>Demonstrējumu ierīkošana saimniecībās LLKC aizsākās jau kopš centra izveides, kad ar dāņu konsultantu atbalstu un pieredzi tika ierīkoti pirmie demons...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/demonstrejumi-orienteti-uz-zemnieku-interesem/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Zaļmēslojuma loma augsnes agroekoloģijas uzlabošanā</title>
+      <link>https://llkc.lv/aktualitates/zalmeslojuma-loma-augsnes-agroekologijas-uzlabosana/</link>
+      <description>Zaļmēslojumam ir ievērojama loma jebkurā lauksaimnieciskajā sistēmā. Ir iespējas saņemt vairākas ES subsīdijas, kas saistītas ar zaļmēslojuma izmanto...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/zalmeslojuma-loma-augsnes-agroekologijas-uzlabosana/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Atceltas minimālās sociālās apdrošināšanas iemaksas pašnodarbinātajiem</title>
+      <link>https://llkc.lv/aktualitates/atceltas-minimalas-socialas-apdrosinasanas-iemaksas-pasnodarbinatajiem/</link>
+      <description>Jau vairākus gadus likums “Par valsts sociālo apdrošināšanu” paredz veikt minimālās sociālās apdrošināšanas iemaksas. Minimālās iemaksas aprēķina Vals...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/atceltas-minimalas-socialas-apdrosinasanas-iemaksas-pasnodarbinatajiem/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Par nodokļu atvieglojumiem vecākiem, ja bērns vasarā strādā</title>
+      <link>https://llkc.lv/aktualitates/par-nodoklu-atvieglojumiem-vecakiem-ja-berns-vasara-strada/</link>
+      <description>Klāt ir vasara, un brīvlaiku skolēni ļoti bieži izmanto, lai strādātu un gūtu ienākumus. Un vienmēr aktualizējas jautājums par to, kuros gadījumos vec...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/par-nodoklu-atvieglojumiem-vecakiem-ja-berns-vasara-strada/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Gudrāks lauku imports un pārskatāma augu maiņas plānošana</title>
+      <link>https://llkc.lv/aktualitates/gudraks-lauku-imports-un-parskatama-augu-mainas-planosana/</link>
+      <description>Jaunā lauksaimniecības sezona jau rit pilnā sparā – lauki ir apsēti, vai sējas darbi vēl turpinās, tiek sekots kultūraugu attīstībai un pieņemti daudz...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/gudraks-lauku-imports-un-parskatama-augu-mainas-planosana/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Interešu grupas par ES atbalstu un citām finansējuma iespējām mežsaimniecībā</title>
+      <link>https://llkc.lv/aktualitates/interesu-grupas-par-es-atbalstu-un-citam-finansejuma-iespejam-mezsaimnieciba/</link>
+      <description>Ja esi lauksaimniecības, meža zemes īpašnieks, vēlies, lai mežs ir produktīvāks un pelna vairāk, šī ir iespēja, ko nevajadzētu palaist garām! Aicinām ...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/interesu-grupas-par-es-atbalstu-un-citam-finansejuma-iespejam-mezsaimnieciba/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Noslēdzies projekts par atbalstu CATCH sistēmas ieviešanā</title>
+      <link>https://llkc.lv/aktualitates/nosledzies-projekts-par-atbalstu-catch-sistemas-ieviesana/</link>
+      <description>LLKC un Zemkopības ministrijas sadarbības projekts par atbalstu jaunās zivju nozvejas sertificēšanas sistēmas CATCH ieviešanā ir veiksmīgi noslēdzies....</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/nosledzies-projekts-par-atbalstu-catch-sistemas-ieviesana/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[VAKS] VAKS Mascus katalogā</title>
