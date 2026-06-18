@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 15:34:34 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Spēcīgas saknes, bagātīga raža – spēks Ino Wheat sastāvā</title>
       <link>https://www.scandagra.lv/aktualitātes/specigas-saknes-bagatiga-raza-speks-ino-wheat-sastava/</link>
@@ -823,46 +823,6 @@
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
     </item>
     <item>
-      <title>[LLKC] Demonstrējumi orientēti uz zemnieku interesēm</title>
-      <link>https://llkc.lv/aktualitates/demonstrejumi-orienteti-uz-zemnieku-interesem/</link>
-      <description>Demonstrējumu ierīkošana saimniecībās LLKC aizsākās jau kopš centra izveides, kad ar dāņu konsultantu atbalstu un pieredzi tika ierīkoti pirmie demons...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/demonstrejumi-orienteti-uz-zemnieku-interesem/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Zaļmēslojuma loma augsnes agroekoloģijas uzlabošanā</title>
-      <link>https://llkc.lv/aktualitates/zalmeslojuma-loma-augsnes-agroekologijas-uzlabosana/</link>
-      <description>Zaļmēslojumam ir ievērojama loma jebkurā lauksaimnieciskajā sistēmā. Ir iespējas saņemt vairākas ES subsīdijas, kas saistītas ar zaļmēslojuma izmanto...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/zalmeslojuma-loma-augsnes-agroekologijas-uzlabosana/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Atceltas minimālās sociālās apdrošināšanas iemaksas pašnodarbinātajiem</title>
-      <link>https://llkc.lv/aktualitates/atceltas-minimalas-socialas-apdrosinasanas-iemaksas-pasnodarbinatajiem/</link>
-      <description>Jau vairākus gadus likums “Par valsts sociālo apdrošināšanu” paredz veikt minimālās sociālās apdrošināšanas iemaksas. Minimālās iemaksas aprēķina Vals...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/atceltas-minimalas-socialas-apdrosinasanas-iemaksas-pasnodarbinatajiem/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Par nodokļu atvieglojumiem vecākiem, ja bērns vasarā strādā</title>
-      <link>https://llkc.lv/aktualitates/par-nodoklu-atvieglojumiem-vecakiem-ja-berns-vasara-strada/</link>
-      <description>Klāt ir vasara, un brīvlaiku skolēni ļoti bieži izmanto, lai strādātu un gūtu ienākumus. Un vienmēr aktualizējas jautājums par to, kuros gadījumos vec...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/par-nodoklu-atvieglojumiem-vecakiem-ja-berns-vasara-strada/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Gudrāks lauku imports un pārskatāma augu maiņas plānošana</title>
-      <link>https://llkc.lv/aktualitates/gudraks-lauku-imports-un-parskatama-augu-mainas-planosana/</link>
-      <description>Jaunā lauksaimniecības sezona jau rit pilnā sparā – lauki ir apsēti, vai sējas darbi vēl turpinās, tiek sekots kultūraugu attīstībai un pieņemti daudz...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/gudraks-lauku-imports-un-parskatama-augu-mainas-planosana/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LLKC] Interešu grupas par ES atbalstu un citām finansējuma iespējām mežsaimniecībā</title>
       <link>https://llkc.lv/aktualitates/interesu-grupas-par-es-atbalstu-un-citam-finansejuma-iespejam-mezsaimnieciba/</link>
       <description>Ja esi lauksaimniecības, meža zemes īpašnieks, vēlies, lai mežs ir produktīvāks un pelna vairāk, šī ir iespēja, ko nevajadzētu palaist garām! Aicinām ...</description>
@@ -1407,11 +1367,51 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <source url="https://www.facebook.com/BayerCropScienceLatvija/">Bayer CropScience Latvija</source>
     </item>
     <item>
+      <title>[LLKC] Vairāk nekā 100 klasēs Latvijā īstenotas STEM nodarbības par veselīgu uzturu un ilgtspējīgām izvēlēm</title>
+      <link>https://llkc.lv/aktualitates/vairak-neka-100-klases-latvija-istenotas-stem-nodarbibas-par-veseligu-uzturu-un-ilgtspejigam-izvelem/</link>
+      <description>2025./2026. mācību gada otrajā semestrī visā Latvijā norisinājās STEM nodarbība “Veselīgi piena produkti un ilgtspējīgas izvēles”, kurā skolēni intera...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/vairak-neka-100-klases-latvija-istenotas-stem-nodarbibas-par-veseligu-uzturu-un-ilgtspejigam-izvelem/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Piena pašizmaksa demonstrējumu un interešu grupu saimniecībās no 2021. līdz 2025. gadam</title>
+      <link>https://llkc.lv/aktualitates/piena-pasizmaksa-demonstrejumu-un-interesu-grupu-saimniecibas-no-2021-lidz-2025-gadam/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) speciālisti veikuši aprēķinus par piena pašizmaksu demonstrējumos un interešu grupās iesaistīt...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/piena-pasizmaksa-demonstrejumu-un-interesu-grupu-saimniecibas-no-2021-lidz-2025-gadam/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Žurnāla “Latvijas Lopkopis” jūnija numurā</title>
+      <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-junija-numura-2/</link>
+      <description>Jūnija izdevumā lasiet sarunu ar Latvijas Lauku konsultāciju un izglītības centra (LLKC) valdes priekšsēdētāju Mārtiņu Cimermani. Viņš lauku konsultāc...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-junija-numura-2/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Kā atbildīga reņģu un zeltplekšu jūras loma reģistrācija ietekmē nozares nākotni?</title>
+      <link>https://llkc.lv/aktualitates/ka-atbildiga-rengu-un-zeltpleksu-juras-loma-registracija-ietekme-nozares-nakotni/</link>
+      <description>LLKC kopā ar Makšķerēšanas kartes komandu atgādina, ka saskaņā ar spēkā esošajiem grozījumiem Ministru kabineta noteikumos piekrastes ūdeņos ir ievies...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/ka-atbildiga-rengu-un-zeltpleksu-juras-loma-registracija-ietekme-nozares-nakotni/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Sagatavo ES atbalsta projektu savam mežam kopā ar LLKC Meža konsultāciju pakalpojumu centru!</title>
+      <link>https://llkc.lv/aktualitates/sagatavo-es-atbalsta-projektu-savam-mezam-kopa-ar-llkc-meza-konsultaciju-pakalpojumu-centru/</link>
+      <description>No 2026. gada 15. jūlija līdz 17. augustam Lauku atbalsta dienestā (LAD) iesniedzami projektu pieteikumi ES atbalsta pasākumiem mežsaimniecībā. ...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/sagatavo-es-atbalsta-projektu-savam-mezam-kopa-ar-llkc-meza-konsultaciju-pakalpojumu-centru/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Stiprinās lauksaimniecības inovācijas un nodrošinās praktiski izmantojamus risinājumus</title>
       <link>https://www.saimnieks.lv/raksts/stiprinas-lauksaimniecibas-inovacijas-un-nodrosinas-praktiski-izmantojamus-risinajumus</link>
       <description>9. jūnijā, valdība atbalstīja Zemkopības ministrijas grozījumus Ministru ka...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/stiprinas-lauksaimniecibas-inovacijas-un-nodrosinas-praktiski-izmantojamus-risinajumus</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1419,7 +1419,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/interesu-grupas-par-es-atbalstu-un-citam-finansejuma-iespejam-mezsaimnieciba</link>
       <description>Ja esi lauksaimniecības, meža zemes īpašnieks, vēlies, lai mežs ir produktī...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/interesu-grupas-par-es-atbalstu-un-citam-finansejuma-iespejam-mezsaimnieciba</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1427,7 +1427,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/vasara-bernu-traumu-skaits-pieaug-seb-piedava-bezmaksas-apdrosinasanu-papildu-drosibai</link>
       <description>Vasara ir aktīvākais laiks bērniem – vairāk laika tiek pavadīts ārā, sporto...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vasara-bernu-traumu-skaits-pieaug-seb-piedava-bezmaksas-apdrosinasanu-papildu-drosibai</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1435,7 +1435,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/latraps-digitalais-logistikas-risinajums-strops-turpmak-pieejams-ikvienam-kravu-ipasniekam</link>
       <description>LATRAPS izstrādātais digitālais loģistikas risinājums Strops no šodienas pi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latraps-digitalais-logistikas-risinajums-strops-turpmak-pieejams-ikvienam-kravu-ipasniekam</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1443,7 +1443,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/lauksaimnieki-un-mazie-uznemeji-biezak-pariet-no-nomas-uz-savu-ipasumu</link>
       <description>Pēdējos gados Latvijā mazie un vidējie uzņēmumi un lauksaimnieki arvien vai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-un-mazie-uznemeji-biezak-pariet-no-nomas-uz-savu-ipasumu</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1451,7 +1451,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/lai-pasargatu-dzivnieku-un-putnu-mazulus-no-ieklusanas-plausanas-tehnika-butiski-atcereties-zales-pareizas-plausanas-panemienus</link>
       <description>Latvijā drīz sāksies intensīva zālāju pļaušana un lopbarības sagatavošana, ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lai-pasargatu-dzivnieku-un-putnu-mazulus-no-ieklusanas-plausanas-tehnika-butiski-atcereties-zales-pareizas-plausanas-panemienus</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1459,7 +1459,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/atseviskas-teritorijas-joprojam-augsts-eglu-astonzobu-mizgrauza-bojajumu-risks</link>
       <description>Valsts meža dienests informē, ka egļu astoņzobu mizgrauža izplatības risks ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/atseviskas-teritorijas-joprojam-augsts-eglu-astonzobu-mizgrauza-bojajumu-risks</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1467,7 +1467,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/pilnveidos-seklu-apriti-un-mazinas-administrativo-slogu-ellas-un-skiedraugu-seklaudzetajiem</link>
       <description>26. maijā, valdība atbalstīja Zemkopības ministrijas izstrādātos grozījumus...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pilnveidos-seklu-apriti-un-mazinas-administrativo-slogu-ellas-un-skiedraugu-seklaudzetajiem</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1475,7 +1475,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/seb-pieskir-208-miljonu-eur-finansejumu-uznemumam-lit-egg-dejejvistu-un-jaunputnu-novietnu-buvniecibai</link>
       <description>SEB banka piešķir finansējumu 20.8 miljonu EUR apmērā AS “Balticovo” grupas...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/seb-pieskir-208-miljonu-eur-finansejumu-uznemumam-lit-egg-dejejvistu-un-jaunputnu-novietnu-buvniecibai</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1483,7 +1483,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/koledzas-statuss-lavis-malnavai-gan-darbu-turpinat-gan-attistities-intervija-ar-sandru-ezmali-malnavas-koledzas-direktori</link>
       <description>Malnavas koledža*, šķiet, ir viena no valsts un arī Eiropas Savienības robe...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/koledzas-statuss-lavis-malnavai-gan-darbu-turpinat-gan-attistities-intervija-ar-sandru-ezmali-malnavas-koledzas-direktori</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1491,7 +1491,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/visa-latvijas-teritorija-atsakusas-ikgadejas-meza-apsekojumu-parbaudes</link>
       <description>No 15. maija Valsts augu aizsardzības dienesta (VAAD) augu karantīnas inspe...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/visa-latvijas-teritorija-atsakusas-ikgadejas-meza-apsekojumu-parbaudes</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1499,7 +1499,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana</link>
       <description>Tā kā daudzas saimniecības jau uzsākušas zāles skābbarības vākšanu vai pat ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zalaju-monitorings-plausanas-serviss-pec-pirma-plavuma-izskirosa-ir-zalaju-kopsana</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1507,7 +1507,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/vienkarsota-meslosanas-lidzeklu-registracija-un-paatrinats-produktu-nonaksanas-tirgu-process</link>
       <description>12. maijā Ministru kabinets atbalstījis Zemkopības ministrijas izstrādātos ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vienkarsota-meslosanas-lidzeklu-registracija-un-paatrinats-produktu-nonaksanas-tirgu-process</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1515,7 +1515,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/lad-turpina-lauksaimniecibas-zemju-monitoringu-un-apsekosanu-ar-droniem</link>
       <description>Lauku atbalsta dienests informē, ka arī 2026. gadā lauksaimniecības zemju a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-turpina-lauksaimniecibas-zemju-monitoringu-un-apsekosanu-ar-droniem</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1523,7 +1523,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/krapnieki-spele-uz-varonu-instinktiem-tris-scenariji-kuros-cilveki-zaude-naudu-majokli-un-uzticibu</link>
       <description>Krāpnieki kļūst arvien radošāki – viņu scenāriji kļūst sarežģītāki, pārliec...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/krapnieki-spele-uz-varonu-instinktiem-tris-scenariji-kuros-cilveki-zaude-naudu-majokli-un-uzticibu</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1531,7 +1531,7 @@ Lai visiem saimniekiem veiksmīga sezona, labvēlīgi laikapstākļi un…</titl
       <link>https://www.saimnieks.lv/raksts/lauksaimnieki-vares-atrak-pieteikties-atbalstam-vienkarsota-zinosana-par-laikapstaklu-negativo-ietekmi</link>
       <description>26. maijā, valdība atbalstīja Zemkopības ministrijas izstrādātos grozījumus...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-vares-atrak-pieteikties-atbalstam-vienkarsota-zinosana-par-laikapstaklu-negativo-ietekmi</guid>
-      <pubDate>Thu, 18 Jun 2026 11:35:25 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 15:34:34 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
