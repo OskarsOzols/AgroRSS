@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:27:21 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Nepietiekams barības vielu nodrošinājums rudenī var būtiski ietekmēt nākamā gada ražu</title>
       <link>https://www.scandagra.lv/aktualitātes/scandagra-eksperti-bridina-nepardomata-rudens-meslojuma-strategija-var-butiski-ietekmet-nakama-gada-razas-potencialu/</link>
@@ -303,17 +303,17 @@
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
-      <title>[Zemnieku Saeima] LBTU Malnavas koledžā veiksmīgi aizvadīta starptautiskā konference par reģionu nākotni un inovācijām</title>
-      <link>https://zemniekusaeima.lv/aktualitate/lbtu-malnavas-koledza-veiksmigi-aizvadita-starptautiska-konference-par-regionu-nakotni-un-inovacijam/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/lbtu-malnavas-koledza-veiksmigi-aizvadita-starptautiska-konference-par-regionu-nakotni-un-inovacijam/</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
       <title>[Zemnieku Saeima] Aicinām uz lauka dienu piena lopkopības saimniecībā</title>
       <link>https://zemniekusaeima.lv/aktualitate/aicinam-uz-lauka-dienu-piena-lopkopibas-saimnieciba-2/</link>
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/aicinam-uz-lauka-dienu-piena-lopkopibas-saimnieciba-2/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[Zemnieku Saeima] Atbalsts inovācijām lauksaimniecībā</title>
+      <link>https://zemniekusaeima.lv/aktualitate/atbalsts-inovacijam-lauksaimnieciba/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/atbalsts-inovacijam-lauksaimnieciba/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
@@ -379,14 +379,6 @@
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
-      <title>[AREI] BIO2 projekta ieviešanas un plānošanas sanāksme Tromso</title>
-      <link>https://www.arei.lv/lv/raksts/2026-06-10/bio2-projekta-ieviesanas-un-planosanas-sanaksme-tromso</link>
-      <description>BIO2 projekta ieviešanas un plānošanas sanāksme Tromso solvitasur Tr, 06/10/2026 - 11:05</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-06-10/bio2-projekta-ieviesanas-un-planosanas-sanaksme-tromso</guid>
-      <pubDate>Wed, 10 Jun 2026 08:05:45 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
       <title>[Zemnieku Saeima] 17. jūnijā – Lauka diena par klimatam draudzīgu ganību izmantošanu jēru nobarošanai</title>
       <link>https://zemniekusaeima.lv/aktualitate/17-junija-lauka-diena-par-klimatam-draudzigu-ganibu-izmantosanu-jeru-nobarosanai/</link>
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/17-junija-lauka-diena-par-klimatam-draudzigu-ganibu-izmantosanu-jeru-nobarosanai/</guid>
@@ -421,14 +413,6 @@
       <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-06-26/bulgarijas-petnieku-un-selekcionaru-vizite-arei-centros</guid>
       <pubDate>Thu, 18 Jun 2026 07:13:08 +0000</pubDate>
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
-      <title>[LLKC] Saiets “3 ZĪLES” šogad aicina domāt par lauku sētu kā mantojumu nākamajām paaudzēm</title>
-      <link>https://llkc.lv/aktualitates/saiets-3-ziles-sogad-aicina-domat-par-lauku-setu-ka-mantojumu-nakamajam-paaudzem/</link>
-      <description>Ko mēs patiesībā atstājam nākamajām paaudzēm - ēkas, ainavu, auglīgu augsni vai spēju sadarboties? Atbildes uz šiem jautājumiem 8. jūlijā meklēs zemko...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/saiets-3-ziles-sogad-aicina-domat-par-lauku-setu-ka-mantojumu-nakamajam-paaudzem/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[LLKC] Vasarāju ražas prognozes jūnijā – kopumā laba sezona, bet Kurzemē sausums samazinājis potenciālu</title>
@@ -627,11 +611,27 @@
       <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
+      <title>[LLKC] Sākas konkursa “Lielais loms” sabiedrības balsojums</title>
+      <link>https://llkc.lv/aktualitates/sakas-konkursa-lielais-loms-sabiedribas-balsojums/</link>
+      <description>Zemkopības ministrija sadarbībā ar Latvijas Lauku konsultāciju un izglītības centru (LLKC) aicina iedzīvotājus līdzdarboties, lai noteiktu gada balvas...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/sakas-konkursa-lielais-loms-sabiedribas-balsojums/</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[AREI] Lauka dienā z/s “Vīksnas” diskutē par pākšaugu nozīmi ilgtspējīgā laukkopībā</title>
+      <link>https://www.arei.lv/lv/raksts/2026-07-10/lauka-diena-z-s-viksnas-diskute-par-paksaugu-nozimi-ilgtspejiga-laukkopiba</link>
+      <description>Lauka dienā z/s “Vīksnas” diskutē par pākšaugu nozīmi ilgtspējīgā laukkopībā solvitasur Pk, 07/10/2026 - 13:38</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-07-10/lauka-diena-z-s-viksnas-diskute-par-paksaugu-nozimi-ilgtspejiga-laukkopiba</guid>
+      <pubDate>Fri, 10 Jul 2026 10:38:30 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Noslēgusies „TRAKTORDIENA 2026” – nākamgad tiksimies 3. jūlijā</title>
       <link>https://www.saimnieks.lv/raksts/noslegusies-traktordiena-2026-nakamgad-tiksimies-3-julija</link>
       <description>Šī gada 3. jūlijā AS „Agrofirma Tērvete” laukā norisinājās lauksaimnieku li...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/noslegusies-traktordiena-2026-nakamgad-tiksimies-3-julija</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -639,7 +639,7 @@
       <link>https://www.saimnieks.lv/raksts/kooperacija-cels-uz-stabilu-izaugsmi</link>
       <description>KS Piena Loģistika desmit gadu jubileju sagaida ar vērienīgu izaugsmi, no 2...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kooperacija-cels-uz-stabilu-izaugsmi</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -647,7 +647,7 @@
       <link>https://www.saimnieks.lv/raksts/veterinararste-ar-darba-entuziasmu-un-aicinajumu-latgale</link>
       <description>Veterinārārste Līga Spūle ikdienā strādā ar visdažādākajām lauku saimniecīb...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/veterinararste-ar-darba-entuziasmu-un-aicinajumu-latgale</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -655,7 +655,7 @@
       <link>https://www.saimnieks.lv/raksts/balticovo-parkapis-miljarda-slieksni</link>
       <description>Audzējot eksporta apjomus, investējot ārpus sprostu vistu novietnēs vairāk ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/balticovo-parkapis-miljarda-slieksni</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -663,7 +663,7 @@
       <link>https://www.saimnieks.lv/raksts/zs-lejaskrokos-vienviet-trusi-kazas-un-vistas</link>
       <description>Nogriežoties no Kandavas–Sabiles ceļa uz Matkuli, pēc nepilna kilometra ceļ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zs-lejaskrokos-vienviet-trusi-kazas-un-vistas</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -671,7 +671,7 @@
       <link>https://www.saimnieks.lv/raksts/vieda-nakotne-saimnieka-zalienam-ar-husqvarna</link>
       <description>Tehnoloģiju attīstība nodrošina robotizēto zāles pļāvēju pieejamību gandrīz...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vieda-nakotne-saimnieka-zalienam-ar-husqvarna</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -679,7 +679,7 @@
       <link>https://www.saimnieks.lv/raksts/fendt-roadshow-latvija-prezente-jaunos-lieljaudas-traktorus</link>
       <description>28. maijā Āra Burkāna zemnieku saimniecībā Sējas norisinājās unikāls Fendt ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/fendt-roadshow-latvija-prezente-jaunos-lieljaudas-traktorus</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -687,7 +687,7 @@
       <link>https://www.saimnieks.lv/raksts/steyr-impuls-uzticamakais-partneris-jaukta-tipa-saimniecibam</link>
       <description>Mūsdienu lauksaimniecība pieprasa tehniku, kas ne tikai nodrošina jaudu, be...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/steyr-impuls-uzticamakais-partneris-jaukta-tipa-saimniecibam</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -695,7 +695,7 @@
       <link>https://www.saimnieks.lv/raksts/atklata-jauna-dojus-latvija-saldus-filiale</link>
       <description>DOJUS Latvija ir atklājusi jauno Saldus filiāli, kas kļūs par nozīmīgu reģi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/atklata-jauna-dojus-latvija-saldus-filiale</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -703,7 +703,7 @@
       <link>https://www.saimnieks.lv/raksts/alliance-forestar-iii-mezsaimniecibas-riepas-maksimalai-veiktspejai</link>
       <description>Pēdējos gados mežsaimniecības nozare ir piedzīvojusi strauju tehnoloģisko a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/alliance-forestar-iii-mezsaimniecibas-riepas-maksimalai-veiktspejai</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -711,7 +711,7 @@
       <link>https://www.saimnieks.lv/raksts/dziva-augsne-razibas-pamats-ari-meza</link>
       <description>Kāpēc dzīva augsne ir saimnieka vērtīgākais resurss? Starptautiskā projekta...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dziva-augsne-razibas-pamats-ari-meza</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -719,7 +719,7 @@
       <link>https://www.saimnieks.lv/raksts/zalais-zelts-ka-kooperativs-ver-celu-kanepju-lauka</link>
       <description>Industriālās kaņepes kļūst par vienu no Eiropas strauji augošajām lauksaimn...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zalais-zelts-ka-kooperativs-ver-celu-kanepju-lauka</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -727,7 +727,7 @@
       <link>https://www.saimnieks.lv/raksts/viendigllapju-nezales-vai-ir-verts-uztraukties-ilgtermina</link>
       <description>Pavisam drīz rūpīgi koptajos laukos sāks briest šīs sezonas raža. Tas ir īs...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/viendigllapju-nezales-vai-ir-verts-uztraukties-ilgtermina</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -735,7 +735,7 @@
       <link>https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-junijam-2026-gadam</link>
       <description>Jūnijs ir viens no nozīmīgākajiem mēnešiem kultūraugu aizsardzības ziņā – a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-junijam-2026-gadam</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -743,7 +743,7 @@
       <link>https://www.saimnieks.lv/raksts/jauns-risinajums-kartupelu-lakstu-puves-ierobezosanai</link>
       <description>Kad stādīšanas darbi kartupeļu laukos ir paveikti un nezāles ierobežotas, t...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-risinajums-kartupelu-lakstu-puves-ierobezosanai</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -751,7 +751,7 @@
       <link>https://www.saimnieks.lv/raksts/kvalitativs-udens-perfekta-smidzinajuma-pamats</link>
       <description>Arvien biežāk lauksaimnieki saskaras ar problēmām tvertnes maisījumu sagata...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kvalitativs-udens-perfekta-smidzinajuma-pamats</guid>
-      <pubDate>Fri, 10 Jul 2026 09:41:50 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:27:18 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
