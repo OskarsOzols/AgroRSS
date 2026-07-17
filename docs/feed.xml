@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Fri, 17 Jul 2026 12:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:12:58 +0000</lastBuildDate>
     <item>
       <title>[Scandagra] Nepietiekams barības vielu nodrošinājums rudenī var būtiski ietekmēt nākamā gada ražu</title>
       <link>https://www.scandagra.lv/aktualitātes/scandagra-eksperti-bridina-nepardomata-rudens-meslojuma-strategija-var-butiski-ietekmet-nakama-gada-razas-potencialu/</link>
@@ -16,6 +16,21 @@
       <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/scandagra-eksperti-bridina-nepardomata-rudens-meslojuma-strategija-var-butiski-ietekmet-nakama-gada-razas-potencialu/</guid>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
+      <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
+      <description>Lauksaimniecības nozare ir viena no straujāk augošajām nozarēm tautsaimniecībā. Laikam ejot nozarē parādījušās gan robotizētas nezāļu ierobežošanas iespējas, gan iespēja laukus smidzināt un sēt ar dronu palīdzību. Uz vietas nestāv arī mēslošanas līdzekļu kompānijas, radot inovatīvus un līdz šim neredzētus mēslošanas līdzekļus. Klimatisko apstākļu ietekmē arvien biežāk dzirdam par biostimulatoriem un antistresantiem. Arī šie termini Latvijas lauksaimnieku vidū vairs nav nekas jauns. Jau iepriekšē</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Baudi vasaru Sardīnijā - Itālijā!</title>
+      <link>https://www.linasagro.lv/agro-zinas/14663</link>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/14663</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[Scandagra] Ziemas rapšu hibrīdu salīdzinājumi 2024./2025.</title>
@@ -34,12 +49,34 @@
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
     </item>
     <item>
+      <title>[Linas Agro] Vai sertificētas sēklas ir zemnieku drošības spilvens mainīgā klimatā?</title>
+      <link>https://www.linasagro.lv/agro-zinas/vai-sertificetas-seklas-ir-zemnieku-drosibas-spilvens-mainiga-klimata</link>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/vai-sertificetas-seklas-ir-zemnieku-drosibas-spilvens-mainiga-klimata</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
       <title>[Scandagra] Zoles turnīrs 2026 ”Zīmīgas likmes – Spēlējam?”</title>
       <link>https://www.scandagra.lv/aktualitātes/zoles-turnirs-2026-zimigas-likmes-spelejam/</link>
       <description>Šī gada 8. janvārī Mežaparka Lielās estrādes Kokaru zālē notika jau 8. Scandagra Latvia rīkotais lauksaimnieku zoles turnīrs ar saukli “Zīmīgas likmes – Spēlējam?”. Pasākums pulcēja 205 dalībniekus – šogad […]</description>
       <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/zoles-turnirs-2026-zimigas-likmes-spelejam/</guid>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
+      <title>[Linas Agro] 2025.gada sezonas ietekme uz kukurūzas ražu un kvalitāti</title>
+      <link>https://www.linasagro.lv/agro-zinas/2025-gada-sezonas-ietekme-uz-kukuruzas-razu-un-kvalitati</link>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/2025-gada-sezonas-ietekme-uz-kukuruzas-razu-un-kvalitati</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Semināri par lauksaimniekam svarīgo 2026!</title>
+      <link>https://www.linasagro.lv/agro-zinas/seminari-par-lauksaimniekam-svarigo-2026</link>
+      <description>Jaunumi un aktualitātes par Augu aizsardzības līdzekļiem, mikroelementiem, minerālmēsliem, sēklām un graudu tirgu (uzstājas Linas Agro produktu grupu vadītāji), kā arī POLITISKĀS aktualitātes (Zemnieku saeima) un jaunumi no VAAD. Starplaikos viktorīnas ar balvām, sadarbības partneru stendi un kopīgas diskusijas.</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/seminari-par-lauksaimniekam-svarigo-2026</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[VAKS] AUGSNES SPĒKS 2026</title>
@@ -58,6 +95,14 @@
       <source url="https://www.lbla.lv/">LBLA</source>
     </item>
     <item>
+      <title>[Linas Agro] Vai ziemāji zem biezās sniega segas ir drošībā?</title>
+      <link>https://www.linasagro.lv/agro-zinas/vai-ziemaji-zem-biezas-sniega-segas-ir-drosiba</link>
+      <description>Latvijā šobrīd viens pēc otra krīt zemākās temperatūras rekordi un daudzviet valstī gaiss atdziest līdz pat -25 un -29 grādiem. Prognozes liecina, ka šāda temperatūra saglabāsies arī daļu februāra. Papildus tam daudzviet zemi klāj arī bieza sniega kārta, radot labvēlīgu vidi grauzējiem. Kā šādi laikapstākļi, kas ir raksturīgi ziemai, bet vienlaikus teju piemirsti Latvijā, ietekmēs ziemājus un vai tie nesagādās lauksaimniekiem nepatīkamus pārsteigumus? Šis jautājums šobrīd ir īpaši aktuāls, jo zi</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/vai-ziemaji-zem-biezas-sniega-segas-ir-drosiba</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
       <title>[Scandagra] Minerālmēslu tirgus apskats un lauku monitorings</title>
       <link>https://www.scandagra.lv/aktualitātes/mineralmeslu-tirgus-apskats-un-lauku-monitorings/</link>
       <description>Minerālmēslu tirgus tendences un lauku monitorings līdz 13.02.2026.</description>
@@ -72,6 +117,14 @@
       <guid isPermaLink="true">https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</guid>
       <pubDate>Mon, 02 Mar 2026 13:49:34 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Latvijas graudkopība sasniegusi augstu ražas potenciālu, kā to noturēt?</title>
+      <link>https://www.linasagro.lv/agro-zinas/latvijas-graudkopiba-sasniegusi-augstu-razas-potencialu-ka-to-noturet</link>
+      <description>Latvijas graudkopība pēdējos gados ir sasniegusi augstu ražas potenciālu. Nākotnes jautājums nav tik daudz par to, kā šo potenciālu palielināt, bet gan – kā to noturēt, ņemot vērā klimata pārmaiņu ietekmi. Šajā kontekstā būtiska loma ir sertificēta sēklas materiāla izmantošanai, taču šajā jomā Latvija būtiski atpaliek no kaimiņvalstīm. Kamēr Igaunijā sertificēta sēklas materiāla izmantošanas īpatsvars sasniedz aptuveni 30% līdz 35%, bet Lietuvā - aptuveni 20%, Latvijā tie joprojām ir vien 10% lī</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/latvijas-graudkopiba-sasniegusi-augstu-razas-potencialu-ka-to-noturet</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[LBLA] Latvijas Bioloģiskās lauksaimniecības asociācija rīko biedru kopsapulci un konferenci par bioloģiskās pārtikas pievienoto vērtību</title>
@@ -106,12 +159,52 @@
       <source url="https://www.lbla.lv/">LBLA</source>
     </item>
     <item>
+      <title>[Linas Agro] Graudu cenu fiksēšana: stratēģisks instruments Latvijas saimniecību stabilitātei un izaugsmei</title>
+      <link>https://www.linasagro.lv/agro-zinas/graudu-cenu-fiksesana-strategisks-instruments-latvijas-saimniecibu-stabilitatei-un-izaugsmei</link>
+      <description>Starpsezonas periodā, kad aktīvie lauku darbi ir ierobežoti, Latvijas zemniekiem ir iespēja mierīgi izvērtēt aizvadītās sezonas rezultātus un pieņemt stratēģiskus lēmumus par nākotni. Viens no būtiskākajiem jautājumiem šajā laikā ir nākamās ražas realizācija un graudu cenu fiksēšanas pieeja mainīgajos tirgus apstākļos. Lai arī jaunā raža tiks novākta tikai vasaras beigās vai rudenī, pieredze rāda, ka tieši savlaicīga un pārdomāta cenu fiksēšana var būt izšķirošs faktors saimniecības finansiālaja</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/graudu-cenu-fiksesana-strategisks-instruments-latvijas-saimniecibu-stabilitatei-un-izaugsmei</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Pavasaris ir sācies – daba ir pamodusies: kad ir vērts modināt zālienu?</title>
+      <link>https://www.linasagro.lv/agro-zinas/pavasaris-ir-sacies-daba-ir-pamodusies-kad-ir-verts-modinat-zalienu</link>
+      <description>Vēl pavisam nesen lauki un pagalmi bija sniegoti, bet drīz acis priecēs zaļa zāle. Pārmaiņas dabā nozīmē vienu: ir pienācis laiks sākt gatavot zālienu. Tomēr dārza kopšanas eksperti iesaka nesteigties. Šogad spēcīgais sniegs prasīja savu – sen nav bijis tik daudz sniega, un salnas turējās ilgi. Tāpēc nav pārāk pārsteidzoši, ka pēc šādas ziemas zāliens izskatās novājināts, tā saknes ir jutīgas, bet pati zāle ir retināta un sniega pelējuma bojāta, pat novītusi. Redzot šādu situāciju, iespējams, vē</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/pavasaris-ir-sacies-daba-ir-pamodusies-kad-ir-verts-modinat-zalienu</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
       <title>[VAKS] Darba laiks svētkos</title>
       <link>https://www.vaks.lv/darba-laiks-svetkos/</link>
       <description>The post Darba laiks svētkos appeared first on VAKS .</description>
       <guid isPermaLink="true">https://www.vaks.lv/darba-laiks-svetkos/</guid>
       <pubDate>Wed, 01 Apr 2026 07:07:27 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Tikai piektdaļa Latvijas lauksaimnieku šogad prognozē labāku ražu – lietuvieši un igauņi daudz optimistiskāki</title>
+      <link>https://www.linasagro.lv/agro-zinas/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</link>
+      <description>Aptuveni piektā daļa (18%) Latvijas lauksaimnieku norāda, ka šogad prognozē labāku ražu, puse (50%) sagaida līdzīgu ražu, kā iepriekš, bet 9% - sliktāku. Kaimiņvalstīs lauksaimnieki ir optimistiskāki - Lietuvā 48% lauksaimnieku sagaida līdzīgu ražu kā pērn, savukārt vairāk nekā ceturtā daļa (26%) prognozē labākus rezultātus. Igaunijā 66% lauksaimnieku sagaida labāku ražu nekā iepriekšējā gadā, savukārt 25% prognozē līdzīgu rezultātu, liecina “Linas Agro” un pētījumu centra “Norstat” veiktā aptau</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/tikai-piektdala-latvijas-lauksaimnieku-sogad-prognoze-labaku-razu-lietuviesi-un-igauni-daudz-optimistiskaki</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Situācija uz lauka - agronoma redzējums. 14.nedēļa</title>
+      <link>https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-14-nedela</link>
+      <description>Sējumi pēc ziemas izskatās labi, bet atsevišķās vietās vērojami sala bojājumi, kā arī lokāli ir novērojami nepārziemojuši sējumi. Aizvadītā gada rudens bija izaicinošs laiks, jo pārlieku lielais mitrums būtiski kavēja sējas darbus, taču arī vēlu sētie ziemāji ir pārziemojuši, tiesa gan, ne tik labi sacerojuši graudaugu gadījumā un ar ne tik spēcīgu sakni rapša gadījumā, bet, ņemot vērā, kādos apstākļos tie sēti, rezultāts vērtējams pozitīvi. Šādos sējumos aicinām vērst uzmanību uz papildus slāpe</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-14-nedela</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Sēklu sagatavošana, izmantojot IKAR un Atlantica mēslojumu</title>
+      <link>https://www.linasagro.lv/agro-zinas/seklu-sagatavosana-izmantojot-ikar-un-atlantica-meslojumu15273</link>
+      <description>Pievienojot mēslojumu, kopā ar kodni, barības vielas caur šūnapvalku iekļūst šūnās un stimulē dīgļa un sakņu augšanu. Mēslojuma sastāvā esošie mikro un makro elementi palielina fotosintēzes intensitāti un stimulē dīgļa sakni absorbēt barības vielas no augsnes. Jūras aļģu ekstrakti kombinācijā ar dzelzi, varu, mangānu, cinku u.c. mikroelementiem stiprina augu imūnsistēmu, aktivizējot augu dabisko aizsardzību un to izturību pret slimībām, kaitēkļiem un nelabvēlīgiem vides apstākļiem.</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/seklu-sagatavosana-izmantojot-ikar-un-atlantica-meslojumu15273</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[VAKS] CC ROAD – putekļiem STOP!</title>
@@ -176,6 +269,22 @@
       <guid isPermaLink="true">https://www.lbla.lv/pieejami-konferences-biologiskas-partikas-pievienota-vertiba-cilvekiem-dabai-un-ekonomikai-video</guid>
       <pubDate>Fri, 24 Apr 2026 11:15:45 +0000</pubDate>
       <source url="https://www.lbla.lv/">LBLA</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Pagalma atjaunošana: ar ko sākt, audzējot zālienu</title>
+      <link>https://www.linasagro.lv/agro-zinas/pagalma-atjaunosana-ar-ko-sakt-audzejot-zalienu</link>
+      <description>Viens no svarīgākajiem pagalma akcentiem ir skaists zaļš zāliens, kas jūs katru dienu priecē gan ar skatu pa logu, gan atrodoties ārā. Tomēr, lai jums būtu labi kopts zāliens, būs jāpieliek pūles. Zāliena audzēšana ir ilgs un sarežģīts process. Tas prasa gan pietiekami daudz laika, gan ieguldījumus. “Mums jāaudzē diezgan maigs augs, ko mēs daudzus gadus mīdīsim, un arī daba to ietekmēs ar visu savu spēku: saule, nokrišņi, temperatūras svārstības un vēl daudz kas cits. Tāpēc ir svarīgi pareizi sa</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/pagalma-atjaunosana-ar-ko-sakt-audzejot-zalienu</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Situācija uz lauka - agronoma redzējums. 17.nedēļa</title>
+      <link>https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-17-nedela</link>
+      <description>Patīkami siltie pavasara laikapstākļi ir īslaicīgi atkāpušies – temperatūra pazeminājās un dažviet pat sagaidījām sniegu, tiesa gan, tas, cik ātri uzsniga, tik ātri arī nokusa. Lai gan mainīgie laikapstākļi var būt nedaudz biedējoši, reālā situācija nav tik slikta. Lielākās bažas šobrīd rada ilgstošais sausuma periods, tāpēc sniegs un lietus, ko sagaidījām bija pat nepieciešams kultūraugiem. Šobrīd augsne ir tik sausa, ka jebkāds mitruma avots ir nozīmīgs turpmākai augšanai. Optimālā laikā iesēt</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-17-nedela</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[Scandagra] Izpratne par graudu cenu veidošanos: nozares eksperta ieskats</title>
@@ -288,6 +397,14 @@
       <guid isPermaLink="true">https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid02XjEjqWa1n5cft2pw3C9oqVXm6gCwcEBXABA8BPbAoGeQKeB3UJmQSG6mUXZNf7MEl</guid>
       <pubDate>Fri, 05 Jun 2026 14:33:11 +0000</pubDate>
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
+    </item>
+    <item>
+      <title>[Linas Agro] Situācija uz lauka - agronoma redzējums. 24.nedēļa</title>
+      <link>https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-24-nedela</link>
+      <description>Svarīgākie darbi šobrīd ziemāju sējumos ir fungicīdu un mikroelementu smidzinājumi, īpaši tajos laukos, kuros līdz šim sezonas brīdim nav tikuši lietoti fungicīdi, lai pasargātu karoglapu un izdotos to noturēt pēc iespējas ilgāk zaļu, lai nesamazinātu gaidāmās ražas potenciālu. Fungicīdu izvēle ir atkarīga no slimību izplatības kviešos, kā arī no tā, kāds fungicīds jau lietots šajā sezonā. Ja šī ziemājos būs jau otrā fungicīdu apstrāde, tad arī ieteicams izvēlēties atšķirīgus fungicīdus, kā arī </description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-24-nedela</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[BASF Agricultural Solutions] 🫛Vai ir vērts lietot fungicīdu zirņu sējumos</title>
@@ -512,6 +629,14 @@
       <guid isPermaLink="true">https://www.facebook.com/agerona.latvija/posts/pfbid0211N9znKCVyVeJwrV7GPTki73z384SR3Adv5QhgtM3uiR9YkShvPb4zradDdgDb8Pl</guid>
       <pubDate>Sun, 05 Jul 2026 11:38:08 +0000</pubDate>
       <source url="https://www.facebook.com/agerona.latvija/">Agerona Latvija</source>
+    </item>
+    <item>
+      <title>[Linas Agro] MIKROBIOLOĢISKĀS STRATĒĢIJAS AUGSTĀKAI RAŽAI UN KULTŪRAUGU IZTURĪBAI</title>
+      <link>https://www.linasagro.lv/agro-zinas/mikrobiologiskas-strategijas-augstakai-razai-un-kulturaugu-izturibai</link>
+      <description>Pašreizējā tirgus situācijā ar augstām minerālmēslojumu cenām un nestabilu pieprasījumu mikrobioloģiskajām tehnoloģijām kļūst arvien lielāka nozīme.Tās ļauj efektīvāk izmantot augsnē esošās barības vielas un samazināt atkarību no minerālmēslojuma. Aizstājot daļu NPK 10-26-26 ar NANDO tehnoloģiju (~50 kg/ha), iespējams: Uzlabot barības vielu pieejamību; Palielināt mēslojuma efektivitāti; Samazināt izmaksas; Un stabilizēt ražas veidošanos mainīgos apstākļos.</description>
+      <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/mikrobiologiskas-strategijas-augstakai-razai-un-kulturaugu-izturibai</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
       <title>[Scandagra] Valmieras graudu punkta atklāšana</title>
@@ -1194,7 +1319,7 @@
       <link>https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</link>
       <description>14. jūlijā, valdība atbalstīja grozījumus noteikumos par mikroliegumu izvei...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1202,7 +1327,7 @@
       <link>https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</link>
       <description>Lauksaimniecība nav tikai ražas iegūšana vai dzīvnieku turēšana – tā ir arī...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1210,7 +1335,7 @@
       <link>https://www.saimnieks.lv/raksts/majputnu-ipasniekiem-lidz-31julijam-jaiesniedz-informacija-par-katras-majputnu-sugas-skaitu</link>
       <description>Lauku atbalsta dienests atgādina, ka mājputnu īpašniekiem līdz 31.jūlijam j...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/majputnu-ipasniekiem-lidz-31julijam-jaiesniedz-informacija-par-katras-majputnu-sugas-skaitu</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1218,7 +1343,7 @@
       <link>https://www.saimnieks.lv/raksts/turpmak-lauksaimnieku-ienemumus-dizeldegvielas-sanemsanai-vertes-elastigak</link>
       <description>14. jūlijā, Ministru kabinets atbalstīja grozījumus likumā “Par akcīzes nod...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpmak-lauksaimnieku-ienemumus-dizeldegvielas-sanemsanai-vertes-elastigak</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1226,7 +1351,7 @@
       <link>https://www.saimnieks.lv/raksts/latvija-darbu-sak-baltijas-dabas-kapitala-instituts-b-nature</link>
       <description>Organizācija paplašina savu identitāti, atspoguļojot gandrīz divdesmit gadu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvija-darbu-sak-baltijas-dabas-kapitala-instituts-b-nature</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1234,7 +1359,7 @@
       <link>https://www.saimnieks.lv/raksts/trioliet-jaudigie-risinajumi-lielajam-lopkopibas-saimniecibam</link>
       <description>Katra moderna lopkopības saimniecība ir unikāla – ar savu infrastruktūru, i...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/trioliet-jaudigie-risinajumi-lielajam-lopkopibas-saimniecibam</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1242,7 +1367,7 @@
       <link>https://www.saimnieks.lv/raksts/lazdonas-piensaimnieks-piens-ar-raksturu-vesturi-un-skatu-nakotne</link>
       <description>Ir produkti, kuri vienkārši atrodas veikala plauktā. Un ir produkti, aiz ku...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lazdonas-piensaimnieks-piens-ar-raksturu-vesturi-un-skatu-nakotne</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1250,7 +1375,7 @@
       <link>https://www.saimnieks.lv/raksts/jauns-zimola-gea-parstavis-latvija-darbibu-uzsak-sia-sv-tehnika</link>
       <description>Lai nodrošinātu efektīvāku servisu un plašāku augstākās kvalitātes fermu ap...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-zimola-gea-parstavis-latvija-darbibu-uzsak-sia-sv-tehnika</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1258,7 +1383,7 @@
       <link>https://www.saimnieks.lv/raksts/lpks-ezerkrasti-1-oda-gimenes-saimniecibam</link>
       <description>Pilsētas nepārtraukti mainās, top jauni tirdzniecības un atpūtas centri, be...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lpks-ezerkrasti-1-oda-gimenes-saimniecibam</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1266,7 +1391,7 @@
       <link>https://www.saimnieks.lv/raksts/aitkopibas-stasts-jaunzemniekos</link>
       <description>Preiļu novadā mežu ieskautā ainavā paslēpusies piemājas saimniecība Jaunzem...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aitkopibas-stasts-jaunzemniekos</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1274,7 +1399,7 @@
       <link>https://www.saimnieks.lv/raksts/termalas-kameras-darbiba-un-ieguvumi-saimnieciba</link>
       <description>Vēl pirms dažām desmitgadēm termālās kameras un citas termālās ierīces bija...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/termalas-kameras-darbiba-un-ieguvumi-saimnieciba</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1282,7 +1407,7 @@
       <link>https://www.saimnieks.lv/raksts/ieguvumi-smidzinot-aal-no-agrodroniem</link>
       <description>Dažos laukos logs apstrādei ir ļoti īss – pāris stundas starp vēju, lietu u...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ieguvumi-smidzinot-aal-no-agrodroniem</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1290,7 +1415,7 @@
       <link>https://www.saimnieks.lv/raksts/annaburger-hts-34c16-profi-universala-transportesanas-pieredze</link>
       <description>Saspringtos ražas novākšanas un sējas logos laiks ir noteicošais faktors. T...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/annaburger-hts-34c16-profi-universala-transportesanas-pieredze</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1298,7 +1423,7 @@
       <link>https://www.saimnieks.lv/raksts/laboratoriskie-izmeklejumi-biologiskaja-lauksaimnieciba</link>
       <description>Bioloģiskās lauksaimniecības nozare Latvijā turpina attīstīties, pieaugot g...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/laboratoriskie-izmeklejumi-biologiskaja-lauksaimnieciba</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1306,7 +1431,7 @@
       <link>https://www.saimnieks.lv/raksts/augsnes-baribas-vielu-pieejamibas-veicinasana-cels-uz-noturigu-saimniecibu</link>
       <description>Augsnes auglība ir augsnes spēja nodrošināt augus ar augšanai nepieciešamaj...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augsnes-baribas-vielu-pieejamibas-veicinasana-cels-uz-noturigu-saimniecibu</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1314,7 +1439,7 @@
       <link>https://www.saimnieks.lv/raksts/hibridie-ziemas-rudzi-skabbaribai</link>
       <description>Lopbarības ražošanu arvien vairāk ietekmē laikapstākļu svārstības, sausuma ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/hibridie-ziemas-rudzi-skabbaribai</guid>
-      <pubDate>Fri, 17 Jul 2026 12:13:03 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 14:12:58 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
