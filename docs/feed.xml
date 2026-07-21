@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 21 Jul 2026 15:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:56:03 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
       <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
@@ -645,22 +645,6 @@
       <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-07-06/lauka-diena-priekulos-aizraujosa-atzinu-apgusana</guid>
       <pubDate>Mon, 06 Jul 2026 14:41:01 +0000</pubDate>
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
-      <title>[LLKC] Aicinām uz lauka dienu “Vesela augsne praksē: mēslošana, zaļmēslojums un lauksaimnieku pieredze”</title>
-      <link>https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-vesela-augsne-prakse-meslosana-zalmeslojums-un-lauksaimnieku-pieredze/</link>
-      <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) sadarbībā ar z/s “Ķelmēni” un SIA “Bullīši” aicina 21. jūlijā apmeklēt demonstrējuma lauka die...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-vesela-augsne-prakse-meslosana-zalmeslojums-un-lauksaimnieku-pieredze/</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[LLKC] Veiksmīga dalība GOOD projekta “Dzīvā laboratorija” noslēdzošajā pētījumu sezonā</title>
-      <link>https://llkc.lv/aktualitates/veiksmiga-daliba-good-projekta-dziva-laboratorija-nosledzosaja-petijumu-sezona/</link>
-      <description>Agroresursu un ekonomikas institūta (AREI) Priekuļu pētniecības centrs ir viena no sešpadsmit "Dzīvajām laboratorijām" (Living Labs), kas izveidotas d...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/veiksmiga-daliba-good-projekta-dziva-laboratorija-nosledzosaja-petijumu-sezona/</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agrochema] Vai minerālmēslu kunkuļi nozīmē, ka produkts ir bojāts</title>
@@ -1302,14 +1286,6 @@ Paldies visiem Vidzemes…</title>
       <source url="https://www.facebook.com/scandagralatvia/">Scandagra (FB)</source>
     </item>
     <item>
-      <title>[LLKC] Sklandrausis vienoja garšu, tradīcijas un zinātkāri Dundagas festivālā</title>
-      <link>https://llkc.lv/aktualitates/sklandrausis-vienoja-garsu-tradicijas-un-zinatkari-dundagas-festivala/</link>
-      <description>Jau astoto reizi Dundagā norisinājās Sklandraušu festivāls, pulcējot gan Sklandraušu cepējus, gan gardēžus, gan interesentus no visas Latvijas. Dienas...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/sklandrausis-vienoja-garsu-tradicijas-un-zinatkari-dundagas-festivala/</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[Linas Agro (FB)] Sākusies arī sēklu lauku ražas novākšana ziemas miežos Jakubus -  C2 un C1 attaudzējumam</title>
       <link>https://www.facebook.com/reel/1337045751936145/</link>
       <description>Sākusies arī sēklu lauku ražas novākšana ziemas miežos Jakubus - C2 un C1 attaudzējumam. Šobrīd graudi tiek kulti un veikta to pirmapstrāde, lai jau nākamajā nedēļā pirmās kravas tiktu pieņemtas Iecavas Dotnuva Seeds rupnīcā uz turpmāku sagatavošanu sertifikācijai priekš gaidāmās rudens sējas. ✅️ Ražas dati: - Mitrums: 15 - 16% - Tilpummasa: 61 kg/hl - Ražība: 7 t/ha Saimniecība - SIA Anaerobic holding 🤝</description>
@@ -1349,11 +1325,35 @@ Paldies visiem Vidzemes…</title>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
+      <title>[LLKC] Tehnoloģijas kvalitatīvu vaislas teļu izaudzēšanai</title>
+      <link>https://llkc.lv/aktualitates/tehnologijas-kvalitativu-vaislas-telu-izaudzesanai/</link>
+      <description>Teļu sekmīga izaudzēšana sākas jau pirmajās dzīves stundās. Savlaicīga un kvalitatīva jaunpiena izēdināšana būtiski ietekmē teļu imunitāti, veselību, ...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/tehnologijas-kvalitativu-vaislas-telu-izaudzesanai/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Lauka diena zirņu sējas tehnoloģisko risinājumu ekonomiskās efektivitātes novērtēšanā</title>
+      <link>https://llkc.lv/aktualitates/lauka-diena-zirnu-sejas-tehnologisko-risinajumu-ekonomiskas-efektivitates-novertesana/</link>
+      <description>Preiļu novada Galēnu pagasta z/s “Jaungribolva” pirmo gadu tika ierīkots Zemkopības ministrijas un Lauku atbalsta dienesta atbalstīts demonstrējums „Z...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/lauka-diena-zirnu-sejas-tehnologisko-risinajumu-ekonomiskas-efektivitates-novertesana/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Notiks lauka diena piena lopkopības saimniecībā “Kalna Dambrāni”</title>
+      <link>https://llkc.lv/aktualitates/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani/</link>
+      <description>LLKC sadarbībā ar piena lopkopības saimniecību z/s “Kalna Dambrāni”, Zemnieku saeimu un LBTU aicina apmeklēt demonstrējuma lauka dienu piensaimniecībā...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Jauns graudu pieņemšanas punkts Valmierā atvieglos ražas realizāciju Vidzemes graudaudzētājiem</title>
       <link>https://www.saimnieks.lv/raksts/jauns-graudu-pienemsanas-punkts-valmiera-atvieglos-razas-realizaciju-vidzemes-graudaudzetajiem</link>
       <description>Tuvojoties jaunās ražas sezonai, Scandagra Latvia paplašinājusi savu darbīb...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-graudu-pienemsanas-punkts-valmiera-atvieglos-razas-realizaciju-vidzemes-graudaudzetajiem</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1361,7 +1361,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-novada-garsas-2026-produktu-kvalitates-konkursam</link>
       <description>No 71 produkta pirmajā konkursa gadā līdz 191 produktam pērn - "Novada Garš...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-novada-garsas-2026-produktu-kvalitates-konkursam</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1369,7 +1369,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/atjaunota-bartas-upe-un-aizsargdambis-pasargas-iedzivotajus-un-lauksaimniecibas-zemes-no-applusanas-riska</link>
       <description>Atjaunotas Bārtas upes ūdens novadīšanas spējas un nostiprināts labā krasta...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/atjaunota-bartas-upe-un-aizsargdambis-pasargas-iedzivotajus-un-lauksaimniecibas-zemes-no-applusanas-riska</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1377,7 +1377,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/zm-eiropas-komisijas-istenota-arkartas-finansiala-atbalsta-sadale-ir-netaisniga-un-neatspogulo-pierobezas-dalibvalstu-paaugstinato-ekonomisko-ievainojamibu</link>
       <description>Eiropas Komisijas (EK) darba grupā notikušajā balsojumā par EK regulu par ā...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zm-eiropas-komisijas-istenota-arkartas-finansiala-atbalsta-sadale-ir-netaisniga-un-neatspogulo-pierobezas-dalibvalstu-paaugstinato-ekonomisko-ievainojamibu</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1385,7 +1385,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</link>
       <description>13. augustā Ozolnieku vidusskolā notiks konference pedagogiem “Pārtikas pra...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1393,7 +1393,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/noslegusies-zemkopibas-ministrijas-valsts-petijumu-programma-par-vietejo-resursu-ilgtspejigu-izmantosanu</link>
       <description>Noslēgusies Zemkopības ministrijas (ZM) valsts pētījumu programma “Vietējo ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/noslegusies-zemkopibas-ministrijas-valsts-petijumu-programma-par-vietejo-resursu-ilgtspejigu-izmantosanu</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1401,7 +1401,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/cukgalas-cena-latvija-maija-samazinajusies-par-7</link>
       <description>Latvijā cūkgaļas cena šogad maijā bija 182,63 eiro par 100 kilogramiem, kas...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/cukgalas-cena-latvija-maija-samazinajusies-par-7</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1409,7 +1409,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</link>
       <description>14. jūlijā, valdība atbalstīja grozījumus noteikumos par mikroliegumu izvei...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1417,7 +1417,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</link>
       <description>Lauksaimniecība nav tikai ražas iegūšana vai dzīvnieku turēšana – tā ir arī...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1425,7 +1425,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/majputnu-ipasniekiem-lidz-31julijam-jaiesniedz-informacija-par-katras-majputnu-sugas-skaitu</link>
       <description>Lauku atbalsta dienests atgādina, ka mājputnu īpašniekiem līdz 31.jūlijam j...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/majputnu-ipasniekiem-lidz-31julijam-jaiesniedz-informacija-par-katras-majputnu-sugas-skaitu</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1433,7 +1433,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/turpmak-lauksaimnieku-ienemumus-dizeldegvielas-sanemsanai-vertes-elastigak</link>
       <description>14. jūlijā, Ministru kabinets atbalstīja grozījumus likumā “Par akcīzes nod...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpmak-lauksaimnieku-ienemumus-dizeldegvielas-sanemsanai-vertes-elastigak</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1441,7 +1441,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/latvija-darbu-sak-baltijas-dabas-kapitala-instituts-b-nature</link>
       <description>Organizācija paplašina savu identitāti, atspoguļojot gandrīz divdesmit gadu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvija-darbu-sak-baltijas-dabas-kapitala-instituts-b-nature</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1449,7 +1449,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/trioliet-jaudigie-risinajumi-lielajam-lopkopibas-saimniecibam</link>
       <description>Katra moderna lopkopības saimniecība ir unikāla – ar savu infrastruktūru, i...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/trioliet-jaudigie-risinajumi-lielajam-lopkopibas-saimniecibam</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1457,7 +1457,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/lazdonas-piensaimnieks-piens-ar-raksturu-vesturi-un-skatu-nakotne</link>
       <description>Ir produkti, kuri vienkārši atrodas veikala plauktā. Un ir produkti, aiz ku...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lazdonas-piensaimnieks-piens-ar-raksturu-vesturi-un-skatu-nakotne</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1465,7 +1465,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/jauns-zimola-gea-parstavis-latvija-darbibu-uzsak-sia-sv-tehnika</link>
       <description>Lai nodrošinātu efektīvāku servisu un plašāku augstākās kvalitātes fermu ap...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-zimola-gea-parstavis-latvija-darbibu-uzsak-sia-sv-tehnika</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1473,7 +1473,7 @@ Paldies visiem Vidzemes…</title>
       <link>https://www.saimnieks.lv/raksts/lpks-ezerkrasti-1-oda-gimenes-saimniecibam</link>
       <description>Pilsētas nepārtraukti mainās, top jauni tirdzniecības un atpūtas centri, be...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lpks-ezerkrasti-1-oda-gimenes-saimniecibam</guid>
-      <pubDate>Tue, 21 Jul 2026 15:06:17 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 16:56:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
