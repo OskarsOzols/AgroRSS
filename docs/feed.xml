@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:39:03 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
       <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
@@ -1337,134 +1337,6 @@
       <guid isPermaLink="true">https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-precizas-meslojuma-iestrades-tehnologiju-efektivitati/</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] VAAD noslēdzis plašu digitālo pakalpojumu modernizāciju – lauksaimniekiem mazāk administratīvā sloga</title>
-      <link>https://www.saimnieks.lv/raksts/vaad-nosledzis-plasu-digitalo-pakalpojumu-modernizaciju-lauksaimniekiem-mazak-administrativa-sloga</link>
-      <description>Valsts augu aizsardzības dienests (VAAD) ir noslēdzis plašu digitālo pakalp...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-nosledzis-plasu-digitalo-pakalpojumu-modernizaciju-lauksaimniekiem-mazak-administrativa-sloga</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] VAAD līdz jūlija vidum bakteriālo iedegu konstatējis piemājas dārzā Carnikavā</title>
-      <link>https://www.saimnieks.lv/raksts/vaad-lidz-julija-vidum-bakterialo-iedegu-konstatejis-piemajas-darza-carnikava</link>
-      <description>Valsts augu aizsardzības dienests (VAAD), veicot bakteriālās iedegas monito...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-lidz-julija-vidum-bakterialo-iedegu-konstatejis-piemajas-darza-carnikava</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Lauksaimnieki: Lietavas būtiski kavē graudaugu kulšanu</title>
-      <link>https://www.saimnieks.lv/raksts/lauksaimnieki-lietavas-butiski-kave-graudaugu-kulsanu</link>
-      <description>Latvijā lietavas patlaban būtiski kavē graudaugu kulšanu, atzina aptaujātie...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-lietavas-butiski-kave-graudaugu-kulsanu</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Uzņēmumus aicina pieteikties līdz 50 000 eiro finansējumam bioaprites inovāciju attīstībai</title>
-      <link>https://www.saimnieks.lv/raksts/uznemumus-aicina-pieteikties-lidz-50-000-eiro-finansejumam-bioaprites-inovaciju-attistibai</link>
-      <description>Mazie un vidējie uzņēmumi un jaunuzņēmumi no Vidzemes un visas Latvijas aic...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uznemumus-aicina-pieteikties-lidz-50-000-eiro-finansejumam-bioaprites-inovaciju-attistibai</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Kāpēc ekonomikas stabilizācija vēl negarantē straujāku izaugsmi?</title>
-      <link>https://www.saimnieks.lv/raksts/kapec-ekonomikas-stabilizacija-vel-negarante-straujaku-izaugsmi</link>
-      <description>Inflācija jūnijā atkāpās, taču ekonomikas izaicinājumi nebeidzas. Kamēr cen...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kapec-ekonomikas-stabilizacija-vel-negarante-straujaku-izaugsmi</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Naftas cenas atkal aug: cik tas izmaksās Baltijas valstīm?</title>
-      <link>https://www.saimnieks.lv/raksts/naftas-cenas-atkal-aug-cik-tas-izmaksas-baltijas-valstim</link>
-      <description>Pēc īsa pamiera spriedze starp Amerikas Savienotajām Valstīm un Irānu atkal...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/naftas-cenas-atkal-aug-cik-tas-izmaksas-baltijas-valstim</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Latvijas Dabas fonds Ainavu tūrē aicina iepazīt Lubāna mitrājā dzīvojošus sikspārņus</title>
-      <link>https://www.saimnieks.lv/raksts/latvijas-dabas-fonds-ainavu-ture-aicina-iepazit-lubana-mitraja-dzivojosus-siksparnus</link>
-      <description>1. augustā, no plkst. 20.00 līdz 23.00 Latvijas Dabas fonds aicina uz īpašu...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-dabas-fonds-ainavu-ture-aicina-iepazit-lubana-mitraja-dzivojosus-siksparnus</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Jauns graudu pieņemšanas punkts Valmierā atvieglos ražas realizāciju Vidzemes graudaudzētājiem</title>
-      <link>https://www.saimnieks.lv/raksts/jauns-graudu-pienemsanas-punkts-valmiera-atvieglos-razas-realizaciju-vidzemes-graudaudzetajiem</link>
-      <description>Tuvojoties jaunās ražas sezonai, Scandagra Latvia paplašinājusi savu darbīb...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauns-graudu-pienemsanas-punkts-valmiera-atvieglos-razas-realizaciju-vidzemes-graudaudzetajiem</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Izsludināta pieteikšanās “Novada Garšas 2026” produktu kvalitātes konkursam</title>
-      <link>https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-novada-garsas-2026-produktu-kvalitates-konkursam</link>
-      <description>No 71 produkta pirmajā konkursa gadā līdz 191 produktam pērn - "Novada Garš...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-novada-garsas-2026-produktu-kvalitates-konkursam</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Atjaunotā Bārtas upe un aizsargdambis pasargās iedzīvotājus un lauksaimniecības zemes no applūšanas riska</title>
-      <link>https://www.saimnieks.lv/raksts/atjaunota-bartas-upe-un-aizsargdambis-pasargas-iedzivotajus-un-lauksaimniecibas-zemes-no-applusanas-riska</link>
-      <description>Atjaunotas Bārtas upes ūdens novadīšanas spējas un nostiprināts labā krasta...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/atjaunota-bartas-upe-un-aizsargdambis-pasargas-iedzivotajus-un-lauksaimniecibas-zemes-no-applusanas-riska</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] ZM: Eiropas Komisijas īstenotā ārkārtas finansiālā atbalsta sadale ir netaisnīga un neatspoguļo pierobežas dalībvalstu paaugstināto ekonomisko ievainojamību</title>
-      <link>https://www.saimnieks.lv/raksts/zm-eiropas-komisijas-istenota-arkartas-finansiala-atbalsta-sadale-ir-netaisniga-un-neatspogulo-pierobezas-dalibvalstu-paaugstinato-ekonomisko-ievainojamibu</link>
-      <description>Eiropas Komisijas (EK) darba grupā notikušajā balsojumā par EK regulu par ā...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zm-eiropas-komisijas-istenota-arkartas-finansiala-atbalsta-sadale-ir-netaisniga-un-neatspogulo-pierobezas-dalibvalstu-paaugstinato-ekonomisko-ievainojamibu</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Pedagogus aicina uz Latvijā vienīgo konferenci par pārtikas pratību skolās</title>
-      <link>https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</link>
-      <description>13. augustā Ozolnieku vidusskolā notiks konference pedagogiem “Pārtikas pra...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Noslēgusies Zemkopības ministrijas valsts pētījumu programma par vietējo resursu ilgtspējīgu izmantošanu</title>
-      <link>https://www.saimnieks.lv/raksts/noslegusies-zemkopibas-ministrijas-valsts-petijumu-programma-par-vietejo-resursu-ilgtspejigu-izmantosanu</link>
-      <description>Noslēgusies Zemkopības ministrijas (ZM) valsts pētījumu programma “Vietējo ...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/noslegusies-zemkopibas-ministrijas-valsts-petijumu-programma-par-vietejo-resursu-ilgtspejigu-izmantosanu</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Cūkgaļas cena Latvijā maijā samazinājusies par 7%</title>
-      <link>https://www.saimnieks.lv/raksts/cukgalas-cena-latvija-maija-samazinajusies-par-7</link>
-      <description>Latvijā cūkgaļas cena šogad maijā bija 182,63 eiro par 100 kilogramiem, kas...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/cukgalas-cena-latvija-maija-samazinajusies-par-7</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Jauna kārtība mikroliegumu izveidei, mazinot birokrātiju, nodrošinās ātrāku lēmumu pieņemšanu un skaidrākas prasības</title>
-      <link>https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</link>
-      <description>14. jūlijā, valdība atbalstīja grozījumus noteikumos par mikroliegumu izvei...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauna-kartiba-mikroliegumu-izveidei-mazinot-birokratiju-nodrosinas-atraku-lemumu-pienemsanu-un-skaidrakas-prasibas</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Nosacījumu sistēma: atbildīga saimniekošana, droša pārtika un tīra vide</title>
-      <link>https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</link>
-      <description>Lauksaimniecība nav tikai ražas iegūšana vai dzīvnieku turēšana – tā ir arī...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/nosacijumu-sistema-atbildiga-saimniekosana-drosa-partika-un-tira-vide</guid>
-      <pubDate>Fri, 31 Jul 2026 20:21:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
 </rss>
