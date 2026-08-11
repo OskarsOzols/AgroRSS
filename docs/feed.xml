@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:21:11 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
       <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
@@ -1354,6 +1354,134 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <guid isPermaLink="true">https://www.facebook.com/agrochema.lv/posts/pfbid02BcLmvmLSrg89FfPcox5PkrHe87zcyh2DavfSqVPy26tRyVj2Q86Wt2AzoxG4TpVtl</guid>
       <pubDate>Mon, 10 Aug 2026 16:30:03 +0000</pubDate>
       <source url="https://www.facebook.com/agrochema.lv/">Agrochema</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] ES fondu tematiskajā komitejā vienojas par atbalstu uzņēmējdarbību veicinošām investīcijām</title>
+      <link>https://www.saimnieks.lv/raksts/es-fondu-tematiskaja-komiteja-vienojas-par-atbalstu-uznemejdarbibu-veicinosam-investicijam</link>
+      <description>6. augustā Eiropas Savienības (ES) fondu tematiskā komiteja bijusi vienispr...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/es-fondu-tematiskaja-komiteja-vienojas-par-atbalstu-uznemejdarbibu-veicinosam-investicijam</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] LAD: Lauku atbalsta dienests atgādina par zālāju apsaimniekošanas termiņiem</title>
+      <link>https://www.saimnieks.lv/raksts/lad-lauku-atbalsta-dienests-atgadina-par-zalaju-apsaimniekosanas-terminiem</link>
+      <description>Tuvojoties zālāju apsaimniekošanas termiņiem, Lauku atbalsta dienests (LAD)...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-lauku-atbalsta-dienests-atgadina-par-zalaju-apsaimniekosanas-terminiem</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Premjers ar lauksaimniekiem pārrunā iespējas mazināt izejvielu cenu kāpumu</title>
+      <link>https://www.saimnieks.lv/raksts/premjers-ar-lauksaimniekiem-parruna-iespejas-mazinat-izejvielu-cenu-kapumu</link>
+      <description>Lai kopā ar Latvijas lauksaimniekiem pārrunātu nozares aktuālākos izaicināj...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/premjers-ar-lauksaimniekiem-parruna-iespejas-mazinat-izejvielu-cenu-kapumu</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Ja to var ēst, mēs Zemgalē to varam saražot</title>
+      <link>https://www.saimnieks.lv/raksts/ja-to-var-est-mes-zemgale-to-varam-sarazot</link>
+      <description>Pagājušajā gadā Zemgales reģiona attīstība kopumā bija stabila un ļoti tuva...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ja-to-var-est-mes-zemgale-to-varam-sarazot</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Labības kulšanas pirmie rezultāti ir labāki nekā pērn</title>
+      <link>https://www.saimnieks.lv/raksts/labibas-kulsanas-pirmie-rezultati-ir-labaki-neka-pern</link>
+      <description>Ziemas miežu, ziemas rapša un agro ziemas kviešu kulšanas pirmie rezultāti ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/labibas-kulsanas-pirmie-rezultati-ir-labaki-neka-pern</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Zemes iegādes kreditēšanas programmā 14 gadu laikā lauksaimnieki iegādājušies 65,4 tūkstošus hektāru lauksaimniecības zemes</title>
+      <link>https://www.saimnieks.lv/raksts/zemes-iegades-kreditesanas-programma-14-gadu-laika-lauksaimnieki-iegadajusies-654-tukstosus-hektaru-lauksaimniecibas-zemes</link>
+      <description>Latvijas lauksaimnieki jau 14 gadus* aktīvi izmanto Zemkopības ministrijas ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zemes-iegades-kreditesanas-programma-14-gadu-laika-lauksaimnieki-iegadajusies-654-tukstosus-hektaru-lauksaimniecibas-zemes</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Mūsdienīga meliorācijas infrastruktūra ir viens no priekšnoteikumiem drošai dzīves videi un saimnieciskajai darbībai</title>
+      <link>https://www.saimnieks.lv/raksts/musdieniga-melioracijas-infrastruktura-ir-viens-no-prieksnoteikumiem-drosai-dzives-videi-un-saimnieciskajai-darbibai</link>
+      <description>Mūsdienīga meliorācijas infrastruktūra ir viens no priekšnoteikumiem drošai...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/musdieniga-melioracijas-infrastruktura-ir-viens-no-prieksnoteikumiem-drosai-dzives-videi-un-saimnieciskajai-darbibai</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Pedagogus aicina uz Latvijā vienīgo konferenci par pārtikas pratību skolās</title>
+      <link>https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</link>
+      <description>13. augustā Ozolnieku vidusskolā notiks konference pedagogiem “Pārtikas pra...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Uzlabots Mēslošanas līdzekļu un substrātu reģistrs</title>
+      <link>https://www.saimnieks.lv/raksts/uzlabots-meslosanas-lidzeklu-un-substratu-registrs</link>
+      <description>Būtiski uzlabots Valsts augu aizsardzības dienesta Mēslošanas līdzekļu un s...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uzlabots-meslosanas-lidzeklu-un-substratu-registrs</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Notiks lauka diena piena lopkopības saimniecībā “Kalna Dambrāni”</title>
+      <link>https://www.saimnieks.lv/raksts/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani</link>
+      <description>LLKC sadarbībā ar piena lopkopības saimniecību z/s “Kalna Dambrāni”, Zemnie...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Vienkāršos LEADER atbalsta saņemšanu lauku attīstības veicināšanai</title>
+      <link>https://www.saimnieks.lv/raksts/vienkarsos-leader-atbalsta-sanemsanu-lauku-attistibas-veicinasanai</link>
+      <description>Lai atvieglotu atbalsta saņemšanu uzņēmējiem, pašvaldībām un nevalstiskajām...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vienkarsos-leader-atbalsta-sanemsanu-lauku-attistibas-veicinasanai</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] VAAD noslēdzis plašu digitālo pakalpojumu modernizāciju – lauksaimniekiem mazāk administratīvā sloga</title>
+      <link>https://www.saimnieks.lv/raksts/vaad-nosledzis-plasu-digitalo-pakalpojumu-modernizaciju-lauksaimniekiem-mazak-administrativa-sloga</link>
+      <description>Valsts augu aizsardzības dienests (VAAD) ir noslēdzis plašu digitālo pakalp...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-nosledzis-plasu-digitalo-pakalpojumu-modernizaciju-lauksaimniekiem-mazak-administrativa-sloga</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] VAAD līdz jūlija vidum bakteriālo iedegu konstatējis piemājas dārzā Carnikavā</title>
+      <link>https://www.saimnieks.lv/raksts/vaad-lidz-julija-vidum-bakterialo-iedegu-konstatejis-piemajas-darza-carnikava</link>
+      <description>Valsts augu aizsardzības dienests (VAAD), veicot bakteriālās iedegas monito...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vaad-lidz-julija-vidum-bakterialo-iedegu-konstatejis-piemajas-darza-carnikava</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Lauksaimnieki: Lietavas būtiski kavē graudaugu kulšanu</title>
+      <link>https://www.saimnieks.lv/raksts/lauksaimnieki-lietavas-butiski-kave-graudaugu-kulsanu</link>
+      <description>Latvijā lietavas patlaban būtiski kavē graudaugu kulšanu, atzina aptaujātie...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimnieki-lietavas-butiski-kave-graudaugu-kulsanu</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Uzņēmumus aicina pieteikties līdz 50 000 eiro finansējumam bioaprites inovāciju attīstībai</title>
+      <link>https://www.saimnieks.lv/raksts/uznemumus-aicina-pieteikties-lidz-50-000-eiro-finansejumam-bioaprites-inovaciju-attistibai</link>
+      <description>Mazie un vidējie uzņēmumi un jaunuzņēmumi no Vidzemes un visas Latvijas aic...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uznemumus-aicina-pieteikties-lidz-50-000-eiro-finansejumam-bioaprites-inovaciju-attistibai</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Kāpēc ekonomikas stabilizācija vēl negarantē straujāku izaugsmi?</title>
+      <link>https://www.saimnieks.lv/raksts/kapec-ekonomikas-stabilizacija-vel-negarante-straujaku-izaugsmi</link>
+      <description>Inflācija jūnijā atkāpās, taču ekonomikas izaicinājumi nebeidzas. Kamēr cen...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kapec-ekonomikas-stabilizacija-vel-negarante-straujaku-izaugsmi</guid>
+      <pubDate>Tue, 11 Aug 2026 11:21:11 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
 </rss>
