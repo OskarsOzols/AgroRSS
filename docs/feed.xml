@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:50:43 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
       <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
@@ -526,6 +526,14 @@
       <source url="https://www.facebook.com/AgTechLV/">AgTech LV</source>
     </item>
     <item>
+      <title>[LLKC] Žurnāla “Latvijas Lopkopis” jūlija numurā</title>
+      <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-julija-numura-2/</link>
+      <description>Ko zaudējam, kad svaigpiens aiziet pāri robežai? Uz šo jautājumu analītiskā rakstā jūlija “Latvijas Lopkopis” numurā atbild žurnālists, Latvijas Lauks...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-julija-numura-2/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Agerona Latvija] Sveiciens no Liepājas ostas</title>
       <link>https://www.facebook.com/agerona.latvija/posts/pfbid02TxWA16Jf7qZzZSWy1Pg7Bey2zcFfvC2MbSL87DZEux8KdEdiS2Ka9vjriiwcSfywl</link>
       <description>Sveiciens no Liepājas ostas! 🌾 Šodien viesojāmies LSEZ SIA Dan Store terminālī – pie viena no mūsu ilggadējiem sadarbības partneriem. Komercdirektors Juris Drobiševskis izrādīja termināli, un kopā pārrunājām sadarbību un gatavību rapša un graudu pieņemšanai. #Agerona #Zemniekiem #Lauksaimniecība #GrauduIepirkšana</description>
@@ -555,6 +563,14 @@
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/6-augusta-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[LLKC] Jūlija lietavas apturējušas kulšanu, taču ziemāju ražas potenciāls saglabājas labs</title>
+      <link>https://llkc.lv/aktualitates/julija-lietavas-apturejusas-kulsanu-tacu-ziemaju-razas-potencials-saglabajas-labs/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) Lauksaimniecības daļas augkopības eksperti, apkopojot jūlija kultūraugu ražas prognozes, secin...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/julija-lietavas-apturejusas-kulsanu-tacu-ziemaju-razas-potencials-saglabajas-labs/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agerona Latvija] 🌾 Agerona ir gatava jaunajai sezonai</title>
@@ -716,6 +732,22 @@
       <source url="https://www.facebook.com/agerona.latvija/">Agerona Latvija</source>
     </item>
     <item>
+      <title>[LLKC] Pedagogus aicina uz Latvijā vienīgo konferenci par pārtikas pratību skolās</title>
+      <link>https://llkc.lv/aktualitates/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas/</link>
+      <description>13. augustā Ozolnieku vidusskolā notiks konference pedagogiem “Pārtikas pratība skolās – no zināšanām līdz praksei”. Tā notiks jau otro reizi un ir lī...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[LLKC] Aizvadīta lauka diena par precīzas mēslojuma iestrādes tehnoloģiju efektivitāti</title>
+      <link>https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-precizas-meslojuma-iestrades-tehnologiju-efektivitati/</link>
+      <description>Šī gada pavasarī Limbažu novada Ainažu pagasta z/s”Punči” sadarbībā ar LBTU un Zemnieku saeimu tika uzsākts demonstrējums “Precīzas mēslojuma iestrād...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-precizas-meslojuma-iestrades-tehnologiju-efektivitati/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[BASF Agricultural Solutions] ❄️ Rapša ziemcietība sākas ar pareizu šķirnes izvēli</title>
       <link>https://www.facebook.com/reel/1416570157037014/</link>
       <description>❄️ Rapša ziemcietība sākas ar pareizu šķirnes izvēli! Pēc vairākām izaicinošām ziemām daudzi audzētāji šķirnes izvēli vērtē pavisam citādi. Šajā video Renē Brands skaidro, kāpēc rapša hibrīds InVigor 2050 neatkarīgajos izmēģinājumos uzrādījis ļoti labus pārziemošanas rezultātus. 🎥 Noskatieties video un iepazīstiet šķirni tuvāk. 🎁 Atgādinām - šobrīd InVigor® ziemas rapša hibrīdiem spēkā akcijas piedāvājums - pērkot InVigor® ziemas rapša sēklas komplektā ar BASF herbicīdu, saņemiet 1 sēklu mai</description>
@@ -820,6 +852,14 @@
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
     </item>
     <item>
+      <title>[LLKC] Iepazīsti zivju pasauli Zaubes festivālā</title>
+      <link>https://llkc.lv/aktualitates/iepazisti-zivju-pasauli-zaubes-festivala/</link>
+      <description>Aizraujoša dabas izziņa, praktiski padomi, spēles visai ģimenei un iespēja izmēģināt spēkus makšķerēšanā – to visu šogad Zaubes savvaļas kulinārajā fe...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/iepazisti-zivju-pasauli-zaubes-festivala/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[VAKS] VAAD Ziņu lapa – jūlijs</title>
       <link>https://www.vaks.lv/vaad-zinu-lapa-julijs-2/</link>
       <description>The post VAAD Ziņu lapa – jūlijs appeared first on VAKS .</description>
@@ -873,6 +913,14 @@
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/20-augusta-lauku-diena-augsnes-ielabosanas-materialu-izkliedesanas-demonstrejumi/</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
+      <title>[LLKC] Aizvadīta lauka diena par zirņu audzēšanas tehnoloģijām Alūksnes pusē</title>
+      <link>https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-zirnu-audzesanas-tehnologijam-aluksnes-puse/</link>
+      <description>Alūksnes novada Mālupes pagasta zemnieku saimniecībā “Kadiķi M.A.” jūlija vidū norisinājās LLKC Alūksnes biroja organizētā lauka diena “Zirņu audzēša...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-zirnu-audzesanas-tehnologijam-aluksnes-puse/</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[BASF Agricultural Solutions] Ieskaties - jaunās paaudzes Clearfield® rapšu hibrīds no InVigor® kolekcijas</title>
@@ -931,6 +979,14 @@
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
     </item>
     <item>
+      <title>[LLKC] Iznācis “Lauku Lapas” augusta numurs</title>
+      <link>https://llkc.lv/aktualitates/iznacis-lauku-lapas-augusta-numurs-2/</link>
+      <description>Izdevuma “Lauku Lapa” augusta numurā publicējam aktuālu rakstu “Kāpēc “tiesības palikt” kļūst par Eiropas un Latvijas lauku nākotnes jautājumu”, ko sa...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/iznacis-lauku-lapas-augusta-numurs-2/</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[BASF Agricultural Solutions] 🌱 Kura ir Tava InVigor® rapša šķirne šajā sezonā</title>
       <link>https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid02yqZMjECDRGeBCX8DA1WLQayVALkxjfEF1D5NgAHAdW9kZ1mdYy8eSgwWH2ss5qYhl</link>
       <description>🌱 Kura ir Tava InVigor® rapša šķirne šajā sezonā? Aizvadītajā nedēļā kopā ar rapša ekspertu Renē Brandu un BASF agronomiem apskatījām InVigor® hibrīdu risinājumus dažādām lauka situācijām. Vai esi gatavs ziemas rapša sējai? ✅Atrodi piemērotāko šķirni savai saimniecībai: https://ej.uz/MansRapsis ✅Iegādājies pie sava tirgotāja LPKS LATRAPS Baltic Agro Linas Agro Latvija Agrochema Latvia Scandagra Latvia VAKS kooperatīvs ✅ Izmanto BASF akciju "Plus viens Tavā labā" 🎁 Pērkot InVigor® ziemas rapš</description>
@@ -969,6 +1025,14 @@
       <guid isPermaLink="true">https://www.facebook.com/agrochema.lv/posts/pfbid0g8sktQUD5y6p6oRMbB9eE9MwRDBnquySMKjPkPRKsxJ1G9WXGnAKaN3iK7JR2vaXl</guid>
       <pubDate>Wed, 05 Aug 2026 16:11:00 +0000</pubDate>
       <source url="https://www.facebook.com/agrochema.lv/">Agrochema</source>
+    </item>
+    <item>
+      <title>[LLKC] Aizvadīta lauka diena par augsnes veselību un ielabošanas līdzekļu efektivitāti</title>
+      <link>https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-augsnes-veselibu-un-ielabosanas-lidzeklu-efektivitati/</link>
+      <description>Gulbenes novada Rankas pagasta “Ķelmēnos” 21. jūlijā pulcējās lauksaimnieki, konsultanti, zinātnieki un citi interesenti uz lauka dienu "Vesela augs...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/aizvadita-lauka-diena-par-augsnes-veselibu-un-ielabosanas-lidzeklu-efektivitati/</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[eAgronom Latvija] 🌾 Kā rit ražas sezona Tavā saimniecībā</title>
@@ -1025,6 +1089,14 @@
       <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/valmieras-graudu-pienemsanas-punkts-ir-uzsacis-graudu-pienemsanu/</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
+      <title>[LLKC] Vai vietējai pārtikai ir vieta valsts un pašvaldību iepirkumos?</title>
+      <link>https://llkc.lv/aktualitates/vai-vietejai-partikai-ir-vieta-valsts-un-pasvaldibu-iepirkumos/</link>
+      <description>Ikviens no mums ikdienā plāno iepirkumus – domājam, ko gatavosim ēst un kādi produkti tam būs nepieciešami. Līdzīgi rīkojas arī valsts un pašvaldību i...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/vai-vietejai-partikai-ir-vieta-valsts-un-pasvaldibu-iepirkumos/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agrochema] 🌱 11 ziemas rapša šķirnes vienuviet</title>
@@ -1137,6 +1209,14 @@
       <guid isPermaLink="true">https://www.facebook.com/linasagro.lv/posts/pfbid02ezFquZBXM91YDB1Ab2UN8EkfHqEU2iap5zhkMfRaoqmbvu7bgNEFR4kMCnMiqBTgl</guid>
       <pubDate>Sun, 09 Aug 2026 18:00:11 +0000</pubDate>
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
+    </item>
+    <item>
+      <title>[LLKC] Ar ES atbalstu LLKC visā Latvijā uzsāk mācības lauku uzņēmējiem</title>
+      <link>https://llkc.lv/aktualitates/ar-es-atbalstu-llkc-visa-latvija-uzsak-macibas-lauku-uznemejiem/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) sadarbībā ar Latvijas Biozinātņu un tehnoloģiju universitāti (LBTU) uzsāk mācību pasākumu, ka...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/ar-es-atbalstu-llkc-visa-latvija-uzsak-macibas-lauku-uznemejiem/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Scandagra (FB)] Jūlijs - viens no mitrākajiem vēsturē</title>
@@ -1252,6 +1332,14 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <source url="https://www.facebook.com/agrochema.lv/">Agrochema</source>
     </item>
     <item>
+      <title>[LLKC] Aicinām uz lauka dienu gaļas liellopu saimniecībā</title>
+      <link>https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-galas-liellopu-saimnieciba/</link>
+      <description>LLKC sadarbībā ar Armanda Pundika gaļas liellopu saimniecību, Dina Muktupāvela gaļas liellopu saimniecību, Zemnieku saeimu un LBTU aicina apmeklēt dem...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/aicinam-uz-lauka-dienu-galas-liellopu-saimnieciba/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[AREI] Žurnāla AgroTop augusta numurā raksti par mūsu jauno cieto kviešu šķirni un pārējām kviešu šķirnēm</title>
       <link>https://www.arei.lv/lv/raksts/2026-08-11/zurnala-agrotop-augusta-numura-raksti-par-jauno-cieto-kviesu-skirni-un-arei</link>
       <description>Žurnāla AgroTop augusta numurā raksti par mūsu jauno cieto kviešu šķirni un pārējām kviešu šķirnēm solvitasur Ot, 08/11/2026 - 15:05</description>
@@ -1260,11 +1348,19 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
+      <title>[LLKC] Ražas novākšanas laikā obligātās ES prasītās pārbaudes lauku saimniecībās veic, lai pēc iespējas mazāk ietekmētu zemnieku saimniecisko aktivitāti</title>
+      <link>https://llkc.lv/aktualitates/razas-novaksanas-laika-obligatas-es-prasitas-parbaudes-lauku-saimniecibas-veic-lai-pec-iespejas-mazak-ietekmetu-zemnieku-saimniecisko-aktivitati/</link>
+      <description>Tā kā lauksaimnieki visā Latvijā tīrumos aktīvi turpina novākt ražu, Zemkopības ministrijas (ZM) iestādes obligātās neatliekamās pārbaudes saimniecībā...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/razas-novaksanas-laika-obligatas-es-prasitas-parbaudes-lauku-saimniecibas-veic-lai-pec-iespejas-mazak-ietekmetu-zemnieku-saimniecisko-aktivitati/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Sākas stirnu kazu, kazlēnu un līdz divus gadus vecu staltbriežu buļļu medību sezona</title>
       <link>https://www.saimnieks.lv/raksts/sakas-stirnu-kazu-kazlenu-un-lidz-divus-gadus-vecu-staltbriezu-bullu-medibu-sezona</link>
       <description>Šā gada 15. augustā sākas stirnu kazu un kazlēnu (vecumā līdz vienam gadam)...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sakas-stirnu-kazu-kazlenu-un-lidz-divus-gadus-vecu-staltbriezu-bullu-medibu-sezona</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1272,7 +1368,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/efektivitates-formula-un-bezkompromisa-saimniekosana-zs-piladzi</link>
       <description>Saldus novada Lutriņu pagasta zemnieku saimniecībā Pīlādži jau vairāk nekā ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/efektivitates-formula-un-bezkompromisa-saimniekosana-zs-piladzi</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1280,7 +1376,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-meza-nozares-gada-balvai-zelta-ciekurs</link>
       <description>Zemkopības ministrija (ZM) aicina interesentus līdz 10. septembrim pieteikt...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izsludinata-pieteiksanas-meza-nozares-gada-balvai-zelta-ciekurs</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1288,7 +1384,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/vai-vietejai-partikai-ir-vieta-valsts-un-pasvaldibu-iepirkumos</link>
       <description>Ikviens no mums ikdienā plāno iepirkumus – domājam, ko gatavosim ēst un kād...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vai-vietejai-partikai-ir-vieta-valsts-un-pasvaldibu-iepirkumos</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1296,7 +1392,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/eirozonas-akcijas-turpina-parsteigt-kamer-asv-tirgus-stagne</link>
       <description>Eirozona jūlijā kļuva par vienu no pozitīvajiem pārsteigumiem pasaules fina...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/eirozonas-akcijas-turpina-parsteigt-kamer-asv-tirgus-stagne</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1304,7 +1400,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/es-fondu-tematiskaja-komiteja-vienojas-par-atbalstu-uznemejdarbibu-veicinosam-investicijam</link>
       <description>6. augustā Eiropas Savienības (ES) fondu tematiskā komiteja bijusi vienispr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/es-fondu-tematiskaja-komiteja-vienojas-par-atbalstu-uznemejdarbibu-veicinosam-investicijam</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1312,7 +1408,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/lad-lauku-atbalsta-dienests-atgadina-par-zalaju-apsaimniekosanas-terminiem</link>
       <description>Tuvojoties zālāju apsaimniekošanas termiņiem, Lauku atbalsta dienests (LAD)...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-lauku-atbalsta-dienests-atgadina-par-zalaju-apsaimniekosanas-terminiem</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1320,7 +1416,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/premjers-ar-lauksaimniekiem-parruna-iespejas-mazinat-izejvielu-cenu-kapumu</link>
       <description>Lai kopā ar Latvijas lauksaimniekiem pārrunātu nozares aktuālākos izaicināj...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/premjers-ar-lauksaimniekiem-parruna-iespejas-mazinat-izejvielu-cenu-kapumu</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1328,7 +1424,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/ja-to-var-est-mes-zemgale-to-varam-sarazot</link>
       <description>Pagājušajā gadā Zemgales reģiona attīstība kopumā bija stabila un ļoti tuva...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ja-to-var-est-mes-zemgale-to-varam-sarazot</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1336,7 +1432,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/labibas-kulsanas-pirmie-rezultati-ir-labaki-neka-pern</link>
       <description>Ziemas miežu, ziemas rapša un agro ziemas kviešu kulšanas pirmie rezultāti ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/labibas-kulsanas-pirmie-rezultati-ir-labaki-neka-pern</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1344,7 +1440,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/zemes-iegades-kreditesanas-programma-14-gadu-laika-lauksaimnieki-iegadajusies-654-tukstosus-hektaru-lauksaimniecibas-zemes</link>
       <description>Latvijas lauksaimnieki jau 14 gadus* aktīvi izmanto Zemkopības ministrijas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zemes-iegades-kreditesanas-programma-14-gadu-laika-lauksaimnieki-iegadajusies-654-tukstosus-hektaru-lauksaimniecibas-zemes</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1352,7 +1448,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/musdieniga-melioracijas-infrastruktura-ir-viens-no-prieksnoteikumiem-drosai-dzives-videi-un-saimnieciskajai-darbibai</link>
       <description>Mūsdienīga meliorācijas infrastruktūra ir viens no priekšnoteikumiem drošai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/musdieniga-melioracijas-infrastruktura-ir-viens-no-prieksnoteikumiem-drosai-dzives-videi-un-saimnieciskajai-darbibai</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1360,7 +1456,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</link>
       <description>13. augustā Ozolnieku vidusskolā notiks konference pedagogiem “Pārtikas pra...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pedagogus-aicina-uz-latvija-vienigo-konferenci-par-partikas-pratibu-skolas</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1368,7 +1464,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/uzlabots-meslosanas-lidzeklu-un-substratu-registrs</link>
       <description>Būtiski uzlabots Valsts augu aizsardzības dienesta Mēslošanas līdzekļu un s...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uzlabots-meslosanas-lidzeklu-un-substratu-registrs</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1376,7 +1472,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani</link>
       <description>LLKC sadarbībā ar piena lopkopības saimniecību z/s “Kalna Dambrāni”, Zemnie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/notiks-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1384,7 +1480,7 @@ Linas Agro lopbarības zālāju sēklu maisījumu un mauriņa sēklu izpārdoša
       <link>https://www.saimnieks.lv/raksts/vienkarsos-leader-atbalsta-sanemsanu-lauku-attistibas-veicinasanai</link>
       <description>Lai atvieglotu atbalsta saņemšanu uzņēmējiem, pašvaldībām un nevalstiskajām...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vienkarsos-leader-atbalsta-sanemsanu-lauku-attistibas-veicinasanai</guid>
-      <pubDate>Wed, 12 Aug 2026 20:50:32 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:50:43 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
