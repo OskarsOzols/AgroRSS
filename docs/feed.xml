@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:28:17 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Ražas dati runā paši par sevi - Biimore strādā!</title>
       <link>https://www.linasagro.lv/agro-zinas/razas-dati-runa-pasi-par-sevi-biimore-strada</link>
@@ -483,14 +483,6 @@
       <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/6-augusta-lauka-diena-piena-lopkopibas-saimnieciba-kalna-dambrani/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
-    </item>
-    <item>
-      <title>[LLKC] Jūlija lietavas apturējušas kulšanu, taču ziemāju ražas potenciāls saglabājas labs</title>
-      <link>https://llkc.lv/aktualitates/julija-lietavas-apturejusas-kulsanu-tacu-ziemaju-razas-potencials-saglabajas-labs/</link>
-      <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) Lauksaimniecības daļas augkopības eksperti, apkopojot jūlija kultūraugu ražas prognozes, secin...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/julija-lietavas-apturejusas-kulsanu-tacu-ziemaju-razas-potencials-saglabajas-labs/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[eAgronom Latvija] Vai zināji, ka eAgronom Oglekļa programma sniedz vairāk nekā tikai papildu ienākumus no oglekļa kredītiem</title>
@@ -1313,6 +1305,14 @@
       <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-08-18/arei-petniece-zinatnes-festivala-mersraga-abols-iepazistina-ar-mikroorganismu</guid>
       <pubDate>Tue, 18 Aug 2026 09:44:46 +0000</pubDate>
       <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
+      <title>[LLKC] Sākas pieteikšanās Skābbarības kvalitātes konkursam 2026</title>
+      <link>https://llkc.lv/aktualitates/sakas-pieteiksanas-skabbaribas-kvalitates-konkursam-2026/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) aicina piena un gaļas lopkopības saimniecības piedalīties ikgadējā Skābbarības kvalitātes konk...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/sakas-pieteiksanas-skabbaribas-kvalitates-konkursam-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
   </channel>
 </rss>
