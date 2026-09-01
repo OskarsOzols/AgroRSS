@@ -1,5 +1,5 @@
 {
-  "last_scrape": "2026-08-29T08:48:21.724864+00:00",
+  "last_scrape": "2026-09-01T12:29:26.077089+00:00",
   "scraped_page_ids": [
     "agerona.latvija",
     "agriconlatvija",
@@ -15,8 +15,15 @@
   ],
   "articles": [
     {
+      "title": "[Agerona Latvija] Pirmās linu kravas jau klāt",
+      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid0aseQ8XtwoRkayKJ5Ks38CfoGL6o4Nr1EkNyhrffzwcEFApGdGLY2hWGZgNh8hRAul",
+      "pub_date": "2026-08-31T11:13:21+00:00",
+      "description": "Pirmās linu kravas jau klāt! 🌱 WT Terminal Rīgas ostā esam sākuši jaunās ražas linu pieņemšanu. Aktuālās cenas skatiet Agerona aplikācijā, bet par piegādi un tās nosacījumiem sazinieties ar mūsu iepirkumu speciālistiem: https://agerona.lv/contacts 📍 WT Terminal, SIA, Flotes iela 12A, Rīga #Agerona #Lini #Lauksaimniecība",
+      "source_page_url": "https://www.facebook.com/agerona.latvija/"
+    },
+    {
       "title": "[Agerona Latvija] Otrais jaunās ražas rapša kuģis ir ceļā",
-      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid0Mn62z3A1dbkMgATFUVTAYR5z1dMYwg9i8RpX7voBis6yRgu4X9dguT35eJzoFxhcl",
+      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid02RTNjsZp6fSbWzcPhW69Z9mS6Vwy1Yn8EqnJkZ7VA3Cu3Ra7juRdDgoy4FN6Er9mml",
       "pub_date": "2026-08-25T12:55:10+00:00",
       "description": "Otrais jaunās ražas rapša kuģis ir ceļā! 🚢 WT Terminal Rīgā pabeigta kuģa kraušana, un 5440 tonnas rapša dodas uz Lielbritāniju. 🇬🇧 Darbi turpinās – jau šīs nedēļas beigās Rīgā gaidām nākamo kuģi, lai turpinātu rapša eksportu. #Agerona #Rapsis #Lauksaimniecība",
       "source_page_url": "https://www.facebook.com/agerona.latvija/"
@@ -51,7 +58,7 @@
     },
     {
       "title": "[Agerona Latvija] Ražas laiks turpinās",
-      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid0TKGsp5qBy7vAHn1r3rBCKSCgzA2qtGHzJHRoJusvm7rqzZ4pbDdr4bVZUuyRpiHXl",
+      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid02WzZahcVH11oVuJgQAFpi23TwtHo4HhpSvXq52PJFei2gjsTo6i1tC8fPbdg6zN1rl",
       "pub_date": "2026-08-14T06:00:33+00:00",
       "description": "Ražas laiks turpinās! 🌾 Agerona iepirkumu speciāliste Santa Jaunzeme kopā ar Z/S “Terēņi” saimnieku Kasparu Dugi. Paldies ikvienam saimniekam par uzticību un sadarbību! 🤝 #Agerona #RažasLaiks #Lauksaimniecība",
       "source_page_url": "https://www.facebook.com/agerona.latvija/"
@@ -65,7 +72,7 @@
     },
     {
       "title": "[Agerona Latvija] 🌾 Darbi uz laukiem turpinās",
-      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid0PhGEgMUaiQKY5izoysexV8YV6DZYb4SUuatgpNEHyhjePv8m6KuYzDxfWdecagbsl",
+      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid02TNYwZt8fkCHV85wYpeQXJx7muvbPgBae4eFvL2PuZw3MiAs8yJatiAoFPzHikw1wl",
       "pub_date": "2026-08-07T11:37:49+00:00",
       "description": "🌾 Darbi uz laukiem turpinās. Priecē, ka laikapstākļi ļauj kult un darbi rit uz priekšu. Par graudu, rapša un citu kultūraugu pārdošanu un piegādēm sazinies ar mūsu iepirkumu komandu: 📞 Santa Jaunzeme — +371 26633470 📞 Edgars Lamberts — +371 22314393 📞 Jānis Dzelzkalējs — +371 26699134 📞 Guntars Deičmans — +371 22032244 #Agerona #RažasLaiks #Lauksaimniecība #Graudi #Rapsis",
       "source_page_url": "https://www.facebook.com/agerona.latvija/"
@@ -78,15 +85,22 @@
       "source_page_url": "https://www.facebook.com/agerona.latvija/"
     },
     {
-      "title": "[Agerona Latvija] 🌾 Pirmais šīs sezonas rapša kuģis",
-      "link": "https://www.facebook.com/agerona.latvija/posts/pfbid02yBEeojdji67US4BULRgijL7pMwATaThSGZ3vqsnPyY2PgTs2WVdEuoD5eRxnUCKyl",
-      "pub_date": "2026-07-31T07:14:53+00:00",
-      "description": "🌾 Pirmais šīs sezonas rapša kuģis! WT Terminal Rīgas ostā šobrīd tiek krautas ~4000 tonnu Latvijā izaudzēta rapša. Pavisam drīz kuģis dosies ceļā uz Dāniju. 🇱🇻➡️🇩🇰 Paldies mūsu lauksaimniekiem par uzticēšanos un sadarbības partneriem WT Terminal, SIA un Sekargas Latvija par profesionālu un raitu darbu! #Agerona #Rapsis #Eksports",
-      "source_page_url": "https://www.facebook.com/agerona.latvija/"
+      "title": "[Agrochema] Rudens ir laiks sagatavot zālienu ziemai",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0d6qiZ47EDvdQxESauQnLRrBmW9APTe5HmwdttHxvVgCbYv6WwrQu1hvhxQHfvaE6l",
+      "pub_date": "2026-09-01T06:25:01+00:00",
+      "description": "Rudens ir laiks sagatavot zālienu ziemai. 🍂🌱 Pēc aktīvās vasaras sezonas un mitrajiem laikapstākļiem zālienam nepieciešama pareiza kopšana un sabalansēts mēslojums, lai tas nostiprinātos pirms ziemas. Kad vēl mēslot zālienu? Kāpēc rudenī īpaši svarīgs ir kālijs un fosfors? Un cik īsu zālienu atstāt pirms ziemas? Apkopojām svarīgāko par zāliena kopšanu rudenī. 🔗Lasi rakstu: https://eagrochema.lv/darzniekiem/jaunumi/zaliena-kopsana-rudeni-ka-sagatavot-zalienu-ziemai 🔗Rudens mēslojums zālienam:",
+      "source_page_url": "https://www.facebook.com/agrochema.lv/"
+    },
+    {
+      "title": "[Agrochema] 📈 Graudu tirgus 35",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid035Grr4v2P8MiinttnZBgtKzoHNMHkMF5HQjBXgHgbCSKWNZuLwiycZudJiX3gehLKl",
+      "pub_date": "2026-08-31T11:42:05+00:00",
+      "description": "📈 Graudu tirgus 35. nedēļā Kviešu un rapšu cenas Eiropas biržā pagājušajā nedēļā pieauga. 🌾 Kviešu cena palielinājās par 4,58%, sasniedzot 251 EUR/t, savukārt rapšu cena pieauga par 2,63% līdz 546,25 EUR/t. Tirgus uzmanības centrā joprojām ir ierobežotās graudu eksporta iespējas Melnās jūras reģionā. Ieilgstot loģistikas traucējumiem, daļa pieprasījuma jau pārorientējas uz citiem piegādes avotiem, tostarp Eiropas Savienību. Tikmēr ES kviešu eksporta tempi pieaug, lai gan kopējais apjoms joproj",
+      "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] 🌾 SU MANGOLD - ziemas kviešu šķirne ar augstu ražas potenciālu un labiem kvalitātes rādītājiem",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02boGKst1iqdnKdxB4ojJu5gKQ7GX73t8zbGzje8FNEuaoodpj7tN6DT57Mcsg6didl",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0Y5U8fa7dArXYPjSDfHtTkTTdUjQzMggY1G4nKzReAyuT5GggTCymCykVj6DoV4oGl",
       "pub_date": "2026-08-28T12:57:09+00:00",
       "description": "🌾 SU MANGOLD - ziemas kviešu šķirne ar augstu ražas potenciālu un labiem kvalitātes rādītājiem. Galvenās šķirnes priekšrocības: ✓ augsta raža ✓ B grupas kvalitāte un labs proteīna saturs ✓ izcila sausumizturība ✓ efektīva slāpekļa izmantošana ✓ CTU tolerances gēns ✓ laba noturība pret vārpu fuzariozi 🔗 Uzzini vairāk par SU MANGOLD: https://www.agrochema.lv/preces-lauksaimniecibai/ziemas-kviesis-su-mangold/ 📞 Par sēklas pieejamību un pasūtīšanu sazinies ar Agrochema pārdošanas pārstāvi: https",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
@@ -100,63 +114,70 @@
     },
     {
       "title": "[Agrochema] 🌾 Spēcīgs sējuma sākums sākas ar pareizi izvēlētu sēklu kodni",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02gRvRaSfJdQqpEJy3VKfACuRzKdX3v1X6cdHNS5xe1npxSQBSMPS7wcL4pLeNKhKMl",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0ci8EN8mCxmtmEY8ZTSbYU5X8Q7DU9wktgvGi3MzdNrZoCFTrMvBqnthkGEimMw21l",
       "pub_date": "2026-08-26T08:02:54+00:00",
       "description": "🌾 Spēcīgs sējuma sākums sākas ar pareizi izvēlētu sēklu kodni. SEEDRON® ir fungicīda sēklu kodne graudaugiem, kas palīdz ierobežot nozīmīgākās slimības – sakņu un dīgstu puves, melnplaukas, sārto sniega pelējumu u.c. ✓ Pieskares un sistēmas iedarbība ✓ Plašs graudaugu kultūru spektrs ✓ Lietošanas norma – 1,0 l/t Uzzini vairāk par SEEDRON® un tā lietošanu: 🔗https://www.agrochema.lv/preces-lauksaimniecibai/seedron/ Lietojiet augu aizsardzības līdzekli atbilstoši drošības prasībām. Pirms lietoš",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] Dārgs mēslojums un laba šķirne vēl negarantē augstu ražu",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02MH9R57FaBeryRDAsCtjvSasBJxag5B6xCsML3CCjjcF87AHxhyrei15gZyC31Pywl",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0HZMDroMUWhDAzFXy3UuTrGrd1tnh53peEseVzH24sS35iSUvp9kZcEi1dD8rhHDwl",
       "pub_date": "2026-08-25T08:49:08+00:00",
       "description": "Dārgs mēslojums un laba šķirne vēl negarantē augstu ražu. 🌾 Ražas potenciālu var ierobežot viens vājš posms visā audzēšanas ķēdē. Sējumu maiņa, augsnes sagatavošana, kvalitatīva sēkla, sabalansēta mēslošana, savlaicīga augu aizsardzība un ražas novākšana – katrs posms ietekmē nākamo un gala rezultātu. Tāpēc svarīgs ir ne tikai tas, ko darām, bet arī kad un cik precīzi to darām. Jaunajā ZEMES GURU rakstā apskatām svarīgākos audzēšanas posmus un to, kā pārdomāti lēmumi visas sezonas garumā palīd",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] 🌿 Kā palīdzēt dārzam atkopties pēc vētras",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0UkPC8KBgTN7KhFbwPLEgHkRh2jE5wzwA64CEp8UK9VuXJUzmCwZdq56moLUZKcf1l",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02YRfu1qqmVF6TMjLd1xaUPP4563LFYNouRbFRCH1pBZ2FvVnJ9jni5hRzbJXsyhV1l",
       "pub_date": "2026-08-24T13:47:54+00:00",
       "description": "🌿 Kā palīdzēt dārzam atkopties pēc vētras? Aizvadītās nedēļas nogales spēcīgais vējš daudzviet Latvijā atstājis pēdas arī dārzos – nolauzti zari, sagāzti krūmi, izlauztas puķes un pat izkustinātas augu saknes. Pēc vētras svarīgākais ir nesteigties visu uzreiz apgriezt vai likvidēt. Daudzus augus vēl iespējams glābt! Jaunajā rakstā uzzini: ✔ ko vispirms pārbaudīt dārzā; ✔ kā pareizi sakopt nolauztos zarus; ✔ ko darīt ar izgāztiem un izlauztiem augiem; ✔ kā palīdzēt ziemcietēm un krūmiem atgūti",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] 📈 Graudu tirgus 34",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid089dAotkAFcE6WLM6MH1ARU1Fmw3KtrRxHdAfkmw24DwNDhcS4P5SUtGLrswaQoBel",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02BpushRQFHaLQJow7tJKBesoGon4622xtnVo5YDtv6jgBTkds8VHmxX5ivUQfDJDsl",
       "pub_date": "2026-08-24T13:25:35+00:00",
       "description": "📈 Graudu tirgus 34. nedēļā Kviešu cena Eiropas biržā pagājušajā nedēļā pieauga par 1,38%, sasniedzot 238,25 EUR/t, savukārt rapšu cena samazinājās par 1,06% līdz 538,25 EUR/t. 🌾 ES kviešu eksporta apjomi turpina pieaugt, tomēr joprojām būtiski atpaliek no iepriekšējās sezonas līmeņa. Tirgus uzmanības centrā saglabājas eksporta un loģistikas traucējumi Melnās jūras reģionā, laikapstākļi pirms ziemas kviešu sējas Eiropā un ASV, kā arī El Niño iespējamā ietekme uz Austrālijas jauno ražu. 📖 Plašā",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] 🌱 TARGA® SUPER – efektīvs risinājums viendīgļlapju nezāļu ierobežošanai",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid037iPsssEzn6HQGLZVgGvj4hcQH1BgQQmJWPj5qi3Pocw3aS2uNkgyymk24armRiUdl",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid023zbgfZLu7EcrcGXHAr2vwZmN94AzH2w5aeKYUZaizyVPajEdA5wF1dAsyHB5toc4l",
       "pub_date": "2026-08-24T06:31:23+00:00",
       "description": "🌱 TARGA® SUPER – efektīvs risinājums viendīgļlapju nezāļu ierobežošanai. Labības sārņaugi vai ložņu vārpata konkurē ar kultūraugiem? TARGA® SUPER ir sistēmas iedarbības herbicīds, kas paredzēts labības sārņaugu, īsmūža viendīgļlapju nezāļu un ložņu vārpatas ierobežošanai. ✓ Sistēmiska iedarbība ✓ Efektīvs pret labības sārņaugiem ✓ Ierobežo ložņu vārpatu ✓ Piemērots lietošanai ziemas un vasaras rapsī, pupās, zirņos, kartupeļos, burkānos un bietēs TARGA® SUPER – pārbaudīts risinājums tīrākiem s",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
       "title": "[Agrochema] Nezāļu kontrole rapsī – kurš risinājums piemērots Tavam laukam",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02XnyWeoh6CYqgJTw2RiyoQ9Wo6pmCHMXG8nSAs7iZLpG2UxbhnJahRR9Wy7hjLtqXl",
+      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0U5BKSVnzXdQLMuTy2ZjnhKrHeQW5P6ZvnYMoerEKD6r6GYjke1Dmmt1u9pgFEmzfl",
       "pub_date": "2026-08-19T12:51:29+00:00",
       "description": "Nezāļu kontrole rapsī – kurš risinājums piemērots Tavam laukam? Dažādi lauka apstākļi un nezāļu spektrs prasa atbilstošu risinājumu. Iepazīsti 4 BASF herbicīdus nezāļu kontrolei: ✔ Butisan® Avant – plašākam nezāļu kontroles spektram ✔ Butisan® Star – pārbaudīts un elastīgs risinājums nezāļu kontrolei ✔ Cleravo® Flex – Clearfield® rapsim ✔ Conaxis® – augsnes iedarbības herbicīds nezāļu kontrolei jau no starta Apskati visus 4 risinājumus un izvēlies savam laukam piemērotāko. Plašāka informā",
       "source_page_url": "https://www.facebook.com/agrochema.lv/"
     },
     {
-      "title": "[Agrochema] 🌾 Trīskārša sēklu aizsardzība ar BARITON® SUPER",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid0pFN2T9Diepud1Xr8GR68irxbDUAccw95SXfEFy3k5UjmLNZ1qTf9M1LCVCKuDwEel",
-      "pub_date": "2026-08-18T13:23:47+00:00",
-      "description": "🌾 Trīskārša sēklu aizsardzība ar BARITON® SUPER! Bayer fungicīda kodne apvieno trīs darbīgās vielas un nodrošina sistēmas un pieskares iedarbību. Tā palīdz aizsargāt ziemas un vasaras graudaugu sēklas pret: • sakņu puvēm; • sniega pelējumu; • cieto un putošo melnplauku; • brūnplankumainību. Drošs sējas sākums palīdz veidot veselīgākus un spēcīgākus sējumus. Vairāk par BARITON® SUPER: https://www.agrochema.lv/preces-lauksaimniecibai/bariton-super/ Par iegādi un piemērotāko risinājumu sazinie",
-      "source_page_url": "https://www.facebook.com/agrochema.lv/"
+      "title": "[AgTech LV] 🚁 **GRIBI IZMANTOT DRONU PROFESIONĀLI",
+      "link": "https://www.facebook.com/reel/1770349424314398/",
+      "pub_date": "2026-09-01T10:00:32+00:00",
+      "description": "🚁 **GRIBI IZMANTOT DRONU PROFESIONĀLI? SĀC AR ZINĀŠANĀM.** Dronu tehnoloģijas strauji ienāk lauksaimniecībā un profesionālajā darbībā. Taču profesionāls lidojums sākas nevis ar drona iegādi, bet ar **atbilstošu sagatavotību.** 🎓 **AGTECH DRONU SKOLA** – CAA atzīta struktūra. Pieejamas apmācības un eksāmeni: 🔹 A2 teorijas eksāmens 🔹 STS teorētiskā apmācība un eksāmens 🔹 STS praktiskā apmācība un eksāmens 🔹 Specifiskās kategorijas ekspluatācijas atļaujas risinājumi 🌾 Ja drons tev nav tikai ho",
+      "source_page_url": "https://www.facebook.com/AgTechLV/"
     },
     {
-      "title": "[Agrochema] Sūna zālienā nav tikai vizuāla problēma",
-      "link": "https://www.facebook.com/agrochema.lv/posts/pfbid02xef5czJqmSTBvfLrpCbtUFhLhak6LcUgrponZsgFwkHxgRdGdkDU7uZNr5jUQ2iTl",
-      "pub_date": "2026-08-17T15:38:04+00:00",
-      "description": "Sūna zālienā nav tikai vizuāla problēma. Tā bieži liecina, ka zālei augšanas apstākļi nav pietiekami labvēlīgi. Pārmērīgs mitrums, ēna, sablīvēta augsne, slikta drenāža vai pārāk zema pļaušana var veicināt sūnas izplatīšanos. Tāpēc ilgtermiņa risinājums nav tikai sūnas likvidēšana. Jaunajā rakstā uzzini: ✔ kāpēc zālienā parādās sūna; ✔ kad veikt skarifikāciju un aerāciju; ✔ kā atjaunot izretinātās vietas; ✔ kādu mēslojumu izvēlēties vasaras beigās un rudenī; ✔ kā sagatavot zālienu ziemai. Sva",
-      "source_page_url": "https://www.facebook.com/agrochema.lv/"
+      "title": "[AgTech LV] 🚜 Traktors sagatavots CHCNAV stūrēšanas sistēmas uzstādīšanai",
+      "link": "https://www.facebook.com/reel/3598183657025919/",
+      "pub_date": "2026-08-31T13:38:56+00:00",
+      "description": "🚜 Traktors sagatavots CHCNAV stūrēšanas sistēmas uzstādīšanai Klients ir nogādājis savu traktoru pie mums, lai tam uzstādītu CHCNAV precīzās stūrēšanas sistēmu. Šobrīd notiek sagatavošanās darbi — traktora oriģinālā stūre ir demontēta, un tiek gatavots viss nepieciešamais turpmākajai sistēmas uzstādīšanai. 📹 Neliels ieskats šī traktora sagatavošanas procesā.",
+      "source_page_url": "https://www.facebook.com/AgTechLV/"
+    },
+    {
+      "title": "[AgTech LV] 🌾 AGRIPAK RSA — DEMO IEKĀRTA PIE KLIENTA",
+      "link": "https://www.facebook.com/reel/1505298368033974/",
+      "pub_date": "2026-08-31T09:27:41+00:00",
+      "description": "🌾 AGRIPAK RSA — DEMO IEKĀRTA PIE KLIENTA AGRIPAK RSA apvieno graudu smalcinātāju un pakotāju, kas paredzēts mitro graudu pārstrādei un iegūtās masas iepakošanai plastmasas uzmavā. ⚙️ Graudu smalcināšana 📦 Iepakošana plastmasas uzmavā 🌾 Piemērota mitro graudu apstrādei 🚜 Demo iespēja pie klienta 👉 Vairāk par AGRIPAK RSA: https://www.agtech.lv/veikals/Graudu-pakotajs-ar-smalcinataju-AGRIPAK-RSA-p804477127 📩 Par demo iespējām un tehnikas iegādi sazinies ar AGTECH. #lauksaimniecība #Lauksaimni",
+      "source_page_url": "https://www.facebook.com/AgTechLV/"
     },
     {
       "title": "[AgTech LV] 🚜 JAUNUMS AGTECH NOLIKTAVĀ — CHCNAV automātiskās stūrēšanas sistēma",
-      "link": "https://www.facebook.com/AgTechLV/posts/pfbid0h4WSHZPy4rWC9gUn7kVBtkimZ2papa2yjbtsnLF6DwZDTTEqbKfYqDvTdd2Nq28Ll",
+      "link": "https://www.facebook.com/AgTechLV/posts/pfbid02kjo9B6446gY6CtPkYWieg1gcJctEJXgiSNaQNvPbQeVJMP5K8XvBzR5FwPtQtMbrl",
       "pub_date": "2026-08-28T09:02:03+00:00",
       "description": "🚜 JAUNUMS AGTECH NOLIKTAVĀ — CHCNAV automātiskās stūrēšanas sistēma! Precīzāka un vienmērīgāka traktora vadība palīdz samazināt pārklājumus, ietaupīt laiku un atvieglo darbu garās darba dienās. ✅ Profesionāla uzstādīšana ✅ Serviss un tehniskais atbalsts Latvijā ✅ Risinājumi dažādai lauksaimniecības tehnikai Apskati stūrēšanas sistēmas: 👉 https://www.agtech.lv/veikals/Sturesanas-sistemas-c193848251 📞 Sazinies ar AGTECH un piemeklēsim piemērotāko risinājumu tavai tehnikai! #CHCNAV #automātis",
       "source_page_url": "https://www.facebook.com/AgTechLV/"
@@ -177,14 +198,14 @@
     },
     {
       "title": "[AgTech LV] ⚡ Kad pazūd elektrība, GRAECUS turpina darbu",
-      "link": "https://www.facebook.com/AgTechLV/posts/pfbid0ZoipLgQL4NUZa3PRpiRaZsjPbe9R6jWumobspfoMaCTevL5y1YaWhpk8zhvfR27zl",
+      "link": "https://www.facebook.com/AgTechLV/posts/pfbid02dV1XED4R67SJCNZCzQ5NJVJQ2srCPzKMUfdpnEJSbQiKAUHQtAx7e993rYsgHMqjl",
       "pub_date": "2026-08-25T09:07:48+00:00",
       "description": "⚡ Kad pazūd elektrība, GRAECUS turpina darbu. Nesenās vētras sekas parādīja, cik svarīgs mājai, darbam un saimniecībai var būt uzticams rezerves elektrības avots. Iepazīsti divus GRAECUS risinājumus: 🔹 ERGON GG35i 3,2 kW invertora ģenerators ar līdz 6,7 h darbības laiku. Piemērots arī jutīgai elektronikai. 🔹 ERGON GG40 2,8 kW benzīna ģenerators ar AVR sprieguma stabilizāciju un 15 l degvielas tvertni. AGTECH piedāvājumā pieejami arī citi ģeneratoru modeļi dažādām vajadzībām. 👉 Apskati visu",
       "source_page_url": "https://www.facebook.com/AgTechLV/"
     },
     {
       "title": "[AgTech LV] 🚜 Vēl viena RAVEN sistēma gatava darbam",
-      "link": "https://www.facebook.com/AgTechLV/posts/pfbid02G4dihidrbe8jA6NDPG5dtRuQG3qtS4q1cAaXbkzRdKGwruSuULw4vi2WuJaaPrupl",
+      "link": "https://www.facebook.com/AgTechLV/posts/pfbid0CLqXVQjkvzYjWMfuQLs1UQorqfckxuqHZicu4JHEHWkTe9YudRpsiqCXoEKJy1atl",
       "pub_date": "2026-08-25T08:32:40+00:00",
       "description": "🚜 Vēl viena RAVEN sistēma gatava darbam! Kalvenes pagastā uzstādīta un darbam sagatavota RAVEN CR12+ RS1 automātiskās stūrēšanas sistēma. ✅ 12″ skārienekrāns ✅ ISOBUS atbalsts ✅ RTK precizitāte ✅ Precīzāks darbs un mazāk pārklājumu Paldies klientam par uzticēšanos! 🤝 Meklē piemērotāko stūrēšanas sistēmu savai tehnikai? Mūsu piedāvājumā pieejami dažādi risinājumi atšķirīgām vajadzībām un budžetam. 🔗 Apskati izvēles iespējas: https://www.agtech.lv/veikals/Sturesanas-sistemas-c193848251 Paldies k",
       "source_page_url": "https://www.facebook.com/AgTechLV/"
@@ -198,28 +219,21 @@
     },
     {
       "title": "[AgTech LV] CHCNAV AUTO U-TURN X🚜 CHC Navigation",
-      "link": "https://www.facebook.com/AgTechLV/posts/pfbid06Vr669qp5EL9N291nQ1WyDXRGLgrLkicuBw4XGT6RTHipd3onfCzvxE3HfxGLDvXl",
+      "link": "https://www.facebook.com/AgTechLV/posts/pfbid06dVc4WsYFw5JVjicgENLXEVF7zo3WzdRFihVjZpT6R7mrHiqajv19FJhCGFhvMb8l",
       "pub_date": "2026-08-24T06:43:41+00:00",
       "description": "CHCNAV AUTO U-TURN X🚜 CHC Navigation Automātiska stūrēšana, gudra apgriešanās lauka galā un ISOBUS atbalsts — mazāk lieku manevru un pārklājumu, efektīvāks darbs laukā. **Precīza vadība. Plašākas iespējas.** 📍 AGTECH — oficiālais CHCNAV izplatītājs Latvijā. 🛒 https://www.agtech.lv/veikals/CHCNAV-NX612-Sturesanas-sistema-p856903814 #CHCNAV #precīzālauksaimniecība 🛒",
       "source_page_url": "https://www.facebook.com/AgTechLV/"
     },
     {
-      "title": "[AgTech LV] 🌱 Palielini ražu",
-      "link": "https://www.facebook.com/reel/1756187295644856/",
-      "pub_date": "2026-08-17T09:01:17+00:00",
-      "description": "🌱 Palielini ražu. Samazini izmaksas. Veido mainīgo normu kartes, kas balstītas uz tava lauka augsnes datiem. Pareizais mēslojuma daudzums nonāk pareizajā vietā — bez liekiem tēriņiem un pārsātināšanas. Uzzini vairāk: https://www.augsne.lv #augsnesanalīze #Lauksaimniecība",
-      "source_page_url": "https://www.facebook.com/AgTechLV/"
-    },
-    {
       "title": "[BASF Agricultural Solutions] 🌱 Ziemāju kodināšana ir pirmā investīcija nākamās ražas panākumos",
-      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid02n3FwWxNpQM17a3L6y6TdwHWSaqdXSmWeqmEpwLoEggJCtzSMct6VyR3CrFkyzEnfl",
+      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0iKTkJeUijfc7VMVkXwBJ6Rz1hRZAKHbBu5yedFDUbqvmt2vaw8thiwyCEGBnViXfl",
       "pub_date": "2026-08-21T11:26:01+00:00",
       "description": "🌱 Ziemāju kodināšana ir pirmā investīcija nākamās ražas panākumos. Mēs nevaram paredzēt rudens laikapstākļus vai nākamās sezonas izaicinājumus, taču varam kontrolēt to, kādu startu dodam saviem sējumiem. 🚜 Kvalitatīva kodināšana palīdz nodrošināt vienmērīgu sadīgšanu, spēcīgākas saknes un efektīvu aizsardzību pret slimībām jau no pirmajām attīstības dienām. Tāpēc jautājums vairs nav, vai kodināt, bet gan, ar ko kodināt. ✅ Kinto® Plus ir pārbaudīts un uzticams risinājums drošam sezonas startam.",
       "source_page_url": "https://www.facebook.com/BASFAgriculturalSolutionsLV/"
     },
     {
       "title": "[BASF Agricultural Solutions] 🌱 Ziemas rapša sēja vēl nav nokavēta - agronoma padoms šim brīdim",
-      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid02QJKRexCySvPkmtGPn8fw6xFxthiwm6oT449rGGkeYJCo78MwHFJjtNTzcix3PhHnl",
+      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0LaXESeJsn9iLVHCdws2SyLKsEg48GcgcqeozPfym75EreVo88vwcXEBu3LVe1rLnl",
       "pub_date": "2026-08-19T09:56:00+00:00",
       "description": "🌱 Ziemas rapša sēja vēl nav nokavēta - agronoma padoms šim brīdim! 🚜 Kaut arī augusts jau ir pusē, ziemas rapša sēju vēl var veikt optimālā laikā. 👉Arī 20.-25. augusts lielā daļā Latvijas būs piemērots sējas periods, ja izvēlēsieties InVigor® rapša hibrīdus ar strauju attīstību rudenī: ✅ InV1170 ✅ InV1310 ✅ InVigor 2050 Vai arī Clearfield® hibrīdus: ✅ InV1266 CL ✅ InVigor 2066 CL ✅ InVigor 2077 CL 👉Šī gada mitrie laikapstākļi rada labus priekšnosacījumus augsnes herbicīdu efektivitātei. Lai no",
       "source_page_url": "https://www.facebook.com/BASFAgriculturalSolutionsLV/"
@@ -240,7 +254,7 @@
     },
     {
       "title": "[BASF Agricultural Solutions] 🌱 Vai jau esi novērtējis kailgliemežu risku savā laukā",
-      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid033Sbarn7GU3zRv15Snhy3XFiEqKJwEA7Pkfn82Ehea8XdJi9XTVv2GkcLSnGk4DhJl",
+      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0yioPeUDAoCdXG176hMVQjXPNCd4VuPTmsUqCuxxnpmi4NToacDJF7btmYV4L95fLl",
       "pub_date": "2026-08-11T17:15:01+00:00",
       "description": "🌱 Vai jau esi novērtējis kailgliemežu risku savā laukā? 🐌 Kailgliemeži var radīt būtiskus bojājumus jaunajiem sējumiem vēl pirms pirmās problēmas kļūst pamanāmas. Tāpēc regulārs monitorings ir viens no svarīgākajiem soļiem, lai savlaicīgi novērtētu risku un pasargātu sējumu. 🌾 🚜 Īpaši uzmanīgiem jābūt laukos, kur tiek izmantota minimālā augsnes apstrāde vai tiešā sēja, jo šādos apstākļos kailgliemežiem ir labvēlīga vide attīstībai. 📖 Lasiet rakstu BASF mājaslapā un uzziniet: ✅ Kā novērtēt kail",
       "source_page_url": "https://www.facebook.com/BASFAgriculturalSolutionsLV/"
@@ -254,7 +268,7 @@
     },
     {
       "title": "[BASF Agricultural Solutions] 🌱 Kura ir Tava InVigor® rapša šķirne šajā sezonā",
-      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0vAPhqiqpfMkt9gBhozbxec7Nikj6u1bagNoGAiNXqikddjnELqGsBFxkEhU29AASl",
+      "link": "https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid02yqgQjFVuhBGQjozNbJtzzPwNnBifCNX8wigreUM7zuLMH8g78boadUi9xSn587npl",
       "pub_date": "2026-08-05T05:46:01+00:00",
       "description": "🌱 Kura ir Tava InVigor® rapša šķirne šajā sezonā? Aizvadītajā nedēļā kopā ar rapša ekspertu Renē Brandu un BASF agronomiem apskatījām InVigor® hibrīdu risinājumus dažādām lauka situācijām. Vai esi gatavs ziemas rapša sējai? ✅Atrodi piemērotāko šķirni savai saimniecībai: https://ej.uz/MansRapsis ✅Iegādājies pie sava tirgotāja LPKS LATRAPS Baltic Agro Linas Agro Latvija Agrochema Latvia Scandagra Latvia VAKS kooperatīvs ✅ Izmanto BASF akciju \"Plus viens Tavā labā\" 🎁 Pērkot InVigor® ziemas rapš",
       "source_page_url": "https://www.facebook.com/BASFAgriculturalSolutionsLV/"
@@ -281,6 +295,20 @@
       "source_page_url": "https://www.facebook.com/BASFAgriculturalSolutionsLV/"
     },
     {
+      "title": "[Bayer CropScience Latvija] Laiks sēt gudrību jaunajā mācību gadā — lai zināšanas iedvesmo",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02baVKq7GVaXbvhCgbP9FVZ2RuUXgU9yqLYoQ1w9Ee9DovAGbdCoTmBSE7n4enYTjpl",
+      "pub_date": "2026-09-01T05:10:03+00:00",
+      "description": "Laiks sēt gudrību jaunajā mācību gadā — lai zināšanas iedvesmo!💚 Vēlam skolēniem sēt zināšanas ar prieku un mīlestību, pacietība un darbs tās pārvērtīs par spožām iespējām visai dzīvei.🙃 Lai 1. septembris visiem sirsnīgs, ģimenisks un prieka pilns! 😉🫶",
+      "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
+    },
+    {
+      "title": "[Bayer CropScience Latvija] Pēc kviešu nokulšanas, pamanām, ka lauki ir visnotaļ pilni kā ar divdīgļlapju, tā ar viendīgļlapju nezālēm",
+      "link": "https://www.facebook.com/reel/1085518063865685/",
+      "pub_date": "2026-08-31T08:51:11+00:00",
+      "description": "Pēc kviešu nokulšanas, pamanām, ka lauki ir visnotaļ pilni kā ar divdīgļlapju, tā ar viendīgļlapju nezālēm. To veicinājis šīs sezonas ilgstošais sausums, pēc kura sekoja bagātīgi nokrišņi, kas veicināja nezāļu atkārtotu sadīgšanu. 👉Lai ierobežotu šo nezāļu zelmeni, iesakām izmantot ROUNDUP® grupas produktus uzreiz pēc kultūrauga novākšanas, pirms sējas. 👉Zelta vērtē ir rudens herbicīdu izmantošana, kas jau tagad ļauj ierobežot tiešām grūti ierobežojamas nezāles, jo rudens herbicīdi pārstāv c",
+      "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
+    },
+    {
       "title": "[Bayer CropScience Latvija] Kad klients jau atradis citu selekcionāru… 😅🌾",
       "link": "https://www.facebook.com/reel/1962059537805222/",
       "pub_date": "2026-08-28T09:04:59+00:00",
@@ -296,7 +324,7 @@
     },
     {
       "title": "[Bayer CropScience Latvija] Vai zināji, ka savu nākošās ražas potenciālu nosaki jau tad, kad neesi vēl to pat iesējis",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02AB8ifyabawQKZY1jYKDQ3YczZsUvK8W1nknhu8UyG1vF82PtZ22R6eS1jhpmxeaTl",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid06TLXTfgVvEXBg2PX9m43eLqsEZUYwHt1f8h99dZpUMdfUh2Y8iriHNTy8JaEfPUel",
       "pub_date": "2026-08-21T07:48:25+00:00",
       "description": "Vai zināji, ka savu nākošās ražas potenciālu nosaki jau tad, kad neesi vēl to pat iesējis? Veselīgs augu starts ir viens no pamatnoteikumiem augstākā potenciāla sasniegšanai un tas sākas ar kvalitatīva sēklas materiāla un uzticamas kodnes izvēli. Augsnē un sēklas materiālā, pat ja tas vizuāli ir skaists un veselīgs, ir sastopami daudz un dažādi augu slimību ierosinātāji, kas, augam attīstoties, var būtiski ietekmēt to veselību un attīstību. Kodnes BARITON® SUPER sastāvā ir trīs spēcīgas darbī",
       "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
@@ -310,133 +338,133 @@
     },
     {
       "title": "[Bayer CropScience Latvija] Roundup® – pieredze, kurai var uzticēties",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02VoRwePBXz1Yozgmued4gKyCbLrGye3p3N5mnKCNgZX7wE14zjefFVUe92PYDkF7Wl",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid0S5dkS5HSK98bWj7nBriLXXbvQjaJZcUp8U1Vj24CUtB17rdu7tyth7r6t5JWkDxCl",
       "pub_date": "2026-08-17T07:00:31+00:00",
       "description": "Roundup® – pieredze, kurai var uzticēties. 50 gadi tirgū nav tikai skaitlis — tas ir stāsts par uzticēšanos, attīstību un nemainīgu vēlmi palīdzēt paveikt vairāk. 🌾 Lieto ROUNDUP® DYNAMIC — ātra un efektīva nezāļu kontrole. Palīdzēs ierobežot gan viendīgļlapju, gan divdīgļlapju nezāles. Produkta preparatīvā forma: šķīduma koncentrācija. Jautā vairāk mūsu agronomiem! 📞 ⚠️ Lietojiet augu aizsardzības līdzekļus atbilstoši drošības prasībām. Pirms lietošanas vienmēr izlasiet marķējumu un informāci",
       "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
     },
     {
       "title": "[Bayer CropScience Latvija] 🚜 Neatstāj nezālēm izredzes",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid0491NsSoJfeQSX88oGNBEnSryXkGs85A42h4PSagYBjwVZ2YFL97X2CcHvdCi9qvLl",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid027pJ5kyTPhPQ2Yd3xWczeQfm2dgRtP24fCiDym4bZ61Vc4LCbrSh9Jqs8vq1u8z6nl",
       "pub_date": "2026-08-15T07:00:16+00:00",
       "description": "🚜 Neatstāj nezālēm izredzes! Parūpējies par tīru lauku bez liekiem konkurentiem kultūraugiem. 🌾 Mateno® Duo un Cofeno koppaka ir risinājums, kas palīdzēs kontrolēt nezāles pašā to dīgšanas brīdī, pateicoties herbicīda divkāršai iedarbībai - caur augsni un caur lapām. Trīs darbīgo vielu kombinācija nodrošina pārliecinošu rezultātu pret īsmūža divdīgļlapju un atsevišķu īsmūža viendīgļlapju nezālēm (rudzusmilga, maura skarene, peļastīšu lapsaste) ziemas kviešu, rudzu un ziemas tritikāles sējumos.",
       "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
     },
     {
       "title": "[Bayer CropScience Latvija] 🌱 Roundup® – 50 gadi uzticamas pieredzes",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02cg3hStKph7TYVbGtPPoxCcgDLUQcNrwHRL6D2zLYfRL7rYUyFqaTkAz8zT44WgdLl",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02cohDRFMYsoEDo6CAV8E6tMvi9tkmCZ3AFhWxHdLvB3FDjXgPaEf3RXAJKimZhVFSl",
       "pub_date": "2026-08-14T08:03:54+00:00",
       "description": "🌱 Roundup® – 50 gadi uzticamas pieredzes! 🌱 Jau 50 gadus Roundup® ir atpazīstams vārds nezāļu ierobežošanā visā pasaulē. Pusgadsimts pieredzes, zināšanu un inovāciju, lai palīdzētu lauksaimniekiem, dārzkopjiem un teritoriju apsaimniekotājiem uzturēt laukus un platības tīras no nevēlamas veģetācijas. 👉Lieto ROUNDUP® POWERMAX —oriģinālas formulācijas produktu uzticamai un efektīvai nezāļu kontrolei jūsu laukos. Pārliecinošs risinājums viendīgļlapju un divdīgļlapju nezāļu ierobežošanai. Produkta p",
       "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
     },
     {
       "title": "[Bayer CropScience Latvija] Iesāc rudeni spēcīgi",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid0oRCedmP7F3UvTwAW7eBzwyQB3KdEQrvgMLVYf5uJrRjMw2Nzm5VcRHCT3tQPvHzGl",
+      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02s6VMXJ3CGhVzc1bMnXP7m5XuVsZwXAAyuLujP11VfpaUD8hPZQaS1pdsEZ5XVmQAl",
       "pub_date": "2026-08-12T08:00:33+00:00",
       "description": "Iesāc rudeni spēcīgi! 💪 👉Uzdevums rudenī ziemas rapsim ir skaidrs: izveidot veselus un spēcīgus augus un sagatavoties ziemošanai. Šajā periodā ir svarīga ne tikai auga attīstība, bet arī preventīva slimību ierobežošana. Tilmor® ir produkts divi vienā - fungicīds un augšanas regulators. Tas satur divas darbīgās vielas – protiokonazolu 80 g/l un tebukonazolu 160 g/l. Tam piemīt sistēmiska, aizsargājoša un ārstējoša iedarbība, tādēļ tas ir risinājums ziemas rapša aizsardzībai pret nozīmīgām slimī",
       "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
     },
     {
-      "title": "[Bayer CropScience Latvija] 📍Bauskas novada saimniecības atsauksme par DEKALB® šķirni:",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid032RJ7zjHeMsFWGrFdmHp3NtiyYkdiY8wLYTnQq7SNio1Pwv3ajUiuMRNvaNXcjtMwl",
-      "pub_date": "2026-08-08T09:07:55+00:00",
-      "description": "📍Bauskas novada saimniecības atsauksme par DEKALB® šķirni: Šosezon šķirne DK Expose deva vislabāko ražu saimniecībā – vidēji 4,25 t/ha. Atsevišķos laukos šķirne uzrādīja ļoti labus rezultātus, pat augstāku ražu par 4,25 t/ha. Patīkami pārsteidza vienmērīgā un savlaicīgā nogatavošanās, kā arī augstais eļļas saturs – 46% un vairāk. 👉Ar sasniegto rezultātu saimniecība ir ļoti apmierināta, un mums zināms, ka DK Expose jau tiek sēta arī nākamajai sezonai šajā saimniecībā. Šajā rudenī šķirne DK Expos",
-      "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
-    },
-    {
-      "title": "[Bayer CropScience Latvija] 🌾 Beidzot ir tas brīdis, uz kuru strādāts visu gadu – rapša kulšana",
-      "link": "https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid0FSbUQpqHq3FUvwgqXwPoPnWJyEQ4ce2HtGH5NdRzarCE9XN1MmfhrpJsTty7tE4Tl",
-      "pub_date": "2026-08-07T13:52:23+00:00",
-      "description": "🌾 Beidzot ir tas brīdis, uz kuru strādāts visu gadu – rapša kulšana! Latvijā pirmie DEKALB® rapša lauki jau ir nokulti. Vienā pusē kombaini rūc pilnā sparā, citviet vēl tikai gaida īsto kulšanas brīdi. 👉Pirmais jaudīgais rezultāts jau ir klāt – Dobeles novadā DK EXCITED sasniedzis 4,7 t/ha! 👏 Tas ir lielisks apliecinājums tam, ko dod pareiza šķirnes izvēle, saimnieka darbs un arī nedaudz veiksmes ar laikapstākļiem. 📩 Ja Tavā saimniecībā DEKALB® rapsis jau nokults, atsūti mums šķirnes nosaukumu",
-      "source_page_url": "https://www.facebook.com/BayerCropScienceLatvija/"
+      "title": "[eAgronom Latvija] 🌱 Kas īsti ir reģeneratīvā lauksaimniecība",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0UixvTPHuuZJcXdmsNXBndQD2wYbAgL49eNR3BPufGyinVgdo84QRJFMXchT14SCbl",
+      "pub_date": "2026-08-31T10:34:19+00:00",
+      "description": "🌱 Kas īsti ir reģeneratīvā lauksaimniecība? Reģeneratīvā lauksaimniecība ir pieeja saimniekošanai, kuras pamatā ir rūpes par augsnes veselību un tās ilgtermiņa auglību, vienlaikus saglabājot saimniecības produktivitāti. Tā ietver dažādas prakses, piemēram, starpkultūru audzēšanu, samazinātu augsnes apstrādi un daudzveidīgāku kultūraugu maiņu. Šīs prakses palīdz uzlabot augsnes struktūru, veicināt organisko vielu uzkrāšanos un uzlabot augsnes spēju saglabāt mitrumu. 🌾 Veselīgāka augsne nozīmē arī",
+      "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] 📊 Cik daudz laika Tu pavadi rūpējoties par savas saimniecības uzskaiti",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0RvEtLUBKH47pVMRYq9rgdewmeAPqfp5gNQGgaBEfud7p9oSFATtYyrSJTiXovTRNl",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02VbXbDzqQJswNHP7AS47EiJQafBmbhk8wh1hdG1yyp1R2LK7cisZAFccQAMkLsjRgl",
       "pub_date": "2026-08-27T05:48:25+00:00",
       "description": "📊 Cik daudz laika Tu pavadi rūpējoties par savas saimniecības uzskaiti? Papīri, tabulas, pieraksti un informācija dažādās vietās var aizņemt vairāk laika, nekā šķiet. Ar eAgronom Tu vari pārvaldīt visus savus saimniecības datus vienuviet – no lauku un darbu uzskaites līdz izmaksām un plānošanai. Mazāk meklēšanas un manuāla darba. Vairāk pārskatāmības un laika saimniekošanai. 🌱 Pievienojies eAgronom un atvieglo savas saimniecības pārvaldību: https://www.eagronom.com/lv/parvaldibas-programma",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] 💰 Vai ilgtspējīga saimniekošana var nest papildu ienākumus",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02pjsATafdgdETyX4NniWSZr3aZ6iffKCia4swTqV5xHPmfTR51he1VbA9iDnQxghul",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02psWgRwhMsPXuuik7Fbauz6iR4oyzU2GBxZu1nAo6zaBcz5WEL9QE7WEZVy2aYV7Zl",
       "pub_date": "2026-08-25T05:56:49+00:00",
       "description": "💰 Vai ilgtspējīga saimniekošana var nest papildu ienākumus? Jā! Ja savā saimniecībā jau izmanto tādas prakses kā augseku un viengadīgo starpkultūru sējumus vai samazināta augsnes apstrāde, iespējams, Tava saimniecība jau rada potenciālu oglekļa kredītiem. eAgronom Oglekļa programma palīdz šo potenciālu izvērtēt, dokumentēt ieviestās prakses un radīt oglekļa kredītus, par kuriem vari saņemt samaksu. Tava saimniekošanas prakse var būt vērtīgāka, nekā Tu domā. 👉 Sazinies ar mums, lai uzzinātu vairā",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] 🌱 Starpkultūras aizsargā augsni, uzlabo tās struktūru un veicina organisko vielu uzkrāšanos",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02h8mQkEw1qnAsu2Q4AnUwdpts2hrqrcdGarmsxZ8y2fnRqtf955NBgM7dGuMEq4x5l",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0dQyDXw2vAtTrUZFizroJWjsG7Rcm4EtkJqCNd66tY38enZEkPLZXo91mk3jc7Eywl",
       "pub_date": "2026-08-22T12:32:54+00:00",
       "description": "🌱 Starpkultūras aizsargā augsni, uzlabo tās struktūru un veicina organisko vielu uzkrāšanos. Taču, lai starpkultūras sniegtu maksimālu ieguvumu, nepieciešama rūpīga plānošana un uzmanība. 📖 Šajā ceļvedī esam apkopojuši labākās prakses veiksmīgai starpkultūru audzēšanai, balstoties praktiskā pieredzē. Uzzini, kādas sugas izvēlēties un kam pievērst uzmanību, lai gūtu iespējami lielāko labumu Tavai augsnei un saimniecībai: https://blog.eagronom.com/lv/starpkulturas-labakas-sejas-prakses",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] Lauksaimniecībā katra sezona nāk ar saviem izaicinājumiem - laikapstākļi, ražas rezultāti, augošās izmaksas, tehnikas jautājumi un vēl daudz kas cits",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0AaPwF8bevWhhgEbvaQoDD6G1xmTFSHFnVrmFVxZfzn4ePKiKALvu8HWx666NN7cGl",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02EFge8fFjxM55pb7NCNkuRAiNdgy8ndqR148TdfcUbBKsPV7ffr3nzcPaob1WLCqFl",
       "pub_date": "2026-08-17T09:51:53+00:00",
       "description": "Lauksaimniecībā katra sezona nāk ar saviem izaicinājumiem - laikapstākļi, ražas rezultāti, augošās izmaksas, tehnikas jautājumi un vēl daudz kas cits. Kas šobrīd ir lielākais izaicinājums Tavā saimniecībā? Raksti komentārā!",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] Vai arī Tu mēdz atlikt lauku darbu uzskaiti uz vēlāku laiku",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0t8Z7o3UzwxSbJ2erZEVsGaSdfVMPp6diMjKnCctHbCokWspEBkfZEN56cG8xjbBGl",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02woqpga95ypyvfMYp6KMsMzkAAfTAYXyTJFnzA16g1R5FXxQoqcfqXPYi8BTTBxwcl",
       "pub_date": "2026-08-12T11:25:35+00:00",
       "description": "Vai arī Tu mēdz atlikt lauku darbu uzskaiti uz vēlāku laiku? Sezonas laikā darbu ir daudz, un ir viegli nodomāt: “Ievadīšu vēlāk.” Taču, reģistrējot paveiktos darbus uzreiz, informācija vienmēr ir aktuāla, samazinās iespēja kaut ko aizmirst, un sezonas beigās nav jāpavada stundas, mēģinot atcerēties, kas un kad ir paveikts. 💡Mazs ieradums ikdienā var ietaupīt daudz laika vēlāk!",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] Iespējams, Tu jau šobrīd savā saimniecībā izmanto ilgtspējīgas prakses, kas var sniegt arī papildu ienākumus",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0CAMM11izT15pMYEKN6MmuKy28XRF6wAbeTLMFRv13MjtxrGLiFpMba23UdAqoXWgl",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02Fqe3tYP5Uyb1fSUkG3bkdV7JZeCRXpu8MYQasnbpEdmHnR15pmz7eXwJM2zgFSb5l",
       "pub_date": "2026-08-10T08:46:52+00:00",
       "description": "Iespējams, Tu jau šobrīd savā saimniecībā izmanto ilgtspējīgas prakses, kas var sniegt arī papildu ienākumus. 💡 Izmantojot reģeneratīvās lauksaimniecības metodes, vari ne tikai uzlabot augsnes kvalitāti un efektīvāk izmantot resursus, bet arī radīt oglekļa kredītus un saņemt par tiem samaksu. 💬 Sazinies ar mums! Veiksim sākotnējo oglekļa potenciāla novērtējumu un palīdzēsim sagatavot praktisku oglekļa piesaistes plānu Tavai saimniecībai: https://www.eagronom.com/lv/oglekla-programma#calculator",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] 🌾 Kā rit ražas sezona Tavā saimniecībā",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid025SuZ1qoQcUwZvJYAjTpHWGhJNgx6oUibK4kYa8y3iueGUAHvm4BtfxmmvK3or4HMl",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0j7MoXuJwhPNJzN5tbBy9zwUSqDW68gtUVSMR6gLThYuJptjgLAyVLi9b2RdkB9zl",
       "pub_date": "2026-08-06T06:07:15+00:00",
       "description": "🌾 Kā rit ražas sezona Tavā saimniecībā? Dažviet ražas novākšana jau rit pilnā sparā, citviet vēl tikai uzņem apgriezienus. Katra sezona ir citādāka, un arī šogad netrūkst ne izaicinājumu, ne gandarījuma mirkļu. 💬 Pastāsti komentāros - kā šobrīd veicas Tavā saimniecībā? Kādi ir pirmie iespaidi par šī gada sezonu?",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] Mēs katru dienu strādājam pie tā, lai lauksaimniekiem būtu vieglāk plānot, pārvaldīt un attīstīt savas saimniecības",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0Eao7HeKALEjbhdkoD27h99sRXZePegFhrjb5k8GxBVjmGWkZKGdzPPPZ5h1SqE35l",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid02JG5pBAyFN1E4Qhc7pE3Bb5Y2jdYFNnBeCVgtbpr7CEirQenxxgKbKbe8Do7BhMYMl",
       "pub_date": "2026-07-29T07:54:22+00:00",
       "description": "Mēs katru dienu strādājam pie tā, lai lauksaimniekiem būtu vieglāk plānot, pārvaldīt un attīstīt savas saimniecības. 💪Mūsu mērķis ir palīdzēt samazināt administratīvo slogu, atvieglot ikdienas darbu un nodrošināt rīkus, kas palīdz pieņemt datos balstītus lēmumus. Turklāt nepārtraukti pilnveidojam mūsu risinājumus, lai tie atbilstu mūsdienu lauksaimniecības vajadzībām un palīdzētu saimniekot efektīvāk un ilgtspējīgāk. 💬 Kādu eAgronom funkciju Tu izmanto visbiežāk? Vai ir kāda, bez kuras savu ikd",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
       "title": "[eAgronom Latvija] Vai zināji, ka eAgronom Oglekļa programma sniedz vairāk nekā tikai papildu ienākumus no oglekļa kredītiem",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0toYQ2AHSYBTLHLDXZ6eMmfZRAKvFn6wMZCW5W935QqeF2TRQNa78wSqvkEk6Rmw8l",
+      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid0twBuzXKAinR6y6Ei1QhKLNXbvQZArY6yaKbzDbss1vuwn1ktekAnKnD5cb8LnbBNl",
       "pub_date": "2026-07-27T08:00:45+00:00",
       "description": "Vai zināji, ka eAgronom Oglekļa programma sniedz vairāk nekā tikai papildu ienākumus no oglekļa kredītiem? Reģeneratīvās lauksaimniecības prakses var sniegt daudz plašāku pienesumu saimniecībai: 🌾 Mainot augsnes apstrādes praksi, uzlabojas augsnes spēja uzkrāt barības vielas un ilgāk saglabāt mitrumu, veicinot tās auglību un noturību ilgtermiņā. 🚜 Pārdomātāka augsnes apstrāde var palīdzēt samazināt degvielas patēriņu un optimizēt mēslošanas līdzekļu izmantošanu. 💰 Saimniecības, kas atbilst no",
       "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
     },
     {
-      "title": "[eAgronom Latvija] 🌾Daļā Latvijas saimniecību pirmie kombaini jau ir devušies laukos, bet citviet ražas novākšana sāksies pavisam drīz",
-      "link": "https://www.facebook.com/eAgronomLatvija/posts/pfbid038Lm8v7vr5tGBpKiVzPUnEvmLXRoh6REsEMp4n5g8694FCnkAUq18Eejxzs9JMwtBl",
-      "pub_date": "2026-07-16T08:23:58+00:00",
-      "description": "🌾Daļā Latvijas saimniecību pirmie kombaini jau ir devušies laukos, bet citviet ražas novākšana sāksies pavisam drīz. Visiem novēlam labvēlīgus laikapstākļus, raitu darbu un bagātīgu ražu! Lai šī sezona nes gandarījumu par visa gada ieguldīto darbu. 💪💚 💬 Vai Tavā saimniecībā ražas sezona jau ir sākusies? Raksti komentāros!",
-      "source_page_url": "https://www.facebook.com/eAgronomLatvija/"
+      "title": "[Linas Agro (FB)] Šodien skolas solā sēdīsies lielāki un mazāki bērni, kas jau pēc dažiem gadiem būs mūsu nākotnes lauksaimnieki, agronomi, veterinārārsti, dārzkopji, puķkopji, tūrisma speciālisti, dzīvnieku dārzu saimnieki, arboristi, mehāniķi, lopkopji, pārtikas speciālisti, ainavu arhitekti, apzaļumotāji un citi, lauksaimniecības un lauku nākotnei, svarīgi speciālisti",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0SaTyVaXwQPuw3e9URZ8xZPbwJCXDLcDEUBiMbPYkkQ6udp1P7DWpUYdZXAhgQzUil",
+      "pub_date": "2026-09-01T05:00:24+00:00",
+      "description": "Šodien skolas solā sēdīsies lielāki un mazāki bērni, kas jau pēc dažiem gadiem būs mūsu nākotnes lauksaimnieki, agronomi, veterinārārsti, dārzkopji, puķkopji, tūrisma speciālisti, dzīvnieku dārzu saimnieki, arboristi, mehāniķi, lopkopji, pārtikas speciālisti, ainavu arhitekti, apzaļumotāji un citi, lauksaimniecības un lauku nākotnei, svarīgi speciālisti! 👩‍🌾👨‍🌾🌱 Novēlam, lai jaunais mācību gads nes daudz jaunas zināšanas, piedzīvojumus un radošas idejas! Priecīgu un lustīgu 1.septembri! 🎉",
+      "source_page_url": "https://www.facebook.com/linasagro.lv/"
+    },
+    {
+      "title": "[Linas Agro (FB)] 27.augustā oficiāli noslēdzām rapša sēju LA sēklu izmēģinājumiem - ar saulainu finišu Latgales lauksaimniecības…",
+      "link": "https://www.facebook.com/reel/1368818862082393/",
+      "pub_date": "2026-08-31T07:33:40+00:00",
+      "description": "27.augustā oficiāli noslēdzām rapša sēju LA sēklu izmēģinājumiem - ar saulainu finišu Latgales lauksaimniecības zinātnes centrā Viļānos,kur nākamajā vasarā varēsiet salīdzināt 7 dažādas šķirnes. 🌾 Kopumā šogad sēklu izmēģinājumi ir ierīkoti 4 Latvijas vietās, lai varam pārbaudīt, kā šķirņu attīstību ietekmē reģionālās atšķirības.",
+      "source_page_url": "https://www.facebook.com/linasagro.lv/"
     },
     {
       "title": "[Linas Agro (FB)] Pirmās PUPAS Elejā 🫘🫘🫘",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid02iQUz93NtVHCY1Vg8aewWxeSN39t2pXuTVgR4MQfp82euGqYmjxsJ6qWVh7c1Rv71l",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0eggnvjUnpWWZkm4QpRnLX5CYRcVpqzBLQY8ivzNPcvKcTeY4iEv3961jAb1oTRDjl",
       "pub_date": "2026-08-28T12:47:18+00:00",
       "description": "Pirmās PUPAS Elejā 🫘🫘🫘 Mitrums: 22 Proteīns: 32 Paldies z/s Vidži no Jelgavas novada par sadarbību 🤝 Ja arī tu vēlies nodot pupas vai graudus Linas Agro, visa aktuālā informācija par pieņemšanas/nodošanas vietām pieejama: https://elevatoriai-lv.azurewebsites.net/",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
     },
     {
       "title": "[Linas Agro (FB)] Ziemas kvieši ASORY 🌾",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0E56DAX2TpHm7K2fuyHqiLhj572pSQXGds1G2gPVaCuUjQsgGidtWmdwnRWhufLhkl",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid02HkNv43gYr9RMuUsYKUEK58TWrNgJFBE9SS4evP6GoEu7bZVMPDrFHTMCfc56SFBcl",
       "pub_date": "2026-08-28T07:34:05+00:00",
       "description": "Ziemas kvieši ASORY 🌾 ❓Kam piemērots: ☑Mainīgās, vieglās augsnēs ar sausuma risku ☑Saimniekam, kas meklē stabilitāti ‼ Plusi: Spēcīgas saknes + ļoti laba sausuma panesība + kompensācijas spēja. Universāla A kvalitātes šķirne. 📲Par šo un citām šķirnēm uzzini vairāk, sazinoties ar LA menedžeriem/agronomiem: https://www.linasagro.lv/regionalie-vaditaji",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
     },
     {
       "title": "[Linas Agro (FB)] Labi sadīdzis starpkultūru maisījums NITROFIX 🌱",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0HjqBS5cLSU9urb8qr4abY4MMJai6zYLf2krU2gJAQtWrN4jv3aWrvbLEVhwR1xGkl",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid02MR7tKcGRUTsjH4Uo1W2NUtCDkEMiX5EUxX84RLKjGZtanw83dMiSupTdiaucUwBYl",
       "pub_date": "2026-08-28T07:18:11+00:00",
       "description": "Labi sadīdzis starpkultūru maisījums NITROFIX 🌱 🕛 Sēts 16.augustā 📍Straupe, Vidzeme ℹ Maisījums veidots no augiem ar dažādu sakņu sistēmu – tā ielabos augsni vairākos slāņos, uzlabojot augsnes struktūru, gaisa caurlaidību, mitruma režīmu, mikroorganismu aktivitāti. Augi ar dziļāku sakņu sistēmu uzkrāj barības vielas no dziļākiem augsnes slāņiem, samazinot augsnes eroziju. Sastāvā: Zirņi, lupīna, auzas, vīķi, dziļās saknes rutks, facēlija. 📸 LA Vidzemes agronome Guna Ērgle. Sazinies ar Gunu, l",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
@@ -450,7 +478,7 @@
     },
     {
       "title": "[Linas Agro (FB)] Ziemas kvieši LG NIDA 🌾",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid02NUbw6md8nXW61rw5mWenU9w1kgKSsVrMfnrZVjo6Q1TVK1CUHhQ8voXavRHnVo5rl",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0JkojtTj37m2JjzyRR8swk71rtHF9ABx1RNUTKYvdpWbQverw6YCSMp6RzK3SDGvDl",
       "pub_date": "2026-08-27T10:44:10+00:00",
       "description": "Ziemas kvieši LG NIDA 🌾 ❓Kāpēc izvēlēties ❓ 1️⃣Ļoti augsts ražas potenciāls 2️⃣Piemērota šķirne dažādām augsnēm un tehnoloģijām 3️⃣A kvalitātes grupa 4️⃣Ļoti labi cero 5️⃣Laba izvēle intensīvām/vidēji intensīvām saimniecībām 📲Zvani LA menedžeriem, lai uzzinātu vairāk: https://www.linasagro.lv/uznemuma-rekviziti",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
@@ -464,49 +492,49 @@
     },
     {
       "title": "[Linas Agro (FB)] Graminicīds Panarex 🌱",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0wjUR6kHrvL6NUEJ85RA3qW4JWC588EJZVCoffMmSnYi3dFyXyYiqTGiLSvKtZQ34l",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid031Qm7zGwwxBJbfkGmRWVvw3g7s13EgRRpUCVerAg8btUWQGxfyscMXn2ojBYZGYXBl",
       "pub_date": "2026-08-26T13:32:11+00:00",
       "description": "Graminicīds Panarex 🌱 ☑Apkaro viengadīgās un daudzgadīgās viendīgļlapju nezāles divdīgļlapju kultūrās ☑Apkaro labības – sārņaugus divdīgļlapju kultūrās ☑Lietošana pēc nezāļu sadīgšanas ☑ Ātri uzsūcas caur lapām un ātri sasniedz nezāļu aktīvās augšanas punktus gan virs zemes, gan dziļi augsnē ☑ Strādājot ar Panarex nav nepieciešams pievienot virsmas aktīvo vielu vai eļļu ℹ Produkta marķējums precīzai lietošanai: https://www.linasagro.lv/produkt/panarex23433 📲Sazinies ar LA komandu,",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
     },
     {
       "title": "[Linas Agro (FB)] FUSILADE FORTE - efektīvi un ātri kontrolē labības-sārņaugus un īsmūža, un daudzgadīgo viendīgļlapju  nezāles rapsī🌼",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid05H5Y2pmrVLf4Bf2etLKs8q7GXhpeZX284zeVNk6E35P2KFGZ6zXHjMXHKmHGeBrol",
+      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid028xNEvMRwXKBwKb3XtYGjyMMACTaBjUsfeFHF9x2MFGzRQFUmWwxnsaeiukfHf83nl",
       "pub_date": "2026-08-26T13:00:25+00:00",
       "description": "FUSILADE FORTE - efektīvi un ātri kontrolē labības-sārņaugus un īsmūža, un daudzgadīgo viendīgļlapju nezāles rapsī🌼 1️⃣Labi pārklāj lapu virsmu 2️⃣Pateicoties Isolink unikālajai tehnoloģijai ļoti ātri uzņemas augos un lietus jau pēc 1h neietekmē efektivitāti 3️⃣Augā pārvietojas sistēmiski 4️⃣Nezāles aiziet bojā pēc 3-4 nedēļām 5️⃣Plaša reģistrācija un saudzīgs pret jutīgiem kultūraugiem 🤳Sazinies ar LA agronomiem, lai uzzinātu vairāk: https://www.linasagro.lv/regionalie-vaditaji",
       "source_page_url": "https://www.facebook.com/linasagro.lv/"
     },
     {
-      "title": "[Linas Agro (FB)] Ziemas kviešu šķirņu maisījums DOTNUVA ANE 🌾 𝐒𝐈𝐀 𝐊𝐚𝐥𝐧𝐚̄𝐣𝐮 𝐢𝐳𝐦𝐞̄𝐠̧𝐢𝐧𝐚̄𝐣𝐮𝐦𝐨𝐬 𝐫𝐚𝐳̌𝐚𝐬 𝐝𝐚𝐭𝐢: 𝟖,𝟏𝐭/𝐡𝐚",
-      "link": "https://www.facebook.com/linasagro.lv/posts/pfbid0swdg5YNSGnHmw7tXx5YHMn8pLGKi52hXKPw9w1eacdNziV7gdp27BMHdmXyW2Geol",
-      "pub_date": "2026-08-26T07:59:19+00:00",
-      "description": "Ziemas kviešu šķirņu maisījums DOTNUVA ANE 🌾 𝐒𝐈𝐀 𝐊𝐚𝐥𝐧𝐚̄𝐣𝐮 𝐢𝐳𝐦𝐞̄𝐠̧𝐢𝐧𝐚̄𝐣𝐮𝐦𝐨𝐬 𝐫𝐚𝐳̌𝐚𝐬 𝐝𝐚𝐭𝐢: 𝟖,𝟏𝐭/𝐡𝐚. ✅ ❓Kāpēc izvēlēties šķirņu maisījumu? ☑ 𝐒𝐭𝐚𝐛𝐢𝐥𝐚̄𝐤𝐚𝐬 𝐫𝐚𝐳̌𝐚𝐬. Šķirnes ar dažādām īpašībām papildina cita citu – vienā gadā labāk padodas vienas, citā gadā citas. Tas samazina ražas svārstības un nodrošina augstāku vidējo lauka ražu. ☑ 𝐒𝐚𝐦𝐚𝐳𝐢𝐧𝐚̄𝐭𝐚 𝐬𝐥𝐢𝐦𝐢̄𝐛𝐮 𝐢𝐳𝐩𝐥𝐚𝐭𝐢̄𝐛𝐚. Maisījumus veido šķirnes ar atšķirīgu uzņēmību pret slimībām. Tā kā jutīgie augi atrodas tālāk cits no cita, patogēnu sporu pārnese ir",
-      "source_page_url": "https://www.facebook.com/linasagro.lv/"
+      "title": "[LATRAPS] 🌾  Graudu tirgus atkal ģeopolitikas ķīlnieks",
+      "link": "https://www.facebook.com/LATRAPS/posts/pfbid02kNVyXZt14mnkXUpKLqvCpifBoRmjVupmV5aP5tNs3Y98cMgp6G5wa2WTc55AiCgml",
+      "pub_date": "2026-09-01T11:50:59+00:00",
+      "description": "🌾 Graudu tirgus atkal ģeopolitikas ķīlnieks Nedēļas sākumā graudu tirgū bija vērojama neliela peļņas fiksācija pēc iepriekšējās nedēļas straujā cenu kāpuma, ko izraisīja Turcijas paziņojums par iespējamu Melnās jūras graudu koridora atjaunošanas plānu. Tomēr aiz skaļajiem virsrakstiem situācija būtiski nav mainījusies – vienošanās starp Ukrainu un Krieviju nav panākta, ostu darbība joprojām ir ierobežota, un eksporta plūsmas no reģiona saglabājas būtiski zem normālā līmeņa. 📈 Kvieši saglabāja",
+      "source_page_url": "https://www.facebook.com/LATRAPS/"
     },
     {
-      "title": "[Linas Agro (FB)] Ziemas kviešu ASORY priekšrocības 🌾",
-      "link": "https://www.facebook.com/reel/1348058844158604/",
-      "pub_date": "2026-08-26T05:00:23+00:00",
-      "description": "Ziemas kviešu ASORY priekšrocības 🌾 ℹ️ + Pārtikas tipa šķirne; + Vidēji agra; + Auga vidējais garums - 85 cm; + Universāla kviešu šķirne, kas piemērota dažādām audzēšanas tehnoloģijām un augsnes tipiem; + Spēcīgi attīstās sakņu sistēma rudenī; + Izcili pacieš sausuma periodus. 🎥SIA Beksagro agronome Santa Feldmane",
-      "source_page_url": "https://www.facebook.com/linasagro.lv/"
+      "title": "[LATRAPS] 🌾 Vārpu fuzarioze – aktuāla problēma šajā ražas sezonā",
+      "link": "https://www.facebook.com/reel/1646746427085521/",
+      "pub_date": "2026-08-31T07:17:27+00:00",
+      "description": "🌾 Vārpu fuzarioze – aktuāla problēma šajā ražas sezonā. Jaunākajā “LATRAPS Mācās” epizodē skaidrojam, kas ir vārpu fuzarioze un kāpēc tā var būtiski ietekmēt graudu kvalitāti un realizācijas iespējas. 🎥 Skaties epizodi un uzzini: 🔹 kas ir fuzarioze; 🔹 kā graudi ar to inficējas; 🔹 kāpēc inficēti graudi var nebūt derīgi realizācijai tirgū; 🔹 ko iespējams darīt, lai samazinātu fuzariozes risku. Noskaties jaunāko “LATRAPS Mācās” epizodi un uzzini svarīgāko par vārpu fuzariozi! 🌾",
+      "source_page_url": "https://www.facebook.com/LATRAPS/"
     },
     {
       "title": "[LATRAPS] 25. augustā Elejā ir notikusi traģēdija, kurā dzīvību zaudējis uzņēmuma sezonas darbinieks, notikušā apstākļus šobrīd…",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0xFHec5LLNBqTaVYLHiZMfFFpwzRg8awYZAYfDvi8uRQ5VAv1Rph5uzzvG1GWwYoYl",
+      "link": "https://www.facebook.com/LATRAPS/posts/pfbid031vaMVbzRQ6MvKzvasYG3cXXBU2ZVQeFr4F4FRKah7YF9r3FtmoNxPeH563Sm9emKl",
       "pub_date": "2026-08-25T11:50:36+00:00",
       "description": "25. augustā Elejā ir notikusi traģēdija, kurā dzīvību zaudējis uzņēmuma sezonas darbinieks, notikušā apstākļus šobrīd izmeklē atbildīgās institūcijas. Lai dienesti varētu netraucēti veikt savu darbu, notikuma dienā tika slēgts Elejas graudu pirmapstrādes komplekss, kā arī sniegta visa nepieciešamā informācija no uzņēmuma puses. “Izsakām visdziļāko līdzjūtību bojāgājušā ģimenei, tuviniekiem un kolēģiem. Tā ir traģēdija, kurai nevajadzēja notikt. Mēs darīsim visu iespējamo, lai palīdzētu noskaidr",
       "source_page_url": "https://www.facebook.com/LATRAPS/"
     },
     {
       "title": "[LATRAPS] Graudu tirgū saglabājas izteikti pozitīvs noskaņojums, un uzmanības centrā atkal ir kukurūza",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid02hwBSSNhEPxY5q4eZpjVAytjzqAj644A4R4XA5h7dBtnxvNsgxZxYB7sratVkGmLwl",
+      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0eDPFE4o8jDd2Cj6Y7ZzbDGT8eff3gKbyzsDaGomvpot6FzuJS55C62pVTQHVoumJl",
       "pub_date": "2026-08-25T06:17:08+00:00",
       "description": "Graudu tirgū saglabājas izteikti pozitīvs noskaņojums, un uzmanības centrā atkal ir kukurūza. Pēdējo nedēļu notikumi graudu tirgos liecina par vairāku cenu kāpumu veicinošu faktoru vienlaicīgu ietekmi. Vājāks ASV dolārs, augstas naftas cenas, pieaugošā spriedze Melnās jūras reģionā un bažas par laikapstākļu ietekmi uz ražām piesaista investoru uzmanību lauksaimniecības preču tirgiem. Tas veicina pozitīvu noskaņojumu gan kviešu, gan kukurūzas segmentā. 🌾 Kviešu tirgū galvenais faktors joprojām",
       "source_page_url": "https://www.facebook.com/LATRAPS/"
     },
     {
       "title": "[LATRAPS] 🌧️ Pēc nedēļas nogalē piedzīvotās vētras ir īstais brīdis apsekot savus laukus un novērtēt iespējamos postījumus",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid02LdaTPPd6pdivincRnppSXHBP8cMAW4ArJGbZNyJ8ayzHjJzxWcK3FZYRZwNp5j4bl",
+      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0GunGB5j19zushSmusNqtayiZ3PH3FtU6TRoVV9XA2drdJcUGAUvKC36sVzbKbvPBl",
       "pub_date": "2026-08-24T12:33:12+00:00",
       "description": "🌧️ Pēc nedēļas nogalē piedzīvotās vētras ir īstais brīdis apsekot savus laukus un novērtēt iespējamos postījumus. Spēcīgas lietusgāzes var radīt līdzīga rakstura bojājumus kā krusa. 🎥VH Latvija Sējumu apdrošināšanas vadītāja Vita Baumane video uz lauka parāda: ✅ kā novērtēt bojājumu apmēru ✅ kā izskatās robeža, no kuras sākas apdrošināšanas gadījums Ja uz augsnes ir nolauztas vārpas, rīkojies pēc līdzīga aprēķina principa! Noskaties video un uzzini, kā praktiski novērtēt situāciju savā laukā",
       "source_page_url": "https://www.facebook.com/LATRAPS/"
@@ -520,35 +548,14 @@
     },
     {
       "title": "[LATRAPS] 🌱 Veiksmīga nākamā raža sākas ar pareizo sēklu izvēli",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid02Z9Anjv5iumZ7rmJ5aePAAkXi5YcTK5tAyrEVoaSByGdSPnR2dwFTcmNxnnmehVM2l",
+      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0VuL86Fkq4pLRJL2Amo8hajeCdGcrUTwd7DkKzqbwk6yaYEDMFYSR3md8wuLcYQycl",
       "pub_date": "2026-08-19T12:38:01+00:00",
       "description": "🌱 Veiksmīga nākamā raža sākas ar pareizo sēklu izvēli! Iepazīsties ar LATRAPS ziemāju sēklu katalogu un izvēlies savai saimniecībai piemērotākās ziemāju šķirnes jaunajai sezonai 🌾 👉 Apskati ziemāju sēklu katalogu šeit: https://www.latraps.lv//data/2026-mans-latraps/seklu-katalogs-2026.pdf",
       "source_page_url": "https://www.facebook.com/LATRAPS/"
     },
     {
-      "title": "[LATRAPS] 📊 Meklējam finanšu un risku analītiķi",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0xuqbJP7gEznXbSnDhBDo59doXo8G64NT6W7hg3fi1c25BEX6F53WAHz2EKqHjViYl",
-      "pub_date": "2026-08-19T12:18:51+00:00",
-      "description": "📊 Meklējam finanšu un risku analītiķi! Ja Tev patīk strādāt ar datiem, analizēt riskus un sniegt ieguldījumu stratēģisku biznesa lēmumu pieņemšanā, pievienojies LATRAPS komandai! Mēs piedāvājam: ✅ Interesantu darbu nozares vadošajā uzņēmumā Latvijā ✅ Atsaucīgu un profesionālu komandu ✅ Darbu ar reālu ietekmi uz uzņēmuma attīstību ✅ Iespēju strādāt hibrīda režīmā 👉 Vairāk par vakanci un pieteikšanos: https://www.latraps.lv/latraps/zinas/aicinam-pievienoties-finansu-un-risku-analitiki #teird",
-      "source_page_url": "https://www.facebook.com/LATRAPS/"
-    },
-    {
-      "title": "[LATRAPS] 🌾 Audzē eļļas linus",
-      "link": "https://www.facebook.com/reel/1930604727900353/",
-      "pub_date": "2026-08-18T12:05:44+00:00",
-      "description": "🌾 Audzē eļļas linus? Noskaties šo video! 🎥 LATRAPS iepirkuma vadītāja Inese Sirsniņa un graudu plūsmas speciāliste Lelde Pole stāsta par eļļas linu pieņemšanu šajā sezonā – kur tos varēs nodot un kādi nosacījumi jāņem vērā. Šosezon pieņemsim OPERA šķirnes eļļas linus, kas audzēti no LATRAPS iegādātas sēklas. ‼️ Eļļas lini tiks pieņemti neatkarīgi no mitruma un piemaisījumu satura. Ņem vērā, ka eļļas linu minimālie un maksimālie bāzes kvalitātes rādītāji ir tādi paši kā rapšiem. ℹ️ Plašāka in",
-      "source_page_url": "https://www.facebook.com/LATRAPS/"
-    },
-    {
-      "title": "[LATRAPS] 🌾 Graudu tirgus: ģeopolitika un laikapstākļi turpina atbalstīt cenas",
-      "link": "https://www.facebook.com/LATRAPS/posts/pfbid0Eo2Wj7CpUAypHCtQeUYdSgCTn8YadynZuscZvLbUQ6h3M8D7ysEgT3QwhTfgwbScl",
-      "pub_date": "2026-08-18T09:35:21+00:00",
-      "description": "🌾 Graudu tirgus: ģeopolitika un laikapstākļi turpina atbalstīt cenas Aizvadītajās nedēļās pasaules graudu tirgus uzmanības centrā saglabājas situācija Melnās jūras reģionā. Uzbrukumi Krievijas un Ukrainas ostu un eksporta infrastruktūrai rada bažas par graudu plūsmu nepārtrauktību, savukārt tirgus arvien vairāk iecenojot piegāžu riskus nākotnē📈 Kviešu tirgus Kviešu cenas Eiropā un ASV turpinājušas atgūties. Papildus ģeopolitiskajiem riskiem cenu atbalsta arī zemāka kviešu kvalitāte Francijā un",
-      "source_page_url": "https://www.facebook.com/LATRAPS/"
-    },
-    {
       "title": "[Scandagra (FB)] RUDENS FORMULA  spēcīgai ziemāju attīstībai pirms ziemošanas",
-      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid0x8xGQKZQX3fDvBjRRKeXiJYQ2vbfaAdRUPePFuzfcTFGj2t3oeAh94RvqdgpAq5Ml",
+      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid031pEyHrDVYuwqVirCnKq1FKrYAqkFQ5MPuS5TztsuDfnNLPTUGRhmPrszhex7ioJJl",
       "pub_date": "2026-08-28T07:00:12+00:00",
       "description": "RUDENS FORMULA spēcīgai ziemāju attīstībai pirms ziemošanas! 🌾 Nodrošini spēcīgu ziemāju graudaugu attīstību rudenī, veicinot sakņu sistēmas attīstību un cerošanu, kā arī uzlabojot augu ziemotspēju. Rudens formula nodrošina kompleksu barības elementu un organisko vielu kombināciju ziemāju attīstībai rudenī! 🤩 Iegādājies visus trīs Rudens formulas produktus par īpašu cenu! Vairāk informācijas par piedāvājumu jautā savam Scandagra pārstāvim: https://ieej.lv/sc-kontakti Piedāvājums spēkā līdz 3",
       "source_page_url": "https://www.facebook.com/scandagralatvia/"
@@ -569,28 +576,21 @@
     },
     {
       "title": "[Scandagra (FB)] KASK - mūsu MARATONISTS: 8,7 t/ha 2025",
-      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid03886Pwr26ERtompkmB3coG6Sc2anTzZLGcHXGTYvYmpUUV4cdJNLEJGbPWB3okzKnl",
+      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid024QJCjY7zZcT77RRB43EP9dMCzsuPxpmgnKvaqYK8Jt65eDsofkhFw2HKpcd6f3sZl",
       "pub_date": "2026-08-25T03:00:01+00:00",
       "description": "KASK - mūsu MARATONISTS: 8,7 t/ha 2025. gada sezonā, un arī šī gada lauki ļauj cerēt uz līdzvērtīgu rezultātu!! Ja ziemas kviešu šķirnes būtu sportisti, KASK noteikti būtu maratonists - stabils, izturīgs un spējīgs noturēt tempu līdz pat finišam. Šķirnes stiprā puse ir līdzsvars - augsta ražība iet roku rokā ar A klases kvalitāti, labu veldres noturību un ļoti labu slimību izturību. KASK piemērots tiem, kuriem svarīgs stabils sniegums sezonu no sezonas un pārliecinošs rezultāts finišā. 👉 Iz",
       "source_page_url": "https://www.facebook.com/scandagralatvia/"
     },
     {
-      "title": "[Scandagra (FB)] 🌾 Vai minerālmēsli kļūs lētāki - vai tomēr ir laiks rīkoties jau tagad",
-      "link": "https://www.facebook.com/reel/1829963311711727/",
-      "pub_date": "2026-08-24T16:00:42+00:00",
-      "description": "🌾 Vai minerālmēsli kļūs lētāki - vai tomēr ir laiks rīkoties jau tagad? Kamēr kompleksā pamatmēslojuma tirgū situācija šobrīd ir salīdzinoši stabila, slāpekļa mēslojuma tirgū nākamajai sezonai izaicinājumu netrūkst. Jaunākajā podkāsta epizodē runājam par to, kas šobrīd notiek minerālmēslu tirgū un kādi faktori var ietekmēt cenas un pieejamību. 🔸 Kā mainījies slāpekļa mēslojuma imports? 🔸 Vai Eiropa spēs nodrošināt nepieciešamos apjomus? 🔸 Kā gāzes cenas ietekmē mēslojuma ražošanu? 🔸 Ko tirgum",
-      "source_page_url": "https://www.facebook.com/scandagralatvia/"
-    },
-    {
       "title": "[Scandagra (FB)] 🌾 LAUKU APSKATS | Augusta vidus",
-      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid0267ZrXaydFjdFKrmdWtpXFkhZDfFWU2zDv9h6U8CvrQjvFEJq3Kmm9QcLU34tgSnml",
+      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid02PmfKH5Xb2eD7ozTz44K9YnHACyEdpc8TXtFegUhZK975YiJxinqdpQdJuLcbJypl",
       "pub_date": "2026-08-22T07:00:51+00:00",
       "description": "🌾 LAUKU APSKATS | Augusta vidus Augusts Latvijas laukos rit intensīvi - turpinās ražas novākšana, bet paralēli jau tiek likti pamati nākamajai sezonai ar ziemas rapša sēju. Situācija reģionos gan ir ļoti atšķirīga. 🌦️ LAIKAPSTĀKĻI UN RAŽAS NOVĀKŠANA Augusta pirmās divas dekādes aizvadītas intensīvā režīmā. Vietās, kur nokrišņu bijis mazāk, ziemāju kulšana jau pabeigta vai tuvojas noslēgumam. Savukārt mitrākajos reģionos darbi notiek saraustīti - jāizmanto katrs sausākais brīdis. Otrās dekādes",
       "source_page_url": "https://www.facebook.com/scandagralatvia/"
     },
     {
       "title": "[Scandagra (FB)] 🌾 Graudu tirgū - Kurā virzienā dosies cenas",
-      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid026dGkeiGKmkGgF1MwNnQxpYKP215655hVNNFKLVWfvniUEozUFSbZfCg3SN5nuqDrl",
+      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid02uUZSQNE6u7UQr7EYcBVVkU5C7JBHfvujEHB4DpRB3kADnzNKqwpu4jLzNs22ZYgl",
       "pub_date": "2026-08-21T11:00:05+00:00",
       "description": "🌾 Graudu tirgū - Kurā virzienā dosies cenas? Ražas prognozes Eiropā samazinās, Melnās jūras reģionā saglabājas būtiski loģistikas un ģeopolitiskie riski, bet pasaules lielākie kviešu importētāji nesteidzas ar iepirkumiem. 👉 Kas šobrīd notiek graudu tirgū un kuri faktori var noteikt cenu tālāko virzienu? 📌 Pilno graudu tirgus apskatu lasi Scandagra mājaslapā: https://www.scandagra.lv/graudu-tirgus/graudu-tirgus-apskats-16/",
       "source_page_url": "https://www.facebook.com/scandagralatvia/"
@@ -617,8 +617,29 @@
       "source_page_url": "https://www.facebook.com/scandagralatvia/"
     },
     {
+      "title": "[Scandagra (FB)] SY LANDRICH - mūsu PROFESIONĀLIS: kad svarīga ir ne tikai raža, bet arī kvalitāte",
+      "link": "https://www.facebook.com/scandagralatvia/posts/pfbid0wHhd4d6MLyqrK8j6DahCQtk3b9spttDeUPNCTDVvVuboRAaFFJFDZpbuJVNGtd1Kl",
+      "pub_date": "2026-08-19T03:00:01+00:00",
+      "description": "SY LANDRICH - mūsu PROFESIONĀLIS: kad svarīga ir ne tikai raža, bet arī kvalitāte! Profesionālis zina - rezultātu nenosaka tikai tonnas no hektāra. Tikpat svarīgi ir tas, kāda ir iegūtās ražas kvalitāte. Tieši tāpēc SY LANDRICH mēs saucam par profesionāli - šķirni, kurā satiekas raža, kvalitāte un stabilitāte. 2026. gada rezultāts Bayer izmēģinājumu laukā - 7,6 t/ha ar 14,2% proteīna saturu! Turklāt līdzvērtīgs rezultāts tika sasniegts arī iepriekšējā sezonā ražojošajos laukos. Extra klases k",
+      "source_page_url": "https://www.facebook.com/scandagralatvia/"
+    },
+    {
+      "title": "[LPKS VAKS] Sezona aktīvi turpinās",
+      "link": "https://www.facebook.com/reel/4411786555751720/",
+      "pub_date": "2026-09-01T09:27:37+00:00",
+      "description": "Sezona aktīvi turpinās! Šobrīd kraujam kuģi ar pārtikas kviešiem kas dosies uz Ugandu! KOPĀ DARĀM VAIRĀK! 🌾 #kopādarāmvairāk #vakskooperativs #lauksaimniecība",
+      "source_page_url": "https://www.facebook.com/LPKSVAKS/"
+    },
+    {
+      "title": "[LPKS VAKS] https://www",
+      "link": "https://www.facebook.com/LPKSVAKS/posts/pfbid02nVoGiNyZCH1gH6xSXMScWXLnPiiDj47chWJDq72PvFdWZ1YxB4rPJsoMBVxWGDYWl",
+      "pub_date": "2026-08-31T06:59:40+00:00",
+      "description": "https://www.vaks.lv/agro-katalogs/polarkap/",
+      "source_page_url": "https://www.facebook.com/LPKSVAKS/"
+    },
+    {
       "title": "[LPKS VAKS] Ne viss, ko ietaupa sējas laikā, beigās ir ieguvums – kāpēc kvalitatīvs sēklas materiāls atmaksājas, lasi VAKS Agro bibliotēkā",
-      "link": "https://www.facebook.com/LPKSVAKS/posts/pfbid02UveYe9ELHqk2PUBzWfeRAhwWTWv5ZMEYHb1TkJKKqGNCohPTHGwgGRc1dBLFM5Pdl",
+      "link": "https://www.facebook.com/LPKSVAKS/posts/pfbid0RCrMRqLEd37nkqiuHPkppnrNBLqCYzRNdnBD4xoK35hZ5mEBpzkVNMGVw3GU6qXol",
       "pub_date": "2026-08-10T07:19:22+00:00",
       "description": "Ne viss, ko ietaupa sējas laikā, beigās ir ieguvums – kāpēc kvalitatīvs sēklas materiāls atmaksājas, lasi VAKS Agro bibliotēkā. #vakskooperativs #agronomaieteikums #kopādarāmvairāk",
       "source_page_url": "https://www.facebook.com/LPKSVAKS/"
