@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Mon, 21 Sep 2026 13:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:08:54 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Semināri par lauksaimniekam svarīgo 2026!</title>
       <link>https://www.linasagro.lv/agro-zinas/seminari-par-lauksaimniekam-svarigo-2026</link>
@@ -296,14 +296,6 @@
       <guid isPermaLink="true">https://www.lbla.lv/paksaugu-audzesanas-potencials-biologiskajas-saimniecibas-eksperti-un-lauksaimnieki-tiekas-zs-kanepites</guid>
       <pubDate>Mon, 27 Jul 2026 13:31:36 +0000</pubDate>
       <source url="https://www.lbla.lv/">LBLA</source>
-    </item>
-    <item>
-      <title>[AREI] Raksts LSM :Latvijā pamazām ienāk lauksaimniecības lupīna - laba pārtikai un augsnei</title>
-      <link>https://www.arei.lv/lv/raksts/2026-07-31/raksts-lsm-latvija-pamazam-ienak-lauksaimniecibas-lupina-laba-partikai-un-augsnei</link>
-      <description>Raksts LSM :Latvijā pamazām ienāk lauksaimniecības lupīna - laba pārtikai un augsnei solvitasur Tr, 07/29/2026 - 15:29</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-07-31/raksts-lsm-latvija-pamazam-ienak-lauksaimniecibas-lupina-laba-partikai-un-augsnei</guid>
-      <pubDate>Wed, 29 Jul 2026 12:29:45 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
       <title>[VAKS] VAAD Ziņu lapa – jūlijs</title>
@@ -1335,11 +1327,19 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
+      <title>[AREI] No Latvijas augsnes līdz nākotnes augkopības preparātam: turpinās MYCO-PREP pētījumi</title>
+      <link>https://www.arei.lv/lv/raksts/2026-09-21/no-latvijas-augsnes-lidz-nakotnes-augkopibas-preparatam-turpinas-myco-prep</link>
+      <description>No Latvijas augsnes līdz nākotnes augkopības preparātam: turpinās MYCO-PREP pētījumi solvitasur Pr, 09/21/2026 - 16:48</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-09-21/no-latvijas-augsnes-lidz-nakotnes-augkopibas-preparatam-turpinas-myco-prep</guid>
+      <pubDate>Mon, 21 Sep 2026 13:48:29 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] KƒБ nodro≈°inƒБt, lai koka fasƒБde kalpotu paaudzƒУm: FasƒБdes dƒУƒЉu montƒБ≈Њas zelta likumi un kop≈°ana</title>
       <link>https://www.saimnieks.lv/raksts/ka-nodrosinat-lai-koka-fasade-kalpotu-paaudzem-fasades-delu-montazas-zelta-likumi-un-kopsana</link>
       <description>MƒБjas ƒБrƒУjais veidols ir ilgtermi≈Жa ieguldƒЂjums, kas sargƒБ ƒУkas neso≈°ƒБs kon...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-nodrosinat-lai-koka-fasade-kalpotu-paaudzem-fasades-delu-montazas-zelta-likumi-un-kopsana</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1347,7 +1347,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/stajas-speka-izmainas-koku-cirsanas-kartiba-arpus-meza</link>
       <description>StƒБjoties spƒУkƒБ grozƒЂjumiem Ministru kabineta noteikumos Nr. 309 вАЬNoteikumi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/stajas-speka-izmainas-koku-cirsanas-kartiba-arpus-meza</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1355,7 +1355,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/galas-parstrades-nozare-latvija-ir-ekonomiski-specigs-pievienotas-vertibas-kedes-posms-un-nodrosina-stabilu-nodarbinatibu</link>
       <description>GaƒЉas pƒБrstrƒБdes nozare LatvijƒБ ir stabila, produktƒЂva un ekonomiski nozƒЂmƒЂ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/galas-parstrades-nozare-latvija-ir-ekonomiski-specigs-pievienotas-vertibas-kedes-posms-un-nodrosina-stabilu-nodarbinatibu</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1363,7 +1363,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/pieejami-27-miljoni-eiro-altum-atklaj-jaunu-finansejuma-programmu-lauku-uznemejiem-ar-kapitala-atlaidi</link>
       <description>16. septembrƒЂ attƒЂstƒЂbas finan≈°u instit≈Ђcija ALTUM sadarbƒЂbƒБ ar ZemkopƒЂbas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pieejami-27-miljoni-eiro-altum-atklaj-jaunu-finansejuma-programmu-lauku-uznemejiem-ar-kapitala-atlaidi</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1371,7 +1371,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/ipasais-pvn-rezims</link>
       <description>Lauksaimnieki, mƒБjra≈ЊotƒБji, amatnieki, viesu izmitinƒБtƒБji un citi mazie uz≈Ж...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ipasais-pvn-rezims</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1379,7 +1379,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/apbalvoti-zemkopibas-ministrijas-konkursa-sejejs-2026-laureati</link>
       <description>19. septembrƒЂ, apbalvo≈°anas ceremonijƒБ kult≈Ђras centrƒБ вАЬHanzas peronsвАЭ, RƒЂg...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/apbalvoti-zemkopibas-ministrijas-konkursa-sejejs-2026-laureati</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1387,7 +1387,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/latvija-notiek-32-pasaules-dzivnieku-veselibas-organizacijas-woah-eiropas-regionala-konference</link>
       <description>Lai apspriestu dzƒЂvnieku infekcijas slimƒЂbu pƒБrrobe≈Њu izplatƒЂbu un ar to uz...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvija-notiek-32-pasaules-dzivnieku-veselibas-organizacijas-woah-eiropas-regionala-konference</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1395,7 +1395,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/vietejais-produkts-tava-apdrosinasanas-polise-stundai-x-aizvadits-partikas-pasnodrosinajumam-veltits-forums</link>
       <description>StarptautiskƒБs izstƒБdes вАЬRiga Food 2026вАЭ ietvaros aizvadƒЂts Latvijas Lauku ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vietejais-produkts-tava-apdrosinasanas-polise-stundai-x-aizvadits-partikas-pasnodrosinajumam-veltits-forums</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1403,7 +1403,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/uzsakta-valsts-petijumu-programma-klimatnoturigai-un-konkuretspejigai-latvijas-mezu-apsaimniekosanai</link>
       <description>10. septembrƒЂ, Latvijas Valsts koksnes ƒЈƒЂmijas instit≈ЂtƒБ notika ZemkopƒЂbas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uzsakta-valsts-petijumu-programma-klimatnoturigai-un-konkuretspejigai-latvijas-mezu-apsaimniekosanai</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1411,7 +1411,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/sertificeta-sekla-ir-dross-pamats-kvalitativai-razai</link>
       <description>SƒУklas izvƒУle ir viens no b≈ЂtiskƒБkajiem lƒУmumiem, plƒБnojot nƒБkamƒБs sezonas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sertificeta-sekla-ir-dross-pamats-kvalitativai-razai</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1419,7 +1419,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/ka-zinot-lad-par-arkartas-apstakliem-un-saglabat-tiesibas-uz-atbalstu</link>
       <description>1. KƒБ zi≈Жot LAD par ƒБrkƒБrtas apstƒБkƒЉiem un saglabƒБt tiesƒЂbas uz atbalstu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-zinot-lad-par-arkartas-apstakliem-un-saglabat-tiesibas-uz-atbalstu</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1427,7 +1427,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/a-in-a</link>
       <description>рЭРПрЭРЂрЭРЪрЭР§рЭР≠рЭРҐрЭРђрЭР§ƒБрЭРђ рЭРЪрЭР©рЭР¶ƒБрЭРЬƒЂрЭРЫрЭРЪрЭРђ рЭР•рЭРЪрЭРЃрЭР§рЭРђрЭРЪрЭРҐрЭР¶рЭРІрЭРҐрЭРЮрЭР§рЭРҐрЭРЮрЭР¶ рЭРЃрЭРІ рЭРѓрЭРЮрЭР≠рЭРЮрЭРЂрЭРҐрЭРІƒБрЭРЂƒБрЭРЂрЭРђрЭР≠рЭРҐрЭРЮрЭР¶ вАЮрЭРЙрЭРЪрЭРЃрЭРІрЭРҐ рЭР©рЭРЪрЭРђƒБрЭР§рЭРЃрЭР¶рЭРҐ рЭРЬƒЂ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/a-in-a</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1435,7 +1435,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/palielinas-finansejumu-saimnieciskas-darbibas-veicejiem-konkuretspejas-uzlabosanai-par-astoniem-miljoniem-eiro</link>
       <description>PalielinƒБs finansƒУjumu saimnieciskƒБs darbƒЂbas veicƒУjiem konkurƒУtspƒУjas uzla...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/palielinas-finansejumu-saimnieciskas-darbibas-veicejiem-konkuretspejas-uzlabosanai-par-astoniem-miljoniem-eiro</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1443,7 +1443,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/sagatavota-lauksaimniecibas-bruto-segumu-aprekinu-e-gramata-par-2025-gadu</link>
       <description>Latvijas Lauku konsultƒБciju un izglƒЂtƒЂbas centrs (LLKC) sagatavojis digitƒБl...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sagatavota-lauksaimniecibas-bruto-segumu-aprekinu-e-gramata-par-2025-gadu</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1451,7 +1451,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/informacija-par-augu-aizsardzibas-lidzeklu-ievesanu-un-izplatisanu-turpmak-bus-jaiesniedz-elektroniski</link>
       <description>ValdƒЂba otrdien apstiprinƒБja ZemkopƒЂbas ministrijas (ZM) grozƒЂjumus noteiku...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/informacija-par-augu-aizsardzibas-lidzeklu-ievesanu-un-izplatisanu-turpmak-bus-jaiesniedz-elektroniski</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1459,7 +1459,7 @@ VH Latvija biedri pieteica postījumus gandrīz 7 000 ha…</title>
       <link>https://www.saimnieks.lv/raksts/lad-platibu-maksajumu-avansu-sak-izmaksat-menesi-agrak-15septembr</link>
       <description>15. septembrƒЂ, Lauku atbalsta dienests (LAD) sƒБk izmaksƒБt platƒЂbu maksƒБjumu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lad-platibu-maksajumu-avansu-sak-izmaksat-menesi-agrak-15septembr</guid>
-      <pubDate>Mon, 21 Sep 2026 13:45:58 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 19:08:54 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
