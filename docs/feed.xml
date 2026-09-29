@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:30:04 +0000</lastBuildDate>
     <item>
       <title>[Linas Agro] Vai ziemāji zem biezās sniega segas ir drošībā?</title>
       <link>https://www.linasagro.lv/agro-zinas/vai-ziemaji-zem-biezas-sniega-segas-ir-drosiba</link>
@@ -288,14 +288,6 @@
       <guid isPermaLink="true">https://www.vaks.lv/vaad-zinu-lapa-julijs-2/</guid>
       <pubDate>Mon, 03 Aug 2026 05:16:56 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
-    </item>
-    <item>
-      <title>[AREI] AREI pētniece Maryna Zhylina pieredzes apmaiņas vizītē Neapolē, Itālijā projekta SENS4CORN ietvaros</title>
-      <link>https://www.arei.lv/lv/raksts/2026-09-02/arei-petniece-maryna-zhylina-pieredzes-apmainas-vizite-neapole-italija-projekta</link>
-      <description>AREI pētniece Maryna Zhylina pieredzes apmaiņas vizītē Neapolē, Itālijā projekta SENS4CORN ietvaros solvitasur Pr, 08/03/2026 - 14:40</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-09-02/arei-petniece-maryna-zhylina-pieredzes-apmainas-vizite-neapole-italija-projekta</guid>
-      <pubDate>Mon, 03 Aug 2026 11:40:45 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
     </item>
     <item>
       <title>[AREI] Projekta BioFromPot trešajā ceturksnī turpināti bioaģentu efektivitātes pētījumi kontrolētos apstākļos un uzsākti lauka izmēģinājumi</title>
@@ -1039,14 +1031,6 @@
       <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
-      <title>[LLKC] Turpina reģionālo dialogu par lauksaimniecības nākotni – 25. septembrī saruna Vidzemē</title>
-      <link>https://llkc.lv/aktualitates/turpina-regionalo-dialogu-par-lauksaimniecibas-nakotni-25-septembri-saruna-vidzeme/</link>
-      <description>25. septembrī Cēsīs Zemkopības ministrija (ZM) sadarbībā ar Latvijas Lauku konsultāciju un izglītības centru (LLKC) aicina uz trešo rudens forumu–dial...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/turpina-regionalo-dialogu-par-lauksaimniecibas-nakotni-25-septembri-saruna-vidzeme/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
-    </item>
-    <item>
       <title>[LLKC] Žurnāla “Latvijas Lopkopis” septembra numurā</title>
       <link>https://llkc.lv/aktualitates/zurnala-latvijas-lopkopis-septembra-numura-2/</link>
       <description>Žurnāla “Latvija Lopkopis” septembra numurā LLKC aptaujas rezultātu apkopojums par to, kā Latvijas lauksaimniekus ietekmēja spēcīgā augusta vētra, kas...</description>
@@ -1326,11 +1310,27 @@
       <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
+      <title>[LLKC] Vasarāju ražas kopumā labas, taču lietavas apgrūtina to novākšanu un ziemāju sēju</title>
+      <link>https://llkc.lv/aktualitates/vasaraju-razas-kopuma-labas-tacu-lietavas-apgrutina-to-novaksanu-un-ziemaju-seju/</link>
+      <description>Latvijas Lauku konsultāciju un izglītības centra (LLKC) Lauksaimniecības daļas augkopības eksperti, apkopojot septembra kultūraugu ražas prognozes, s...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/vasaraju-razas-kopuma-labas-tacu-lietavas-apgrutina-to-novaksanu-un-ziemaju-seju/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[AREI] AGRI-BIOCIRCULAR-HUB projekta pieredzes apmaiņas vizīte Spānijā</title>
+      <link>https://www.arei.lv/lv/raksts/2026-09-29/agri-biocircular-hub-projekta-pieredzes-apmainas-vizite-spanija</link>
+      <description>AGRI-BIOCIRCULAR-HUB projekta pieredzes apmaiņas vizīte Spānijā solvitasur Ot, 09/29/2026 - 13:50</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-09-29/agri-biocircular-hub-projekta-pieredzes-apmainas-vizite-spanija</guid>
+      <pubDate>Tue, 29 Sep 2026 10:50:22 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Kā nodrošināt, lai koka fasāde kalpotu paaudzēm: Fasādes dēļu montāžas zelta likumi un kopšana</title>
       <link>https://www.saimnieks.lv/raksts/ka-nodrosinat-lai-koka-fasade-kalpotu-paaudzem-fasades-delu-montazas-zelta-likumi-un-kopsana</link>
       <description>Mājas ārējais veidols ir ilgtermiņa ieguldījums, kas sargā ēkas nesošās kon...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-nodrosinat-lai-koka-fasade-kalpotu-paaudzem-fasades-delu-montazas-zelta-likumi-un-kopsana</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1338,7 +1338,7 @@
       <link>https://www.saimnieks.lv/raksts/cbam-butiski-maina-mineralmeslu-importa-izmaksas-ko-tas-nozime-latvijas-lauksaimniekiem</link>
       <description>No 2026. gada 1. janvāra Eiropas Savienībā pilnā režīmā darbojas oglekļa ie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/cbam-butiski-maina-mineralmeslu-importa-izmaksas-ko-tas-nozime-latvijas-lauksaimniekiem</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1346,7 +1346,7 @@
       <link>https://www.saimnieks.lv/raksts/ka-apsaimniekot-latvijas-mezus-un-pilnvertigak-izmantot-to-resursus-to-petis-jaunaja-programma-forestroute-lv</link>
       <description>10. septembrī Latvijas Valsts koksnes ķīmijas institūtā (LVKĶI) notika Vals...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-apsaimniekot-latvijas-mezus-un-pilnvertigak-izmantot-to-resursus-to-petis-jaunaja-programma-forestroute-lv</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1354,7 +1354,7 @@
       <link>https://www.saimnieks.lv/raksts/lbtu-petnieki-aicina-latvijas-iedzivotajus-iesaistities-petijuma-par-partikas-izskerdesanu</link>
       <description>Pārtikas izšķērdēšana mūsdienu sabiedrībā ir globāla problēma, kas ietekmē ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lbtu-petnieki-aicina-latvijas-iedzivotajus-iesaistities-petijuma-par-partikas-izskerdesanu</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1362,7 +1362,7 @@
       <link>https://www.saimnieks.lv/raksts/latvija-sak-izvietot-norades-seit-saimnieko-biologiski-pirmo-uzstadis-saimnieciba-kanepites</link>
       <description>Atzīmējot Eiropas Bioloģiskās pārtikas dienu, 23. septembrī Valmieras novad...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvija-sak-izvietot-norades-seit-saimnieko-biologiski-pirmo-uzstadis-saimnieciba-kanepites</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1370,7 +1370,7 @@
       <link>https://www.saimnieks.lv/raksts/no-asakainam-karpam-lidz-dunu-garsai-pieci-miti-par-latvija-audzetam-zivim</link>
       <description>Par Latvijā audzētām zivīm joprojām klīst mīti – dīķu zivis garšo pēc dūņām...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-asakainam-karpam-lidz-dunu-garsai-pieci-miti-par-latvija-audzetam-zivim</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1378,7 +1378,7 @@
       <link>https://www.saimnieks.lv/raksts/stajas-speka-izmainas-koku-cirsanas-kartiba-arpus-meza</link>
       <description>Stājoties spēkā grozījumiem Ministru kabineta noteikumos Nr. 309 “Noteikumi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/stajas-speka-izmainas-koku-cirsanas-kartiba-arpus-meza</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1386,7 +1386,7 @@
       <link>https://www.saimnieks.lv/raksts/galas-parstrades-nozare-latvija-ir-ekonomiski-specigs-pievienotas-vertibas-kedes-posms-un-nodrosina-stabilu-nodarbinatibu</link>
       <description>Gaļas pārstrādes nozare Latvijā ir stabila, produktīva un ekonomiski nozīmī...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/galas-parstrades-nozare-latvija-ir-ekonomiski-specigs-pievienotas-vertibas-kedes-posms-un-nodrosina-stabilu-nodarbinatibu</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1394,7 +1394,7 @@
       <link>https://www.saimnieks.lv/raksts/pieejami-27-miljoni-eiro-altum-atklaj-jaunu-finansejuma-programmu-lauku-uznemejiem-ar-kapitala-atlaidi</link>
       <description>16. septembrī attīstības finanšu institūcija ALTUM sadarbībā ar Zemkopības ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pieejami-27-miljoni-eiro-altum-atklaj-jaunu-finansejuma-programmu-lauku-uznemejiem-ar-kapitala-atlaidi</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1402,7 +1402,7 @@
       <link>https://www.saimnieks.lv/raksts/ipasais-pvn-rezims</link>
       <description>Lauksaimnieki, mājražotāji, amatnieki, viesu izmitinātāji un citi mazie uzņ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ipasais-pvn-rezims</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1410,7 +1410,7 @@
       <link>https://www.saimnieks.lv/raksts/apbalvoti-zemkopibas-ministrijas-konkursa-sejejs-2026-laureati</link>
       <description>19. septembrī, apbalvošanas ceremonijā kultūras centrā “Hanzas perons”, Rīg...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/apbalvoti-zemkopibas-ministrijas-konkursa-sejejs-2026-laureati</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1418,7 +1418,7 @@
       <link>https://www.saimnieks.lv/raksts/latvija-notiek-32-pasaules-dzivnieku-veselibas-organizacijas-woah-eiropas-regionala-konference</link>
       <description>Lai apspriestu dzīvnieku infekcijas slimību pārrobežu izplatību un ar to uz...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvija-notiek-32-pasaules-dzivnieku-veselibas-organizacijas-woah-eiropas-regionala-konference</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1426,7 +1426,7 @@
       <link>https://www.saimnieks.lv/raksts/vietejais-produkts-tava-apdrosinasanas-polise-stundai-x-aizvadits-partikas-pasnodrosinajumam-veltits-forums</link>
       <description>Starptautiskās izstādes “Riga Food 2026” ietvaros aizvadīts Latvijas Lauku ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vietejais-produkts-tava-apdrosinasanas-polise-stundai-x-aizvadits-partikas-pasnodrosinajumam-veltits-forums</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1434,7 +1434,7 @@
       <link>https://www.saimnieks.lv/raksts/uzsakta-valsts-petijumu-programma-klimatnoturigai-un-konkuretspejigai-latvijas-mezu-apsaimniekosanai</link>
       <description>10. septembrī, Latvijas Valsts koksnes ķīmijas institūtā notika Zemkopības ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/uzsakta-valsts-petijumu-programma-klimatnoturigai-un-konkuretspejigai-latvijas-mezu-apsaimniekosanai</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1442,7 +1442,7 @@
       <link>https://www.saimnieks.lv/raksts/sertificeta-sekla-ir-dross-pamats-kvalitativai-razai</link>
       <description>Sēklas izvēle ir viens no būtiskākajiem lēmumiem, plānojot nākamās sezonas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sertificeta-sekla-ir-dross-pamats-kvalitativai-razai</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1450,7 +1450,7 @@
       <link>https://www.saimnieks.lv/raksts/ka-zinot-lad-par-arkartas-apstakliem-un-saglabat-tiesibas-uz-atbalstu</link>
       <description>1. Kā ziņot LAD par ārkārtas apstākļiem un saglabāt tiesības uz atbalstu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-zinot-lad-par-arkartas-apstakliem-un-saglabat-tiesibas-uz-atbalstu</guid>
-      <pubDate>Tue, 29 Sep 2026 05:00:57 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:30:04 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
