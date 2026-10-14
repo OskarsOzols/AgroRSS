@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:49:59 +0000</lastBuildDate>
     <item>
       <title>[VAKS] Bayer Pirmssezonas seminārs Vidzemē!</title>
       <link>https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</link>
@@ -96,14 +96,6 @@
       <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-17-nedela</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
-    </item>
-    <item>
-      <title>[Scandagra] Izpratne par graudu cenu veidošanos: nozares eksperta ieskats</title>
-      <link>https://www.scandagra.lv/aktualitātes/izpratne-par-graudu-cenu-veidosanos-nozares-eksperta-ieskats/</link>
-      <description>Ko lauksaimnieki var darīt, lai aizsargātu savu peļņu.</description>
-      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/izpratne-par-graudu-cenu-veidosanos-nozares-eksperta-ieskats/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[VAKS] Traktordiena 2026.</title>
@@ -1294,11 +1286,59 @@
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
+      <title>[Scandagra] Lauku monitorings: Nevienmērīgs rudens Latvijas laukos</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauku_monitorings_sept-okt/</link>
+      <description>Septembra nokrišņi ietekmējuši rudens lauku darbus Latvijas reģionos. Novērojumi līdz 14.10.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauku_monitorings_sept-okt/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] LBTU Veterinārmedicīnas fakultātē atklāts Klīnisko prasmju un simulāciju centrs</title>
+      <link>https://www.saimnieks.lv/raksts/lbtu-veterinarmedicinas-fakultate-atklats-klinisko-prasmju-un-simulaciju-centrs</link>
+      <description>14.septembrī Latvijas Biozinātņu un tehnoloģiju universitātes (LBTU) Veteri...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lbtu-veterinarmedicinas-fakultate-atklats-klinisko-prasmju-un-simulaciju-centrs</guid>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] ZS "Pintāni" – soli pa solim uz modernu piensaimniecību</title>
+      <link>https://www.saimnieks.lv/raksts/zs-pintani-soli-pa-solim-uz-modernu-piensaimniecibu</link>
+      <description>Raunas pagasta zemnieku saimniecībā Pintāni saimnieko Madara, Dace un Kārl...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zs-pintani-soli-pa-solim-uz-modernu-piensaimniecibu</guid>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] All-on-X: risinājums smaida un dzīves kvalitātes atgūšanai</title>
+      <link>https://www.saimnieks.lv/raksts/all-on-x-risinajums-smaida-un-dzives-kvalitates-atgusanai</link>
+      <description>Viena zoba zaudējums un pilnībā vai gandrīz pilnībā zaudēti zobi ir divas p...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/all-on-x-risinajums-smaida-un-dzives-kvalitates-atgusanai</guid>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Tahogrāfs – ne tikai prasība, bet arī drošības garants</title>
+      <link>https://www.saimnieks.lv/raksts/tahografs-ne-tikai-prasiba-bet-ari-drosibas-garants</link>
+      <description>Tahogrāfs bieži tiek uztverts kā kontroles ierīce, kuras izmantošanu nosaka...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/tahografs-ne-tikai-prasiba-bet-ari-drosibas-garants</guid>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] STEYR PLUS: universāls traktors mūsdienīgas saimniecības vajadzībām</title>
+      <link>https://www.saimnieks.lv/raksts/steyr-plus-universals-traktors-musdienigas-saimniecibas-vajadzibam</link>
+      <description>STEYR PLUS ir daudzpusīga traktoru sērija jauktā tipa un lopkopības saimnie...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/steyr-plus-universals-traktors-musdienigas-saimniecibas-vajadzibam</guid>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Klimatam draudzīgi var būt ekonomiski izdevīgi</title>
       <link>https://www.saimnieks.lv/raksts/klimatam-draudzigi-var-but-ekonomiski-izdevigi</link>
       <description>Nereti, runājot par klimata pārmaiņām un lauksaimniecību, saruna sākas ar p...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/klimatam-draudzigi-var-but-ekonomiski-izdevigi</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1306,7 +1346,7 @@
       <link>https://www.saimnieks.lv/raksts/augsnes-veseliba-ilgtermina-ieguldijums-saimniecibas-nakotne</link>
       <description>Augsnes veselība ir pamats ilgtspējīgai un ekonomiski efektīvai lauksaimnie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augsnes-veseliba-ilgtermina-ieguldijums-saimniecibas-nakotne</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1314,7 +1354,7 @@
       <link>https://www.saimnieks.lv/raksts/jelgavas-ziemas-kiploks-balsta-inzeniera-pieredze-un-gimenes-speks</link>
       <description>Zemnieku saimniecība Krastiņi Jelgavas novadā ir spilgts piemērs tam, kā, m...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jelgavas-ziemas-kiploks-balsta-inzeniera-pieredze-un-gimenes-speks</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1322,7 +1362,7 @@
       <link>https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-oktobrim-2026</link>
       <description>Oktobrī lauksaimnieki var nedaudz atvilkt elpu, jo lielie rudens darbi ir j...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kulturaugu-slimibu-un-kaiteklu-prognoze-oktobrim-2026</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1330,7 +1370,7 @@
       <link>https://www.saimnieks.lv/raksts/varpu-fuzarioze-tas-ietekme-uz-razu-un-profilakse</link>
       <description>Aizvadītās vasaras siltais un mitrais laiks daudzviet radīja labvēlīgus aps...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/varpu-fuzarioze-tas-ietekme-uz-razu-un-profilakse</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1338,7 +1378,7 @@
       <link>https://www.saimnieks.lv/raksts/meslojums-no-atkritumiem</link>
       <description>Viens no pēdējo gadu lauksaimnieku lielākajiem izaicinājumiem – strauji aug...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/meslojums-no-atkritumiem</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1346,7 +1386,7 @@
       <link>https://www.saimnieks.lv/raksts/pieredze-stabilitate-un-talredziga-pieeja-lauksaimnieciba</link>
       <description>Žurnāla Saimnieks LV oktobra numurā aicinām uz sarunu Rapool Baltic reģionā...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pieredze-stabilitate-un-talredziga-pieeja-lauksaimnieciba</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1354,7 +1394,7 @@
       <link>https://www.saimnieks.lv/raksts/apsveicam-zemkopibas-ministrijas-konkursa-sejejs-2026-laureatus</link>
       <description>19. septembrī apbalvošanas ceremonijā kultūras centrā Hanzas perons, Rīgā, ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/apsveicam-zemkopibas-ministrijas-konkursa-sejejs-2026-laureatus</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1362,7 +1402,7 @@
       <link>https://www.saimnieks.lv/raksts/ka-pasargat-ziemaju-sejumus-neparedzamos-klimata-apstaklos</link>
       <description>Latvijas lauksaimniekiem pielāgošanās mainīgiem apstākļiem vienmēr bijusi b...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ka-pasargat-ziemaju-sejumus-neparedzamos-klimata-apstaklos</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1370,7 +1410,7 @@
       <link>https://www.saimnieks.lv/raksts/par-kadu-periodu-darbiniekam-japieskir-atvalinajums</link>
       <description>Darba devēju un personāla speciālistu viens no biežāk uzdotajiem jautājumie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/par-kadu-periodu-darbiniekam-japieskir-atvalinajums</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1378,47 +1418,7 @@
       <link>https://www.saimnieks.lv/raksts/sia-amber-rose-tris-nozaru-sinergija-graudkopiba-lopkopiba-un-viesmiliba</link>
       <description>Limbažu novada Liepupes pagastā saimnieko Ivars Roze kopā ar dzīvesbiedri E...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sia-amber-rose-tris-nozaru-sinergija-graudkopiba-lopkopiba-un-viesmiliba</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Dzelzs rezerves un enerģija: ko pārbaudīt analīzēs un likt uz šķīvja?</title>
-      <link>https://www.saimnieks.lv/raksts/dzelzs-rezerves-un-energija-ko-parbaudit-analizes-un-likt-uz-skivja</link>
-      <description>Nogurums, enerģijas trūkums, izmaiņas matu, ādas un nagu stāvoklī – šīs paz...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dzelzs-rezerves-un-energija-ko-parbaudit-analizes-un-likt-uz-skivja</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] VARAM plāno piešķirt 470 000 eiro par īpaši aizsargājamo nemedījamo sugu dzīvnieku nodarītajiem postījumiem</title>
-      <link>https://www.saimnieks.lv/raksts/varam-plano-pieskirt-470-000-eiro-par-ipasi-aizsargajamo-nemedijamo-sugu-dzivnieku-nodaritajiem-postijumiem</link>
-      <description>Viedās administrācijas un reģionālās attīstības ministrijai plāno piešķirt ...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/varam-plano-pieskirt-470-000-eiro-par-ipasi-aizsargajamo-nemedijamo-sugu-dzivnieku-nodaritajiem-postijumiem</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Stāsti, kas iedvesmo darīt - Gulbenē uzņēmēji dalīsies savā pieredzē</title>
-      <link>https://www.saimnieks.lv/raksts/stasti-kas-iedvesmo-darit-gulbene-uznemeji-dalisies-sava-pieredze</link>
-      <description>14. oktobrī plkst. 14.00 Gulbenē, Ozolu ielā 2a, notiks uzņēmēju pieredzes ...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/stasti-kas-iedvesmo-darit-gulbene-uznemeji-dalisies-sava-pieredze</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Valdība atbalsta Latvijas lauksaimniecības izaugsmes plānu līdz 2036. gadam</title>
-      <link>https://www.saimnieks.lv/raksts/valdiba-atbalsta-latvijas-lauksaimniecibas-izaugsmes-planu-lidz-2036-gadam</link>
-      <description>Valdība otrdien atbalstīja Latvijas lauksaimniecības izaugsmes plānu 2026.-...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/valdiba-atbalsta-latvijas-lauksaimniecibas-izaugsmes-planu-lidz-2036-gadam</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Tagad ikviens var pieteikties BTSF mācībām</title>
-      <link>https://www.saimnieks.lv/raksts/tagad-ikviens-var-pieteikties-btsf-macibam</link>
-      <description>Eiropas Komisijas apmācību programma “Labāka apmācība nekaitīgai pārtikai” ...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/tagad-ikviens-var-pieteikties-btsf-macibam</guid>
-      <pubDate>Wed, 14 Oct 2026 11:31:19 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 16:49:59 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
