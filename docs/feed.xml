@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:45:23 +0000</lastBuildDate>
     <item>
       <title>[VAKS] Bayer Pirmssezonas seminārs Vidzemē!</title>
       <link>https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</link>
@@ -96,14 +96,6 @@
       <guid isPermaLink="true">https://www.vaks.lv/traktordiena-2026/</guid>
       <pubDate>Thu, 30 Apr 2026 07:55:44 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
-    </item>
-    <item>
-      <title>[Scandagra] Kam pievērst uzmanību graudaugu sējumos: praksē pārbaudīti padomi</title>
-      <link>https://www.scandagra.lv/aktualitātes/kam-pieverst-uzmanibu-graudaugu-sejumos-prakse-parbauditi-padomi/</link>
-      <description>Lapu slimības ir viena no biežāk sastopamajām problēmām lauksaimniecībā, kas var būtiski ietekmēt gan ražas kvalitāti, gan saimniecības ekonomiskos rezultātus.</description>
-      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/kam-pieverst-uzmanibu-graudaugu-sejumos-prakse-parbauditi-padomi/</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[VAKS] Aicinām uz VAKS Lauku dienu!</title>
@@ -511,14 +503,6 @@
       <source url="https://www.facebook.com/eAgronomLatvija/">eAgronom Latvija</source>
     </item>
     <item>
-      <title>[AREI] AGRI-BIOCIRCULAR-HUB projekta pieredzes apmaiņas vizīte Spānijā</title>
-      <link>https://www.arei.lv/lv/raksts/2026-09-29/agri-biocircular-hub-projekta-pieredzes-apmainas-vizite-spanija</link>
-      <description>AGRI-BIOCIRCULAR-HUB projekta pieredzes apmaiņas vizīte Spānijā solvitasur Ot, 09/29/2026 - 13:50</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-09-29/agri-biocircular-hub-projekta-pieredzes-apmainas-vizite-spanija</guid>
-      <pubDate>Tue, 29 Sep 2026 10:50:22 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
       <title>[AREI] Zinātnieku naktī 2026 Priekuļos iepazinām augsnes pasauli no redzamā līdz mikroskopiskajam</title>
       <link>https://www.arei.lv/lv/raksts/2026-09-30/zinatnieku-nakti-2026-priekulos-iepazinam-augsnes-pasauli-no-redzama-lidz</link>
       <description>Zinātnieku naktī 2026 Priekuļos iepazinām augsnes pasauli no redzamā līdz mikroskopiskajam solvitasur Tr, 09/30/2026 - 15:05</description>
@@ -858,14 +842,6 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <guid isPermaLink="true">https://www.facebook.com/reel/2590718834726833/</guid>
       <pubDate>Fri, 16 Oct 2026 15:16:14 +0000</pubDate>
       <source url="https://www.facebook.com/scandagralatvia/">Scandagra (FB)</source>
-    </item>
-    <item>
-      <title>[LLKC] AKIS seminārs – zināšanas, inovācijas un praktiski risinājumi ilgtspējīgai lauksaimniecībai</title>
-      <link>https://llkc.lv/aktualitates/akis-seminars-zinasanas-inovacijas-un-praktiski-risinajumi-ilgtspejigai-lauksaimniecibai/</link>
-      <description>LLKC Mācību un demonstrējumu centrā “Lielozoli” 13. oktobrī jau otro gadu pēc kārtas norisinājās kopīgs triju projektu – GOOD, Climate Smart Advisors ...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/akis-seminars-zinasanas-inovacijas-un-praktiski-risinajumi-ilgtspejigai-lauksaimniecibai/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[LLKC] Kā bioloģiskās piensaimniecības Nīderlandē pielāgojas klimata pārmaiņām?</title>
@@ -1296,11 +1272,35 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
+      <title>[Scandagra] Lauku apskats oktobra nogalē</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauku-apskats-oktobra-nogale/</link>
+      <description>Novērojumi līdz 28.10.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauku-apskats-oktobra-nogale/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
+      <title>[LLKC] LLKC plaši pārstāvēts starptautiskajā klimata konferencē Atēnās</title>
+      <link>https://llkc.lv/aktualitates/llkc-plasi-parstavets-starptautiskaja-klimata-konference-atenas/</link>
+      <description>Atēnās, Grieķijas Lauksaimniecības universitātē, no 27. līdz 29.oktobrim norisinās starptautiska triju Horizon Europe projektu kopīgi rīkota klimata a...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/llkc-plasi-parstavets-starptautiskaja-klimata-konference-atenas/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[AREI] Selekcijas programmas vadītāja no Oregonas viesojas AREI Priekuļu pētniecības centrā</title>
+      <link>https://www.arei.lv/lv/raksts/2026-10-29/selekcijas-programmas-vaditaja-no-oregonas-viesojas-arei-priekulu-petniecibas</link>
+      <description>Selekcijas programmas vadītāja no Oregonas viesojas AREI Priekuļu pētniecības centrā kristinepol Ce, 10/29/2026 - 15:27</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-10-29/selekcijas-programmas-vaditaja-no-oregonas-viesojas-arei-priekulu-petniecibas</guid>
+      <pubDate>Thu, 29 Oct 2026 13:27:28 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Vietējie audzētāji meklē tuvākos pircējus</title>
       <link>https://www.saimnieks.lv/raksts/vietejie-audzetaji-mekle-tuvakos-pircejus</link>
       <description>Novākt labu dārzeņu un ogu ražu vēl nenozīmē, ka izdosies to izdevīgi pārdo...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vietejie-audzetaji-mekle-tuvakos-pircejus</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1308,7 +1308,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/liellopu-audzetajiem-atvieglos-es-atmezosanas-regulas-prasibu-izpildi</link>
       <description>Lai mazinātu administratīvo slogu liellopu audzētājiem un atvieglotu ES Atm...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/liellopu-audzetajiem-atvieglos-es-atmezosanas-regulas-prasibu-izpildi</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1316,7 +1316,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/aizvadita-lauka-diena-starpkulturas-un-augsnes-ielabosana-no-sejas-lidz-precizai-saimniekosanai</link>
       <description>Ogres novada Taurupes pagasta SIA “Bebruciems” sadarbībā ar LBTU un Zemniek...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aizvadita-lauka-diena-starpkulturas-un-augsnes-ielabosana-no-sejas-lidz-precizai-saimniekosanai</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1324,7 +1324,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/ieguldit-vai-nogaidit-latvijas-mazo-un-videjo-uznemumu-izaugsmes-dilemma</link>
       <description>Latvijas mazie un vidējie uzņēmumi (MVU) veido teju 70 % no nefinanšu uzņēm...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ieguldit-vai-nogaidit-latvijas-mazo-un-videjo-uznemumu-izaugsmes-dilemma</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1332,7 +1332,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/pirmo-reizi-latvija-liellopiem-konstatets-infekciozais-kataralais-drudzis-jeb-zilas-meles-slimiba</link>
       <description>Nelielā saimniecībā Dienvidkurzemes novadā konstatēta liellopu saslimšana a...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pirmo-reizi-latvija-liellopiem-konstatets-infekciozais-kataralais-drudzis-jeb-zilas-meles-slimiba</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1340,7 +1340,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/faktori-kas-ietekme-seg-emisijas-biologiskaja-galas-lopkopiba</link>
       <description>Lauksaimniecības politiku arvien vairāk ietekmē Eiropas Savienībā noteiktai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/faktori-kas-ietekme-seg-emisijas-biologiskaja-galas-lopkopiba</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1348,7 +1348,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/aicinam-uz-diskusiju-par-meslosanas-lidzeklu-aprites-regulejuma-pilnveidosanu</link>
       <description>Valsts augu aizsardzības dienests (VAAD) aicina mēslošanas līdzekļu ražotāj...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-uz-diskusiju-par-meslosanas-lidzeklu-aprites-regulejuma-pilnveidosanu</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1356,7 +1356,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/berni-skolas-sanem-pienu-auglus-darzenus-sogad-ari-medu</link>
       <description>Šajā mācību gadā savu darbu aktīvi turpina programma “Piens un augļi skolai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/berni-skolas-sanem-pienu-auglus-darzenus-sogad-ari-medu</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1364,7 +1364,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/lapsta-un-viedtalrunis-uz-lauka-ka-ogres-novada-lauksaimnieki-kluva-par-augsnes-detektiviem</link>
       <description>Latvijas Lauku konsultāciju un izglītības centrs (LLKC) sadarbībā ar Latvij...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lapsta-un-viedtalrunis-uz-lauka-ka-ogres-novada-lauksaimnieki-kluva-par-augsnes-detektiviem</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1372,7 +1372,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/stiprina-lopkopibas-nozares-noturibu-veicinot-atbildigu-antimikrobialo-lidzeklu-lietosanu</link>
       <description>Lai stiprinātu Latvijas lopkopības nozares noturību un mazinātu antimikrobi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/stiprina-lopkopibas-nozares-noturibu-veicinot-atbildigu-antimikrobialo-lidzeklu-lietosanu</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1380,7 +1380,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/privatpersonas-un-uznemumi-turpina-aktivi-izmantot-finansejuma-iespejas</link>
       <description>2026. gada pirmajos deviņos mēnešos SEB bankā turpinājusies stabila kreditē...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/privatpersonas-un-uznemumi-turpina-aktivi-izmantot-finansejuma-iespejas</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1388,7 +1388,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/faktori-kas-ietekme-seg-emisijas-biologiskaja-galas-lopkopiba</link>
       <description>Lauksaimniecības politiku arvien vairāk ietekmē Eiropas Savienībā noteiktai...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/faktori-kas-ietekme-seg-emisijas-biologiskaja-galas-lopkopiba</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1396,7 +1396,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/jauna-timekla-vietne-piekrastes-zivju-un-zvejnieka-aroda-popularizesanai</link>
       <description>Zemkopības ministrijas atbalstītā projekta “Piekrastes zivis” ietvaros izve...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/jauna-timekla-vietne-piekrastes-zivju-un-zvejnieka-aroda-popularizesanai</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1404,7 +1404,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/aicinam-registreties-mezsaimniecibas-konferencei-2026</link>
       <description>2026. gada 26. novembrī plkst. 10.00 Salaspils koncertzālē (Skolas ielā 2, ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-registreties-mezsaimniecibas-konferencei-2026</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1412,7 +1412,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/zs-rigmali-viena-elpa-zemes-rupes-un-dabas-skaistums</link>
       <description>Gleznainais Talsu novada Abavas pagasts un Sabiles pilsēta plaši pazīstami ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zs-rigmali-viena-elpa-zemes-rupes-un-dabas-skaistums</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1420,7 +1420,7 @@ VH Latvija zaudējumu izvērtēšanas eksperti turpina pilnveidot…</title>
       <link>https://www.saimnieks.lv/raksts/vai-pats-neapzinati-samazini-savu-nakotnes-pensiju</link>
       <description>Pensija var šķist tāls nākotnes jautājums, tāpēc daudzi par to sāk domāt ti...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/vai-pats-neapzinati-samazini-savu-nakotnes-pensiju</guid>
-      <pubDate>Thu, 29 Oct 2026 09:38:08 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:45:23 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
