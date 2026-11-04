@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Tue, 03 Nov 2026 21:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:00:19 +0000</lastBuildDate>
     <item>
       <title>[VAKS] Bayer Pirmssezonas seminārs Vidzemē!</title>
       <link>https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</link>
@@ -122,6 +122,14 @@
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
     </item>
     <item>
+      <title>[Scandagra] Minerālmēslu tirgus apskats un lauku monitorings</title>
+      <link>https://www.scandagra.lv/aktualitātes/mineralmeslu-tirgus-apskats-un-lauku-monitorings-2/</link>
+      <description>Tirgus tendences un lauku monitorings uz 05.06.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/mineralmeslu-tirgus-apskats-un-lauku-monitorings-2/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
       <title>[Linas Agro] Situācija uz lauka - agronoma redzējums. 24.nedēļa</title>
       <link>https://www.linasagro.lv/agro-zinas/situacija-uz-lauka-agronoma-redzejums-24-nedela</link>
       <description>Svarīgākie darbi šobrīd ziemāju sējumos ir fungicīdu un mikroelementu smidzinājumi, īpaši tajos laukos, kuros līdz šim sezonas brīdim nav tikuši lietoti fungicīdi, lai pasargātu karoglapu un izdotos to noturēt pēc iespējas ilgāk zaļu, lai nesamazinātu gaidāmās ražas potenciālu. Fungicīdu izvēle ir atkarīga no slimību izplatības kviešos, kā arī no tā, kāds fungicīds jau lietots šajā sezonā. Ja šī ziemājos būs jau otrā fungicīdu apstrāde, tad arī ieteicams izvēlēties atšķirīgus fungicīdus, kā arī </description>
@@ -138,6 +146,14 @@
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
+      <title>[Scandagra] Valmieras graudu punkta atklāšana</title>
+      <link>https://www.scandagra.lv/aktualitātes/valmieras-graudu-punkta-atklasana/</link>
+      <description>Uzzini vairāk un piesaki dalību! 👇</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/valmieras-graudu-punkta-atklasana/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
       <title>[VAKS] Graudu aktualitātes – Jūlijs 2026</title>
       <link>https://www.vaks.lv/graudu-aktualitates-julijs-2026/</link>
       <description>The post Graudu aktualitātes – Jūlijs 2026 appeared first on VAKS .</description>
@@ -146,12 +162,28 @@
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
     </item>
     <item>
+      <title>[Scandagra] Jauns graudu pieņemšanas punkts Valmierā</title>
+      <link>https://www.scandagra.lv/aktualitātes/jauns-graudu-pienemsanas-punkts-valmiera/</link>
+      <description>Paplašinām savu darbību Vidzemē, atklājot jaunu graudu pieņemšanas punktu Valmierā</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/jauns-graudu-pienemsanas-punkts-valmiera/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
       <title>[VAKS] VAAD Ziņu lapa – jūlijs</title>
       <link>https://www.vaks.lv/vaad-zinu-lapa-julijs-2/</link>
       <description>The post VAAD Ziņu lapa – jūlijs appeared first on VAKS .</description>
       <guid isPermaLink="true">https://www.vaks.lv/vaad-zinu-lapa-julijs-2/</guid>
       <pubDate>Mon, 03 Aug 2026 05:16:56 +0000</pubDate>
       <source url="https://www.vaks.lv/jaunumi-un-pasakumi/">VAKS</source>
+    </item>
+    <item>
+      <title>[Scandagra] Valmieras graudu pieņemšanas punkts ir uzsācis graudu pieņemšanu!</title>
+      <link>https://www.scandagra.lv/aktualitātes/valmieras-graudu-pienemsanas-punkts-ir-uzsacis-graudu-pienemsanu/</link>
+      <description>Darba laiks katru dienu 8:00 - 20:00</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/valmieras-graudu-pienemsanas-punkts-ir-uzsacis-graudu-pienemsanu/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[BASF Agricultural Solutions] 🌱 Viendīgļlapju nezāles kļūst par izaicinājumu Nr</title>
@@ -200,6 +232,14 @@
       <guid isPermaLink="true">https://www.linasagro.lv/agro-zinas/lauksaimnieki-arvien-biezak-izvelas-organisko-meslojumu-tas-ir-izdevigs-gan-augsnei-gan-videi</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
+    </item>
+    <item>
+      <title>[Scandagra] Lauku apskats</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauku-apskats/</link>
+      <description>Augusta vidus 2026</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauku-apskats/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[Linas Agro] Kviešu šķirņu maisījumi – aktuāla alternatīva zemniekiem, izvēloties sertificētu sēklu</title>
@@ -306,6 +346,14 @@
       <source url="https://www.linasagro.lv/agro-zinas">Linas Agro</source>
     </item>
     <item>
+      <title>[Scandagra] Lauka apskats</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauka-apskats/</link>
+      <description>Pārmitri lauki, nevienmērīgs ziemas rapsis un ziemāju sējas izaicinājumi. Novērojumi līdz 16.09.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauka-apskats/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
       <title>[BASF Agricultural Solutions] ❓ Kā šoruden izvēlēties pareizo augšanas regulēšanas stratēģiju dažādas attīstības rapša sējumiem</title>
       <link>https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid0ruph9wRha1VaLkGM7gXuA4YDJ3NVxCCn5LConEJa6vGTnBqMcXuempudnoAonqAul</link>
       <description>❓ Kā šoruden izvēlēties pareizo augšanas regulēšanas stratēģiju dažādas attīstības rapša sējumiem? Šogad rapša attīstība daudzviet ir nevienmērīga pat vienas saimniecības ietvaros. Tāpēc īpaši svarīgi ir izvērtēt sējuma stāvokli un pieņemt lēmumus, kas palīdzēs augiem veiksmīgi pārziemot un saglabāt ražas potenciālu. ✅ Kad ir piemērotākais brīdis augšanas regulēšanai? ✅ Kā pielāgot risinājumu atšķirīgi attīstītiem sējumiem? ✅ Kāpēc augšanas punkta novietojumam ir tik liela nozīme sekmīgai pārz</description>
@@ -328,6 +376,14 @@
       <guid isPermaLink="true">https://www.facebook.com/BASFAgriculturalSolutionsLV/posts/pfbid06DcSuR39nnWmq1ZXN5PrvNz9twHXrSzzTVT41EQprNTvFWYo5RsbXGTJLDjhs8eQl</guid>
       <pubDate>Mon, 21 Sep 2026 05:30:03 +0000</pubDate>
       <source url="https://www.facebook.com/BASFAgriculturalSolutionsLV/">BASF Agricultural Solutions</source>
+    </item>
+    <item>
+      <title>[Scandagra] Kas ir CBAM un kāpēc tas ietekmē mēslojuma cenu?</title>
+      <link>https://www.scandagra.lv/aktualitātes/kas-ir-cbam-un-kapec-tas-ietekme-meslojuma-cenu/</link>
+      <description>Aleksandrs Katiševs par gaidāmām pārmaiņām minerālmēslu tirgū</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/kas-ir-cbam-un-kapec-tas-ietekme-meslojuma-cenu/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[Agerona Latvija] Agerona turpina linu iepirkšanu</title>
@@ -578,6 +634,14 @@
       <guid isPermaLink="true">https://www.facebook.com/reel/1424922619830057/</guid>
       <pubDate>Tue, 13 Oct 2026 14:45:21 +0000</pubDate>
       <source url="https://www.facebook.com/scandagralatvia/">Scandagra (FB)</source>
+    </item>
+    <item>
+      <title>[Scandagra] Lauku monitorings: Nevienmērīgs rudens Latvijas laukos</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauku_monitorings_sept-okt/</link>
+      <description>Septembra nokrišņi ietekmējuši rudens lauku darbus Latvijas reģionos. Novērojumi līdz 14.10.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauku_monitorings_sept-okt/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
     </item>
     <item>
       <title>[AgTech LV] Precīzāka smidzināšana, mazāks herbicīdu patēriņš un efektīvāka saimniekošana</title>
@@ -1056,6 +1120,14 @@
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
+      <title>[Scandagra] Lauku apskats oktobra nogalē</title>
+      <link>https://www.scandagra.lv/aktualitātes/lauku-apskats-oktobra-nogale/</link>
+      <description>Novērojumi līdz 28.10.2026.</description>
+      <guid isPermaLink="true">https://www.scandagra.lv/aktualitātes/lauku-apskats-oktobra-nogale/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.scandagra.lv/aktualit%C4%81tes/">Scandagra</source>
+    </item>
+    <item>
       <title>[LLKC] LLKC plaši pārstāvēts starptautiskajā klimata konferencē Atēnās</title>
       <link>https://llkc.lv/aktualitates/llkc-plasi-parstavets-starptautiskaja-klimata-konference-atenas/</link>
       <description>Atēnās, Grieķijas Lauksaimniecības universitātē, no 27. līdz 29.oktobrim norisinās starptautiska triju Horizon Europe projektu kopīgi rīkota klimata a...</description>
@@ -1210,7 +1282,7 @@
       <link>https://www.saimnieks.lv/raksts/augsnes-veseliba-un-sogad-gutas-macibas</link>
       <description>Lai pārrunātu aizvadītās sezonas reģionālos izaicinājumus, atsevišķu kultūr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/augsnes-veseliba-un-sogad-gutas-macibas</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1218,7 +1290,7 @@
       <link>https://www.saimnieks.lv/raksts/ierauga-raudzesana-ilgtspejigas-tehnologijas-pamats-maizes-razosana</link>
       <description>Līdzās mūsdienu intensīvajām maizes ražošanas tehnoloģijām Latvijā tradicio...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ierauga-raudzesana-ilgtspejigas-tehnologijas-pamats-maizes-razosana</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1226,7 +1298,7 @@
       <link>https://www.saimnieks.lv/raksts/pec-parmitra-rudens-japlano-citads-pavasaris</link>
       <description>Ilgstošās rudens lietavas ir mainījušas gan šīs sezonas darbu gaitu, gan nā...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pec-parmitra-rudens-japlano-citads-pavasaris</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1234,7 +1306,7 @@
       <link>https://www.saimnieks.lv/raksts/mainigie-laikapstakli-prasa-pardomatu-planosanu-un-ricibu</link>
       <description>Aizvadītā lauksaimniecības sezona Zemgales pusē iezīmējas ar ražīgiem ziemā...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/mainigie-laikapstakli-prasa-pardomatu-planosanu-un-ricibu</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1242,7 +1314,7 @@
       <link>https://www.saimnieks.lv/raksts/15-gadi-15-pieredzes</link>
       <description>Jau vairākus gadu desmitus esmu cieši saistīts ar kreditēšanas nozari un īp...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/15-gadi-15-pieredzes</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1250,7 +1322,7 @@
       <link>https://www.saimnieks.lv/raksts/klients-pieprasa-dzest-personas-datus-ka-rikoties</link>
       <description>Vispārīgā datu aizsardzības regula piešķir fiziskām personām jeb datu subje...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/klients-pieprasa-dzest-personas-datus-ka-rikoties</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1258,7 +1330,7 @@
       <link>https://www.saimnieks.lv/raksts/sia-tiravoti-par-kudrzemju-atjaunosanu-un-co2-kreditu-programmu</link>
       <description>Daudzām saimniecībām galvassāpes rada mitras kūdras pļavas, ko grūti izmant...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sia-tiravoti-par-kudrzemju-atjaunosanu-un-co2-kreditu-programmu</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1266,7 +1338,7 @@
       <link>https://www.saimnieks.lv/raksts/no-muza-darba-lidz-jaunai-izaugsmei-ka-sagatavot-biznesu-paaudzu-mainai</link>
       <description>Kad uzņēmumā ieguldīts mūža darbs, tā nodošana nākamajai paaudzei ir kas va...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/no-muza-darba-lidz-jaunai-izaugsmei-ka-sagatavot-biznesu-paaudzu-mainai</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1274,7 +1346,7 @@
       <link>https://www.saimnieks.lv/raksts/gudra-izaugsme-tehnologiju-speks-un-gimenes-mantojums-sia-vs-dairy</link>
       <description>Aizkraukles novada Bebru pagastā bāzētais uzņēmums SIA VS Dairy ir viens no...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/gudra-izaugsme-tehnologiju-speks-un-gimenes-mantojums-sia-vs-dairy</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1282,7 +1354,7 @@
       <link>https://www.saimnieks.lv/raksts/pampalu-zemes-saimnieks-janis-valko-1950-2026</link>
       <description>27. oktobrī 76 gadu vecumā mūžībā aizgāja Jānis Vaļko, ilggadējais kolhoza ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/pampalu-zemes-saimnieks-janis-valko-1950-2026</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1290,7 +1362,7 @@
       <link>https://www.saimnieks.lv/raksts/olegs-andrejevs-ecb-ietur-pauzi-vai-decembri-procentu-likmes-atkal-kaps</link>
       <description>Eiropas Centrālā banka (ECB) 29. oktobrī atstāja galvenās procentu likmes n...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/olegs-andrejevs-ecb-ietur-pauzi-vai-decembri-procentu-likmes-atkal-kaps</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1298,7 +1370,7 @@
       <link>https://www.saimnieks.lv/raksts/baltijas-korporativas-parvaldibas-instituts-izstradajis-parvaldibas-rokasgramatu-uznemumiem</link>
       <description>Baltijas Korporatīvās pārvaldības institūts (BICG) izstrādājis praktisku pā...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/baltijas-korporativas-parvaldibas-instituts-izstradajis-parvaldibas-rokasgramatu-uznemumiem</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1306,7 +1378,7 @@
       <link>https://www.saimnieks.lv/raksts/latvijas-banka-uznemumu-neapmierinatais-pieprasijums-pec-finansejuma-varetu-sasniegt-53-miljardus-eiro</link>
       <description>Latvijas uzņēmumu neapmierinātais pieprasījums pēc ārējā finansējuma jeb st...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-banka-uznemumu-neapmierinatais-pieprasijums-pec-finansejuma-varetu-sasniegt-53-miljardus-eiro</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1314,7 +1386,7 @@
       <link>https://www.saimnieks.lv/raksts/lauksaimniecibas-ministri-vienojas-par-kopejas-lauksaimniecibas-politikas-galvenajiem-atbalsta-pieskirsanas-nosacijumiem-pec-2027-gada</link>
       <description>26. oktobrī, Eiropas Savienības (ES) Lauksaimniecības un zivsaimniecības mi...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimniecibas-ministri-vienojas-par-kopejas-lauksaimniecibas-politikas-galvenajiem-atbalsta-pieskirsanas-nosacijumiem-pec-2027-gada</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1322,7 +1394,7 @@
       <link>https://www.saimnieks.lv/raksts/llkc-plasi-parstavets-starptautiskaja-klimata-konference-atenas</link>
       <description>Atēnās, Grieķijas Lauksaimniecības universitātē, no 27. līdz 29.oktobrim no...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/llkc-plasi-parstavets-starptautiskaja-klimata-konference-atenas</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1330,7 +1402,7 @@
       <link>https://www.saimnieks.lv/raksts/cetri-ieteikumi-uznemumiem-ka-pasargat-klientus-no-krapniekiem</link>
       <description>Digitālajā vidē iedzīvotāji arvien biežāk sastopas ar krāpniekiem, kuri uzd...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/cetri-ieteikumi-uznemumiem-ka-pasargat-klientus-no-krapniekiem</guid>
-      <pubDate>Tue, 03 Nov 2026 21:55:23 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 02:00:19 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
