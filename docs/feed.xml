@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:31:03 +0000</lastBuildDate>
     <item>
       <title>[VAKS] Bayer Pirmssezonas seminārs Vidzemē!</title>
       <link>https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</link>
@@ -544,22 +544,6 @@
       <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
-      <title>[AREI] Projekta SENS4CORN pieredzes apmaiņa Neapolē</title>
-      <link>https://www.arei.lv/lv/raksts/2026-10-07/projekta-sens4corn-pieredzes-apmaina-neapole</link>
-      <description>Projekta SENS4CORN pieredzes apmaiņa Neapolē solvitasur Tr, 10/07/2026 - 09:48</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-10-07/projekta-sens4corn-pieredzes-apmaina-neapole</guid>
-      <pubDate>Wed, 07 Oct 2026 06:48:27 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
-      <title>[AREI] SENS4CORN projekta ietvaros AREI pētniece pilnveido zināšanas ZnO nanostruktūru un kompozītmateriālu izpētē</title>
-      <link>https://www.arei.lv/lv/raksts/2026-10-07/sens4corn-projekta-ietvaros-arei-petniece-pilnveido-zinasanas-zno-nanostrukturu</link>
-      <description>SENS4CORN projekta ietvaros AREI pētniece pilnveido zināšanas ZnO nanostruktūru un kompozītmateriālu izpētē solvitasur Tr, 10/07/2026 - 13:04</description>
-      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-10-07/sens4corn-projekta-ietvaros-arei-petniece-pilnveido-zinasanas-zno-nanostrukturu</guid>
-      <pubDate>Wed, 07 Oct 2026 10:04:28 +0000</pubDate>
-      <source url="https://www.arei.lv/lv/zinas">AREI</source>
-    </item>
-    <item>
       <title>[LPKS VAKS] 🚢🌾 18 000 tonnu VAKS graudu ceļā uz Īriju</title>
       <link>https://www.facebook.com/LPKSVAKS/posts/pfbid0BDtp93gWkbsaFWDhsDgCMK1CsmUFZApDN1uJ2PRUzMkpjGi4cZwcVo8NrCEwp3pnl</link>
       <description>🚢🌾 18 000 tonnu VAKS graudu ceļā uz Īriju! 🇮🇪 Šobrīd norit kuģa kraušana ar lopbarības kviešiem, un pēc tam tas dosies ceļā uz Īriju. KOPĀ DARĀM VAIRĀK! #vakskooperativs #kopādarāmvairāk #lauksaimniecība</description>
@@ -779,14 +763,6 @@
       <guid isPermaLink="true">https://www.facebook.com/reel/1404133521806627/</guid>
       <pubDate>Tue, 20 Oct 2026 15:30:26 +0000</pubDate>
       <source url="https://www.facebook.com/AgTechLV/">AgTech LV</source>
-    </item>
-    <item>
-      <title>[LLKC] Aicinām reģistrēties Mežsaimniecības konferencei 2026!</title>
-      <link>https://llkc.lv/aktualitates/aicinam-registreties-mezsaimniecibas-konferencei-2026/</link>
-      <description>2026. gada 26. novembrī plkst. 10.00 Salaspils koncertzālē (Skolas ielā 2, Salaspilī) norisināsies ikgadējā Mežsaimniecības konference meža īpašniekie...</description>
-      <guid isPermaLink="true">https://llkc.lv/aktualitates/aicinam-registreties-mezsaimniecibas-konferencei-2026/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://llkc.lv/aktualitates/">LLKC</source>
     </item>
     <item>
       <title>[Agrochema] Lapas krīt – laiks ņemt grābekli rokās</title>
@@ -1360,11 +1336,51 @@
       <source url="https://www.facebook.com/scandagralatvia/">Scandagra (FB)</source>
     </item>
     <item>
+      <title>[LLKC] Salaspilī notiks ikgadējā Mežsaimniecības konference par nozares aktualitātēm un atbalsta iespējām meža īpašniekiem</title>
+      <link>https://llkc.lv/aktualitates/salaspili-notiks-ikgadeja-mezsaimniecibas-konference-par-nozares-aktualitatem-un-atbalsta-iespejam-meza-ipasniekiem/</link>
+      <description>26. novembrī Salaspilī pulcēsies meža īpašnieki un mežsaimniecības nozares pārstāvji no visas Latvijas, lai ikgadējā Mežsaimniecības konferencē apspri...</description>
+      <guid isPermaLink="true">https://llkc.lv/aktualitates/salaspili-notiks-ikgadeja-mezsaimniecibas-konference-par-nozares-aktualitatem-un-atbalsta-iespejam-meza-ipasniekiem/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://llkc.lv/aktualitates/">LLKC</source>
+    </item>
+    <item>
+      <title>[AREI] AREI pētnieces Pasaules kartupeļu kongresā Kenijā prezentē pētījumus par ilgtspējīgu audzēšanu un kartupeļu kvalitāti</title>
+      <link>https://www.arei.lv/lv/raksts/2026-11-06/arei-petnieces-pasaules-kartupelu-kongresa-kenija-prezente-petijumus-par</link>
+      <description>AREI pētnieces Pasaules kartupeļu kongresā Kenijā prezentē pētījumus par ilgtspējīgu audzēšanu un kartupeļu kvalitāti kristinepol Pk, 11/06/2026 - 09:43</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-11-06/arei-petnieces-pasaules-kartupelu-kongresa-kenija-prezente-petijumus-par</guid>
+      <pubDate>Fri, 06 Nov 2026 07:43:36 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
+      <title>[AREI] Dižstendes pētniecības centrs saņem Latvijas Lauksaimniecības un meža zinātņu akadēmijas atzinības rakstu</title>
+      <link>https://www.arei.lv/lv/raksts/2026-11-06/dizstendes-petniecibas-centrs-sanem-latvijas-lauksaimniecibas-un-meza-zinatnu</link>
+      <description>Dižstendes pētniecības centrs saņem Latvijas Lauksaimniecības un meža zinātņu akadēmijas atzinības rakstu kristinepol Pk, 11/06/2026 - 14:45</description>
+      <guid isPermaLink="true">https://www.arei.lv/lv/raksts/2026-11-06/dizstendes-petniecibas-centrs-sanem-latvijas-lauksaimniecibas-un-meza-zinatnu</guid>
+      <pubDate>Fri, 06 Nov 2026 12:45:50 +0000</pubDate>
+      <source url="https://www.arei.lv/lv/zinas">AREI</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Latvijas amatniecības siera ražotāji startē Pasaules siera konkursā</title>
+      <link>https://www.saimnieks.lv/raksts/latvijas-amatniecibas-siera-razotaji-starte-pasaules-siera-konkursa</link>
+      <description>Novembra pirmajās dienās uz Kordovu Spānijā tika nosūtīti pašmāju ražojuma ...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-amatniecibas-siera-razotaji-starte-pasaules-siera-konkursa</guid>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] ASV vēlēšanas mazina riskus Baltijai, taču tuvākie mēneši var būt svārstīgi</title>
+      <link>https://www.saimnieks.lv/raksts/asv-velesanas-mazina-riskus-baltijai-tacu-tuvakie-menesi-var-but-svarstigi</link>
+      <description>Demokrātu uzvara ASV Kongresa vidustermiņa vēlēšanās varētu mazināt ilgterm...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/asv-velesanas-mazina-riskus-baltijai-tacu-tuvakie-menesi-var-but-svarstigi</guid>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
       <title>[Saimnieks.lv] Kocēnos diskutēs par kooperācijas iespējām publiskajos pārtikas iepirkumos</title>
       <link>https://www.saimnieks.lv/raksts/kocenos-diskutes-par-kooperacijas-iespejam-publiskajos-partikas-iepirkumos</link>
       <description>Kā mazajiem un vidējiem Latvijas pārtikas ražotājiem kļūt konkurētspējīgāki...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/kocenos-diskutes-par-kooperacijas-iespejam-publiskajos-partikas-iepirkumos</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1372,7 +1388,7 @@
       <link>https://www.saimnieks.lv/raksts/sogad-mezaudzes-samazinajusies-mizgrauza-bet-pieaugusi-vetras-postijumi</link>
       <description>Vērtējot 2026. gada trijos ceturkšņos izsniegto sanitāro atzinumu skaitu, V...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/sogad-mezaudzes-samazinajusies-mizgrauza-bet-pieaugusi-vetras-postijumi</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1380,7 +1396,7 @@
       <link>https://www.saimnieks.lv/raksts/anketas-novietnu-infrastruktura-un-kutsmeslu-kratuves-iesniegsana-joprojam-ir-obligata</link>
       <description>Lauku atbalsta dienests atgādina lauksaimniecības dzīvnieku īpašniekiem, ka...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/anketas-novietnu-infrastruktura-un-kutsmeslu-kratuves-iesniegsana-joprojam-ir-obligata</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1388,7 +1404,7 @@
       <link>https://www.saimnieks.lv/raksts/macibas-par-videi-draudzigu-lopkopibu-un-udens-resursu-ilgtspejigu-apsaimniekosanu</link>
       <description>15. oktobrī Jēkabpilī, Latvijas Lauku konsultāciju un izglītības centra (LL...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/macibas-par-videi-draudzigu-lopkopibu-un-udens-resursu-ilgtspejigu-apsaimniekosanu</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1396,7 +1412,7 @@
       <link>https://www.saimnieks.lv/raksts/lidz-15-novembrim-aicinam-lauksaimniekus-zinot-par-2026-gada-razas-zudumiem-un-neiesetajiem-ziemajiem</link>
       <description>Zemkopības ministrija (ZM) aicina lauksaimniekus informēt par nelabvēlīgo l...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lidz-15-novembrim-aicinam-lauksaimniekus-zinot-par-2026-gada-razas-zudumiem-un-neiesetajiem-ziemajiem</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1404,7 +1420,7 @@
       <link>https://www.saimnieks.lv/raksts/izmainas-augu-aizsardzibas-lidzeklu-registra</link>
       <description>Augu aizsardzības līdzekļu reģistrā iekļauti septiņi jauni augu aizsardzība...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izmainas-augu-aizsardzibas-lidzeklu-registra</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1412,7 +1428,7 @@
       <link>https://www.saimnieks.lv/raksts/aluksnes-putnu-ferma-no-roku-darba-lidz-starptautiskam-olu-un-olu-proteina-razotajam</link>
       <description>Šī gada septembrī Latvijā vecākā putnu ferma Alūksnes putnu ferma svinēja s...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aluksnes-putnu-ferma-no-roku-darba-lidz-starptautiskam-olu-un-olu-proteina-razotajam</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1420,7 +1436,7 @@
       <link>https://www.saimnieks.lv/raksts/piena-nozares-strategija-top-divas-dalas-kuts-ar-rupnicu-vel-nav-satikusas</link>
       <description>Vasaras izskaņā uz galda nonāca divi dokumenti. Pirmais ir piecu lapu melnr...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/piena-nozares-strategija-top-divas-dalas-kuts-ar-rupnicu-vel-nav-satikusas</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1428,7 +1444,7 @@
       <link>https://www.saimnieks.lv/raksts/30-gadi-kopa-ar-latvijas-piensaimniekiem</link>
       <description>DeLaval Latvija 30 gadu jubileju atzīmēja, vienkopus pulcējot klientus, sad...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/30-gadi-kopa-ar-latvijas-piensaimniekiem</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1436,7 +1452,7 @@
       <link>https://www.saimnieks.lv/raksts/zs-dobelnieki-briezi-dzivo-saules-panelu-meza</link>
       <description>Iebraucot briežu dārzā Dobelnieki Ogres novadā, cerētā staltbriežu bara vie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zs-dobelnieki-briezi-dzivo-saules-panelu-meza</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1444,7 +1460,7 @@
       <link>https://www.saimnieks.lv/raksts/brunie-laci-latvija-ieteikumi-drosai-lidzaspastavesanai</link>
       <description>Saskaņā ar Latvijas Valsts mežzinātnes institūta Silava 2025. gada pētījumu...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/brunie-laci-latvija-ieteikumi-drosai-lidzaspastavesanai</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1452,7 +1468,7 @@
       <link>https://www.saimnieks.lv/raksts/man-jau-ir-tris-armanda-simsona-zobu-implantu-pieredzes-stasts</link>
       <description>Armands Simsons, Superbingo vadītājs un četru meitu tēvs, regulāri rūpējas ...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/man-jau-ir-tris-armanda-simsona-zobu-implantu-pieredzes-stasts</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1460,7 +1476,7 @@
       <link>https://www.saimnieks.lv/raksts/traktors-kas-lasa-tavas-domas-jauna-valtra-t-serija</link>
       <description>Somijas traktoru ražotājs Valtra iepazīstina ar jauno, sestās paaudzes T sē...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/traktors-kas-lasa-tavas-domas-jauna-valtra-t-serija</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1468,23 +1484,7 @@
       <link>https://www.saimnieks.lv/raksts/amazone-komunala-tehnika-precizitate-kas-palidz-paveikt-vairak</link>
       <description>Ziemas uzturēšanas darbos svarīgs ir ne tikai kaisāmā materiāla daudzums, b...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/amazone-komunala-tehnika-precizitate-kas-palidz-paveikt-vairak</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Somijā lauksaimniecības tehnoloģijas pārbauda reālos saimniekošanas apstākļos</title>
-      <link>https://www.saimnieks.lv/raksts/somija-lauksaimniecibas-tehnologijas-parbauda-realos-saimniekosanas-apstaklos</link>
-      <description>Lauksaimniecībā arvien plašāk tiek vākti un izmantoti dati par tehnikas dar...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/somija-lauksaimniecibas-tehnologijas-parbauda-realos-saimniekosanas-apstaklos</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Lauksaimniecības pārmaiņu laikā zināšanu pilnveide kļūst arvien nozīmīgāka</title>
-      <link>https://www.saimnieks.lv/raksts/lauksaimniecibas-parmainu-laika-zinasanu-pilnveide-klust-arvien-nozimigaka</link>
-      <description>Lauksaimniecības nozarē noteikumi mainās straujāk nekā laikapstākļi. Tuvojo...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lauksaimniecibas-parmainu-laika-zinasanu-pilnveide-klust-arvien-nozimigaka</guid>
-      <pubDate>Fri, 06 Nov 2026 06:20:53 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 14:31:03 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
