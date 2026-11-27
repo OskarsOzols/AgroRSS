@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>lv</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:57:31 +0000</lastBuildDate>
     <item>
       <title>[VAKS] Bayer Pirmssezonas seminārs Vidzemē!</title>
       <link>https://www.vaks.lv/bayer-pirmssezonas-seminars-vidzeme/</link>
@@ -440,13 +440,6 @@
       <guid isPermaLink="true">https://www.facebook.com/BayerCropScienceLatvija/posts/pfbid02QVHjr4NyibGyMu98e6YER25j8qzZRejjScXNtCsauSHM2t3daisMaGqeF3XGEQScl</guid>
       <pubDate>Mon, 12 Oct 2026 10:00:45 +0000</pubDate>
       <source url="https://www.facebook.com/BayerCropScienceLatvija/">Bayer CropScience Latvija</source>
-    </item>
-    <item>
-      <title>[Zemnieku Saeima] AGRIDATAVALUE projekta prezentācija “AGROSYM 2026”</title>
-      <link>https://zemniekusaeima.lv/aktualitate/agridatavalue-projekta-prezentacija-agrosym-2026/</link>
-      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/agridatavalue-projekta-prezentacija-agrosym-2026/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
     </item>
     <item>
       <title>[Zemnieku Saeima] Notika projekta NENUPHAR Ģenerālā asambleja un starpreģionālais seminārs</title>
@@ -1314,6 +1307,13 @@
       <source url="https://www.facebook.com/linasagro.lv/">Linas Agro (FB)</source>
     </item>
     <item>
+      <title>[Zemnieku Saeima] Aicinām piedalīties NENUPHAR projekta vebinārā par aprites ekonomikas risinājumiem un notekūdeņu dūņu komposta izmantošanu lauksaimniecībā!</title>
+      <link>https://zemniekusaeima.lv/aktualitate/aicinam-piedalities-nenuphar-projekta-vebinara-par-aprites-ekonomikas-risinajumiem-un-notekudenu-dunu-komposta-izmantosanu-lauksaimnieciba/</link>
+      <guid isPermaLink="true">https://zemniekusaeima.lv/aktualitate/aicinam-piedalities-nenuphar-projekta-vebinara-par-aprites-ekonomikas-risinajumiem-un-notekudenu-dunu-komposta-izmantosanu-lauksaimnieciba/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://zemniekusaeima.lv/aktualitates/">Zemnieku Saeima</source>
+    </item>
+    <item>
       <title>[LLKC] Igaunijas sadarbības partneri atzinīgi novērtē Latvijas digitālos risinājumus pārtikas jomā</title>
       <link>https://llkc.lv/aktualitates/igaunijas-sadarbibas-partneri-atzinigi-noverte-latvijas-digitalos-risinajumus-partikas-joma/</link>
       <description>24. novembrī Latvijas Lauku konsultāciju un izglītības centrs (LLKC) sadarbībā ar Zemkopības ministriju iepazīstināja Igaunijas Reģionālo lietu un lau...</description>
@@ -1334,7 +1334,7 @@
       <link>https://www.saimnieks.lv/raksts/noliktavas-plaukti-saimnieciba-praktiski-risinajumi-tehnikas-detalu-un-aprikojuma-uzglabasanai</link>
       <description>Lauksaimniecības uzņēmumos ikdienā tiek izmantots daudzveidīgs aprīkojums –...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/noliktavas-plaukti-saimnieciba-praktiski-risinajumi-tehnikas-detalu-un-aprikojuma-uzglabasanai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1342,7 +1342,55 @@
       <link>https://www.saimnieks.lv/raksts/latkredits-uzticami-un-atbildigi-kreditesanas-risinajumi-visa-latvija</link>
       <description>Finanšu pakalpojumu pieejamība ir būtiska gan Latvijas reģionu iedzīvotājie...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latkredits-uzticami-un-atbildigi-kreditesanas-risinajumi-visa-latvija</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Dienvidkurzemē atjaunotā ūdensnoteka uzlabo meliorācijas sistēmu darbību vairāk nekā 2300 hektāru platībā</title>
+      <link>https://www.saimnieks.lv/raksts/dienvidkurzeme-atjaunota-udensnoteka-uzlabo-melioracijas-sistemu-darbibu-vairak-neka-2300-hektaru-platiba</link>
+      <description>VSIA “Zemkopības ministrijas nekustamie īpašumi” (ZMNĪ) Dienvidkurzemes nov...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dienvidkurzeme-atjaunota-udensnoteka-uzlabo-melioracijas-sistemu-darbibu-vairak-neka-2300-hektaru-platiba</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Notiks ieinteresēto piegādātāju sanāksme par mežizstrādes darbu iepirkumu 2027.–2031. gadam</title>
+      <link>https://www.saimnieks.lv/raksts/notiks-ieintereseto-piegadataju-sanaksme-par-mezizstrades-darbu-iepirkumu-2027-2031-gadam</link>
+      <description>AS “Latvijas valsts meži” (LVM) aicina esošos un potenciālos sadarbības par...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/notiks-ieintereseto-piegadataju-sanaksme-par-mezizstrades-darbu-iepirkumu-2027-2031-gadam</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Lietotne “LDC Dati” turpmāk sauksies “Dzīvnieku dati”</title>
+      <link>https://www.saimnieks.lv/raksts/lietotne-ldc-dati-turpmak-sauksies-dzivnieku-dati</link>
+      <description>Ir mainīts lietotnes “LDC dati” nosaukums, turpmāk tā saucas “Dzīvnieku dat...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/lietotne-ldc-dati-turpmak-sauksies-dzivnieku-dati</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Dienvidkurzemes novadā par 181 000 eiro atjaunota ūdensnoteka meliorācijas sistēmā</title>
+      <link>https://www.saimnieks.lv/raksts/dienvidkurzemes-novada-par-181-000-eiro-atjaunota-udensnoteka-melioracijas-sistema</link>
+      <description>"Zemkopības ministrijas nekustamie īpašumi" (ZMNĪ) Dienvidkurzemes novada O...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dienvidkurzemes-novada-par-181-000-eiro-atjaunota-udensnoteka-melioracijas-sistema</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Igaunijas sadarbības partneri atzinīgi novērtē Latvijas digitālos risinājumus pārtikas jomā</title>
+      <link>https://www.saimnieks.lv/raksts/igaunijas-sadarbibas-partneri-atzinigi-noverte-latvijas-digitalos-risinajumus-partikas-joma</link>
+      <description>24. novembrī Latvijas Lauku konsultāciju un izglītības centrs (LLKC) sadarb...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/igaunijas-sadarbibas-partneri-atzinigi-noverte-latvijas-digitalos-risinajumus-partikas-joma</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
+      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
+    </item>
+    <item>
+      <title>[Saimnieks.lv] Farming with Climate 2026: no inovatīvām idejām līdz noturīgām pārmaiņām Eiropas lauku saimniecībās</title>
+      <link>https://www.saimnieks.lv/raksts/farming-with-climate-2026-no-inovativam-idejam-lidz-noturigam-parmainam-eiropas-lauku-saimniecibas</link>
+      <description>38 iedvesmas un padziļināto diskusiju sesijas, oficiāla platformas atklāšan...</description>
+      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/farming-with-climate-2026-no-inovativam-idejam-lidz-noturigam-parmainam-eiropas-lauku-saimniecibas</guid>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1350,7 +1398,7 @@
       <link>https://www.saimnieks.lv/raksts/meza-valsts-registram-ieviesis-daudzfaktoru-autentifikaciju</link>
       <description>Lai uzlabotu Meža valsts reģistra kiberdrošību un aizsargātu tajā esošos da...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/meza-valsts-registram-ieviesis-daudzfaktoru-autentifikaciju</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1358,7 +1406,7 @@
       <link>https://www.saimnieks.lv/raksts/ko-darit-ja-provizoriskaja-iesnieguma-neatveras-lauku-bloku-karte</link>
       <description>Lauku atbalsta dienests informē, ka, aizpildot Provizorisko iesniegumu Vien...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ko-darit-ja-provizoriskaja-iesnieguma-neatveras-lauku-bloku-karte</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1366,7 +1414,7 @@
       <link>https://www.saimnieks.lv/raksts/eagronom-kluvis-par-pirmo-uznemumu-eiropa-kas-izsniedzis-augsnes-oglekla-kreditus-jau-otro-reizi-pec-kartas</link>
       <description>Otrajā izsniegšanā Latvijā un reģionā (Igaunijā, Lietuvā un Polijā) no sezo...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/eagronom-kluvis-par-pirmo-uznemumu-eiropa-kas-izsniedzis-augsnes-oglekla-kreditus-jau-otro-reizi-pec-kartas</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1374,7 +1422,7 @@
       <link>https://www.saimnieks.lv/raksts/aptauja-57-latvijas-iedzivotaju-tuvakajos-tris-menesos-prognoze-ekonomiskas-situacijas-pasliktinasanos</link>
       <description>Latvijā 57% iedzīvotāju tuvākajos trīs mēnešos prognozē ekonomiskās situāci...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aptauja-57-latvijas-iedzivotaju-tuvakajos-tris-menesos-prognoze-ekonomiskas-situacijas-pasliktinasanos</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1382,7 +1430,7 @@
       <link>https://www.saimnieks.lv/raksts/deputati-atbalsta-jaunus-pasakumus-es-biologiskas-lauksaimniecibas-aizsardzibai</link>
       <description>Deputāti galīgajā balsojumā atjaunināja noteikumus, kas nosaka atbalstu bio...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/deputati-atbalsta-jaunus-pasakumus-es-biologiskas-lauksaimniecibas-aizsardzibai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1390,7 +1438,7 @@
       <link>https://www.saimnieks.lv/raksts/aptauja-latvija-50-iedzivotaju-dotu-prieksroku-lielakai-algai-sodien-nevis-papildu-uzkrajumam-pensijai</link>
       <description>Latvijā 50% iedzīvotāju dotu priekšroku lielākai algai šodien, nevis papild...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aptauja-latvija-50-iedzivotaju-dotu-prieksroku-lielakai-algai-sodien-nevis-papildu-uzkrajumam-pensijai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1398,7 +1446,7 @@
       <link>https://www.saimnieks.lv/raksts/nodota-svaigpiena-apmers-latvija-desmit-menesos-samazinajies-par-26</link>
       <description>Pārstrādei nodotā svaigpiena apmērs šogad desmit mēnešos Latvijā samazināji...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/nodota-svaigpiena-apmers-latvija-desmit-menesos-samazinajies-par-26</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
     <item>
@@ -1406,55 +1454,7 @@
       <link>https://www.saimnieks.lv/raksts/zemkopibas-ministrs-edgars-putra-iezime-tris-galvenas-darba-prioritates</link>
       <description>Sākot vadīt Zemkopības ministriju, ministrs Edgars Putra izvirzījis trīs ga...</description>
       <guid isPermaLink="true">https://www.saimnieks.lv/raksts/zemkopibas-ministrs-edgars-putra-iezime-tris-galvenas-darba-prioritates</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Turpina augt iedzīvotāju un darba devēju iemaksas pensiju 3. līmenī</title>
-      <link>https://www.saimnieks.lv/raksts/turpina-augt-iedzivotaju-un-darba-deveju-iemaksas-pensiju-3-limeni</link>
-      <description>Darbinieku labumu grozs arvien biežāk sniedzas tālāk par veselības apdrošin...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/turpina-augt-iedzivotaju-un-darba-deveju-iemaksas-pensiju-3-limeni</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Ir jāpaaugstina Latvijas meža produktivitāte un koksnes izmantošana bioekonomikai</title>
-      <link>https://www.saimnieks.lv/raksts/ir-japaaugstina-latvijas-meza-produktivitate-un-koksnes-izmantosana-bioekonomikai</link>
-      <description>17. novembrī, Parīzē notika Ekonomiskās sadarbības un attīstības organizāci...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/ir-japaaugstina-latvijas-meza-produktivitate-un-koksnes-izmantosana-bioekonomikai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Latvijas ekonomika aug straujākajā tempā četru gadu laikā, taču būvniecībā parādās brīdinājuma signāli</title>
-      <link>https://www.saimnieks.lv/raksts/latvijas-ekonomika-aug-straujakaja-tempa-cetru-gadu-laika-tacu-buvnieciba-paradas-bridinajuma-signali</link>
-      <description>Latvijas ekonomika šogad uzrāda spēcīgāko izaugsmi pēdējo četru gadu laikā,...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/latvijas-ekonomika-aug-straujakaja-tempa-cetru-gadu-laika-tacu-buvnieciba-paradas-bridinajuma-signali</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Izziņota konferences “Vesela saimniecība – realitāte un dzīvotspēja” programma. Aicinām reģistrēties dalībai!</title>
-      <link>https://www.saimnieks.lv/raksts/izzinota-konferences-vesela-saimnieciba-realitate-un-dzivotspeja-programma-aicinam-registreties-dalibai</link>
-      <description>Kā saglabāt saimniecības dzīvotspēju un vienlaikus nepazaudēt savu spēku? U...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/izzinota-konferences-vesela-saimnieciba-realitate-un-dzivotspeja-programma-aicinam-registreties-dalibai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Dabasgāzes cena pārsniegusi kritisko robežu: ko tas nozīmē Latvijas rūpniecībai?</title>
-      <link>https://www.saimnieks.lv/raksts/dabasgazes-cena-parsniegusi-kritisko-robezu-ko-tas-nozime-latvijas-rupniecibai</link>
-      <description>Lai gan dabasgāzes cenas Eiropā nesen sarukušas par vairāk nekā 20 %, iepri...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/dabasgazes-cena-parsniegusi-kritisko-robezu-ko-tas-nozime-latvijas-rupniecibai</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
-      <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
-    </item>
-    <item>
-      <title>[Saimnieks.lv] Aicinām savlaicīgi plānot sēklu paraugu iesniegšanu decembrī!</title>
-      <link>https://www.saimnieks.lv/raksts/aicinam-savlaicigi-planot-seklu-paraugu-iesniegsanu-decembri</link>
-      <description>Tuvojoties gada nogalei un svētku laikam, Valsts augu aizsardzības dienesta...</description>
-      <guid isPermaLink="true">https://www.saimnieks.lv/raksts/aicinam-savlaicigi-planot-seklu-paraugu-iesniegsanu-decembri</guid>
-      <pubDate>Fri, 27 Nov 2026 00:24:58 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 08:57:31 +0000</pubDate>
       <source url="https://www.saimnieks.lv/visi-jaunumi">Saimnieks.lv</source>
     </item>
   </channel>
